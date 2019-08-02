@@ -11,6 +11,6 @@ We store the report without any personal information that can identify the submi
 
 The stored data is: Country, GPS Coordinates, Problem Type, Description (optional), one Photo (optional).
 
-All this data is selected and inserted by the user.
+All this data is selected and inserted by the user. It is used to maintain, monitor and update the TET gpx files and inform, if required, TET users. Following review and utilisation by the Linesmen it is deleted.
 
 We do not track or save any IP, phone detail, username or any element that can track the user identification.
