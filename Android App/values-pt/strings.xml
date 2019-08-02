@@ -4,16 +4,16 @@
     <string name="tet_logo_description">TET LOGO</string>
     <string name="top_message_text">Respeito pelos Trilhos. Respeito pelo Ambiente. Respeito pelas Comunidades por onde viajamos.</string>
     <string name="footer_tet_website">Website</string>
-    <string name="footer_tet_contribute">Contribute</string>
+    <string name="footer_tet_contribute">Contribui</string>
     <string name="ok">OK</string>
-    <string name="Wrong_Activity_Key">Wrong key for this activity!</string>
-    <string name="Null_Key">No key to validate this activity!</string>
-    <string name="No_Bundle_Extras">No bundle extras for this activity!</string>
-    <string name="cancel">Cancel</string>
+    <string name="Wrong_Activity_Key">Chave errada para esta actividade!</string>
+    <string name="Null_Key">Sem chave para validar esta actividade!</string>
+    <string name="No_Bundle_Extras">Bundle sem extras para esta actividade!</string>
+    <string name="cancel">Cancelar</string>
     <string name="Camera">Camera</string>
-    <string name="Local_Gallery_File">Gallery</string>
-    <string name="yes">Yes</string>
-    <string name="later">Later</string>
+    <string name="Local_Gallery_File">Galeria</string>
+    <string name="yes">Sim</string>
+    <string name="later">Mais Tarde</string>
 
     <!--MAIN VIEW-->
     <string name="pending_notification">0</string>
