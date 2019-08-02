@@ -7,17 +7,17 @@ Created by our community.
 Provided for free.
 
 
-##TET Website URL:
-##===============
+## TET Website URL:
+## ===============
 https://www.transeurotrail.org/
 
 
-##Android App URL:
-##===============
+## Android App URL:
+## ===============
 https://play.google.com/store/apps/details?id=com.obsidianpc.tet
 
     
-##Privacy Policy:
-##==============
+## Privacy Policy:
+## ==============
 
 https://github.com/johnkeel-obsidian/TET/blob/master/Privacy.md
