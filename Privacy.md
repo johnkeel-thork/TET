@@ -14,10 +14,3 @@ The stored data is: Country, GPS Coordinates, Problem Type, Description (optiona
 All this data is selected and inserted by the user.
 
 We do not track or save any IP, phone detail, username or any element that can track the user identification.
-
-
-
-Website
--------
-
-New Website is under development at the moment...
