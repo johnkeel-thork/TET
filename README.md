@@ -7,6 +7,9 @@ Created by our community.
 Provided for free.
 
 
+[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+
+
 ### TET Website URL:
 https://www.transeurotrail.org/
 
