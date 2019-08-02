@@ -9,7 +9,9 @@ Provided for free.
 
 ### Help Translate the Android App:
 Please Submit for the Android App Translation:
+
 https://github.com/johnkeel-obsidian/TET/blob/master/Android%20App/values/strings.xml
+
 
 
 =====================
