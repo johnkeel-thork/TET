@@ -7,6 +7,11 @@ Created by our community.
 Provided for free.
 
 
+### Help Translate the Android App:
+Please Submit for the Android App Translation:
+Android% App/values/strings.xml
+
+
 =====================
 
 
