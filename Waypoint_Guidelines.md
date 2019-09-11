@@ -1,7 +1,7 @@
 # WAYPOINT ICONS GUIDELINES
 
 
-## The Waypoint Icons are the <sym> </sym> tags inside a GPX file
+## The Waypoint Icons are the > <sym> > </sym> tags inside a GPX file
 
 
 Simple Waypoint Example with the restaurant icon:
