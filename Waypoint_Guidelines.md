@@ -16,7 +16,11 @@ Simple Waypoint Example with the restaurant icon:
 
 ===============================================================
 
-# PLEASE FOLLOW THESE GUIDELINES WHEN ADDING A WAYPOINT:
+## PLEASE FOLLOW THESE GUIDELINES
+
+This will ensure that all tracks have the same type of waypoints and it will make it easier to visually identify them.
+
+===============================================================
 
 
 ## FOR TRACK CONDITIONS:
