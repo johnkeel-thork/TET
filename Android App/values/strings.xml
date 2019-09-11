@@ -33,6 +33,9 @@
     <string name="join_title">Community</string>
     <string name="join_button_text">ENGAGE</string>
     <string name="join_community_image_description">Online Community</string>
+    <!--Splash Message-->
+    <string name="tet_splash_message">Europe\'s Epic Motorcycle Adventure</string>
+    <string name="touch_to_continue">Tap to Continue</string>
     <!--END OF MAIN VIEW-->
 
     <!--COMMUNITY VIEW-->
@@ -52,7 +55,7 @@
 
     <!--CONTRIBUTE VIEW-->
     <string name="contribute_title">Make your first fuel stop right here&#8230;</string>
-    <string name="contribute_subtitle">The Trans Euro TrailÂ® is fuelled by passion, maintained by riders and supported by YOU. Best of all, itâ€™s free of charge and intends to stay that way!</string>
+    <string name="contribute_subtitle">The Trans Euro Trail® is fuelled by passion, maintained by riders and supported by YOU. Best of all, it’s free of charge and intends to stay that way!</string>
     <string name="contribute_text_button">READ MORE</string>
     <string name="contribute_buy_merch">BUY MERCH</string>
     <string name="contribute_app_developer">CONTRIBUTE APP</string>
@@ -61,15 +64,15 @@
     <string name="merch_title">Official TET Merchandising</string>
     <string name="merch_subtitle">Spread the TET vibes with our Ts and heavy duty bike stickers, or splash out on the ADV Spec Linesman trail riding jacket, developed especially for the TET.</string>
     <string name="t_shirt_image_description">The Official TET Tshirt</string>
-    <string name="t_shirt_title">Trans Euro TrailÂ® T-shirt</string>
-    <string name="t_shirt_description">Show your love by wearing our logo! \n\nÂ£24.90 + postage</string>
+    <string name="t_shirt_title">Trans Euro Trail® T-shirt</string>
+    <string name="t_shirt_description">Show your love by wearing our logo! \n\n£24.90 + postage</string>
     <string name="Buy_Tshirt_button_text">BUY</string>
-    <string name="sticker_title">Trans Euro TrailÂ® Sticker</string>
-    <string name="sticker_description">Your motorcycle needs this so much! \n\nÂ£2.40 + postage</string>
+    <string name="sticker_title">Trans Euro Trail® Sticker</string>
+    <string name="sticker_description">Your motorcycle needs this so much! \n\n£2.40 + postage</string>
     <string name="sticker_image_description">The official TET Sticker</string>
     <string name="jacket_title">ADV Spec Linesman Jacket</string>
     <string name="jacket_image_description">The official ADV Linesman Jacket</string>
-    <string name="jacket_description">Windproof/breathable with Du Pontâ„¢ KevlarÂ® \n\nÂ£249 + postage</string>
+    <string name="jacket_description">Windproof/breathable with Du Pont™ Kevlar® \n\n£249 + postage</string>
 
     <!--REPORT TRACK PROBLEM VIEW-->
     <string name="title_activity_maps">Map</string>
@@ -110,9 +113,9 @@
     <string name="error_restart_title">Something went wrong!</string>
     <string name="error_restart_message">Please try creating a report again!</string>
     <string name="error_upload_later_title">Could not connect to server</string>
-    <string name="error_upload_later_message">This log will be saved and it will be submitted when itÂ´s possible to connect to the server.</string>
+    <string name="error_upload_later_message">This log will be saved and it will be submitted when it´s possible to connect to the server.</string>
     <string name="No_Internet_title">Offline Report Mode</string>
-    <string name="No_Internet_message">There is no Internet connection, but ItÂ´s fine, the map may not properly be displayed but your location will still be captured. The log will also be saved as a Pending Report which will be sent when you have Internet access.</string>
+    <string name="No_Internet_message">There is no Internet connection, but It´s fine, the map may not properly be displayed but your location will still be captured. The log will also be saved as a Pending Report which will be sent when you have Internet access.</string>
     <string name="pending_report_title_1">You have</string>
     <string name="pending_report_title_2">pending reports</string>
     <string name="pending_report_message">Do you want to submit them now?</string>
@@ -140,9 +143,9 @@
     <string name="tracks_view_subtitle">Track Information</string>
     <string name="open_track">OPEN TRACK</string>
     <string name="generating_list">Generating List</string>
-    <string name="loading_tracks_title">Fetching Country List</string>
     <string name="delete_local_file">DELETE FILE</string>
     <string name="gpx_open_dialog">Loading GPX File</string>
+    <string name="fetching_country_list">Fetching Countries List</string>
     <string name="track_download_progress">Downloading Track</string>
     <string name="track_browser_noInternet_title">No Connection - Offline Mode</string>
     <string name="track_browser_noInternet_message">There is no Internet access or there was a problem connecting to the server. You are only able to view your previous downloaded tracks (local files).</string>
@@ -176,19 +179,19 @@
     <string name="disclaimer_agree">Agree</string>
     <string name="disclaimer_agree_dontshow">Agree &amp; never show</string>
     <string name="disclaimer_refuse">Refuse</string>
-    <string name="disclaimer_message">By continuing to the download and in using the Trans Euro TrailÂ® files, you are accepting and agree to everything below.
+    <string name="disclaimer_message">By continuing to the download and in using the Trans Euro Trail® files, you are accepting and agree to everything below.
 \n\n
-1. The GPX is issued by the Trans Euro TrailÂ® Community Interest Company, Company No. 11371199, Address: Unit 3, Cragg Road, Mytholmroyd, Hebden Bridge, West Yorkshire, HX7 5HR, United Kingdom.
+1. The GPX is issued by the Trans Euro Trail® Community Interest Company, Company No. 11371199, Address: Unit 3, Cragg Road, Mytholmroyd, Hebden Bridge, West Yorkshire, HX7 5HR, United Kingdom.
 \n\n
 2. The GPX is issued free of charge and is provided "as is," with all faults, defects and errors, and without warranty of any kind.
 \n\n
 3. The accuracy of the trail is not guaranteed, nor are the GPS co-ordinates.
 \n\n
-4. The Trans Euro TrailÂ® is a suggestion not a direction.
+4. The Trans Euro Trail® is a suggestion not a direction.
 \n\n
-5. The Trans Euro TrailÂ® Community Interest Company does not represent or warrant that materials in the site or the services are accurate, complete, reliable, current or error-free.
+5. The Trans Euro Trail® Community Interest Company does not represent or warrant that materials in the site or the services are accurate, complete, reliable, current or error-free.
 \n\n
-6. The Trans Euro TrailÂ® Community Interest Company cannot represent or warrant that the site or its servers are free of viruses or other harmful components.
+6. The Trans Euro Trail® Community Interest Company cannot represent or warrant that the site or its servers are free of viruses or other harmful components.
 \n\n
 7. You undertake not to share this GPX on any electronic file sharing device or server.
 \n\n
@@ -204,18 +207,18 @@
 \n\n
 13. Many country trails are rarely maintained. You will find ruts, holes, floods, treacherous surfaces and the occasional booby trap hazard deliberately placed by people who do not like motorcycles using trails.
 \n\n
-14. When you use the trails and roads, you are on your own. You exercise your judgement in your own skills and your own navigation. All the Trans Euro TrailÂ® Community Interest Company can do is show you where some of the trails are, but their legality and viability are not confirmed and can change at a moment\'s notice.
+14. When you use the trails and roads, you are on your own. You exercise your judgement in your own skills and your own navigation. All the Trans Euro Trail® Community Interest Company can do is show you where some of the trails are, but their legality and viability are not confirmed and can change at a moment\'s notice.
 \n\n
 15. You undertake to respect and adhere to road signs, barriers and local laws. The decision to use a road or trail is entirely yours and you accept that you bear full responsibility for your action or any infringements of the law.
 \n\n
-16. The Trans Euro TrailÂ® Community Interest Company shall not have any liability for use of the GPX, directly or indirectly arising out of its use or in any way involving any Claim which is brought in any jurisdiction other than the United Kingdom, Isle of Man or Channel Islands.
+16. The Trans Euro Trail® Community Interest Company shall not have any liability for use of the GPX, directly or indirectly arising out of its use or in any way involving any Claim which is brought in any jurisdiction other than the United Kingdom, Isle of Man or Channel Islands.
 \n\n
 17. Motorcycling carries risks. Adventure motorcycling adds to these:\n
 a. Mobile phone coverage may be patchy or non-existent so summoning help may be limited. If help is summoned it may struggle to reach you and you may incur high costs. Unpaved tracks vary from gravel to broken tar to sand to stone to boulder to grass. Each carries its own challenges of grip, stability and unpredictability all of which vary immensely with weather conditions which can change quickly especially in mountain areas.\n
 b. The physical demands of riding a motorcycle, laden or otherwise, off road are not to be underestimated. If you drop it, picking it up can be hard work and recovering it from a hillside, river or mud hole where it has slipped can be exhausting. Add into the mix the variable climate in Europe - subzero to high 30s and above - and heat, cold and dehydration can impair performance and make a dangerous cocktail when mixed with the complex task of off pavement riding.\n
-c. Navigation can be challenging, especially without practicing using GPS or maps on the move, on the â€œwrong" side of the road or with signposts in an unfamiliar script.\n
+c. Navigation can be challenging, especially without practicing using GPS or maps on the move, on the “wrong" side of the road or with signposts in an unfamiliar script.\n
 d. Mechanical issues easily sorted out in one's own garage or home city can become much more of a challenge away from home in an area with poor infrastructure or dealer knowledge. \n
-e. Local adults and children (and animals!) may be unfamiliar with motorcycles or their capabilities and misjudge situations. Driving standards and discipline vary hugely and often the perception is â€œmight is rightâ€ with scant regard being paid to the little guy on a motorbike. \n
+e. Local adults and children (and animals!) may be unfamiliar with motorcycles or their capabilities and misjudge situations. Driving standards and discipline vary hugely and often the perception is “might is right” with scant regard being paid to the little guy on a motorbike. \n
 f. Local wildlife both domestic and wild can pose risks. Bears and wolves are present in some areas, snakes in others, wild roaming reindeer in the far north and cattle and dogs are all over. \n
 g. Laws and regulations are always changing across the continent, so a trail that contributors thought was legal, may not now be so. This may lead to conflict with the authorities, communities, landowners or other users - anything from a glance, a shout or a waved fist to arrest, prosecution, litigation, bike confiscation, fine or loss of licence or liberty.\n
 h. Concepts and practice of sanitation and hygiene vary immensely and medical facilities can be scarce, suboptimal or distant.\n
@@ -235,13 +238,13 @@ k. In Bosnia, Croatia and other locations the detritus of war still exists in th
 \n\n
 23. Moderate your speed.
 \n\n
-24. Get bike fit. If youâ€™ve got a medical condition then think carefully and take some medical advice.
+24. Get bike fit. If you’ve got a medical condition then think carefully and take some medical advice.
 \n\n
 25. Start the trip with a travel ready bike. Get familiar with your bike, what daily checks to make and how to fix issues with it.
 \n\n
 26. Take security precautions with your possessions and self.
 \n\n
-27. You agree to adhere to the Trans Euro TrailÂ® Code of Conduct and be an ambassador of responsible motorcycling.
+27. You agree to adhere to the Trans Euro Trail® Code of Conduct and be an ambassador of responsible motorcycling.
 \n\n
 28. Accept that you are master or mistress of your own destiny, safety, health and security. You take responsibility for whatever happens.</string>
 
