@@ -16,6 +16,8 @@ Simple Waypoint Example with the restaurant icon:
 
 ===============================================================
 
+# PLEASE FOLLOW THESE GUIDELINES WHEN ADDING A WAYPOINT:
+
 
 ## FOR TRACK CONDITIONS:
 
