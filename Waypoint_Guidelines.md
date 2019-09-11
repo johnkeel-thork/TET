@@ -56,29 +56,29 @@ This will ensure that all tracks have the same type of waypoints and it will mak
 
 "Shopping Center" or "Convenience Store"
 
-"Water Source" or "Drinking Water" - A place where user can drik and re-fill on water
+"Water Source" or "Drinking Water" - A place where user can drink and re-fill water
 
-"Military" - Military Controlled Areas or Anything like a Military Base
+"Military" - Military Controlled Areas or anything like a military base
 
-"Crossing" - For specific crossings like Railway Line crossing or for when a Trail section crosses a Public Paved Road?
+"Crossing" - For specific crossings like railway crossing or for when the track section crosses a public paved road
 
-"Cave" or "Mine" - Both the same Cave like icon
+"Cave" or "Mine" - Both use the same cave like icon
 
-"Bank" - Bank for Money Withdraw - We can use it for ATMs too
+"Bank" - Bank for money withdraw - We can use it for ATMs too
 
 "Medical Facility" - Hospitals or places with emergency treatment
 
-"Pharmacy" - Exclusive for Pharmacy (where you can buy meds)
+"Pharmacy" - Exclusive for pharmacy (where you can buy meds)
 
-"Civil" - Public services buildings like town hall
+"Civil" - Public service buildings like Town Hall not to be used for Informations
 
-"Parking" - Parking Lot / Parking Space - A place to leave the car or motorcycle
+"Parking" - Parking Lot / Parking Space - A place to leave the car or motorcycle parked
 
-"RV Park" - Specific Parking Places for RVs
+"RV Park" - Specific parking places for RVs
 
 "Museum"
 
-"Telephone" - Emergency Phone or Phone booth
+"Telephone" - Emergency phone or phone booth
 
 "Restrooms" - Public restrooms, you know, expell your inner evil
 
@@ -94,11 +94,11 @@ This will ensure that all tracks have the same type of waypoints and it will mak
 
 "Lodge"
 
-"Campground" - Either a Camping Park or a spot in the wild where you can camp
+"Campground" - Either a camping park or a spot in the wild where you can camp
 
 "Airport"
 
-"Scenic Area" - Worth taking some pictures
+"Scenic Area" - A place worth taking some pictures
 
 "Church"
 
@@ -122,6 +122,6 @@ This will ensure that all tracks have the same type of waypoints and it will mak
 
 "Police Station" - "respect the authoritah!!!!"
 
-"Toll Booth" - Use this for Toll or any other type of human made Barrier
+"Toll Booth" - Use this for Toll or any other type of human made barrier
 
 ===============================================================
