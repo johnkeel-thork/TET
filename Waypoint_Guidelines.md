@@ -11,7 +11,7 @@ Simple Waypoint Example with the restaurant icon:
 </wpt>
 
 
-==================================================================================
+===============================================================
 
 
 FOR TRACK CONDITIONS:
@@ -20,14 +20,14 @@ FOR TRACK CONDITIONS:
 "Flag, Green" - Easy Section
 "Flag, Blue" - Other type of section or to mark end of the previous section
 
-==================================================================================
+===============================================================
 
 FOR WARNINGS:
 
 "Circle, Red" - Very Important Notice
 "Circle with X" or "Restricted Area" - To mark areas where riders should NOT enter
 
-==================================================================================
+===============================================================
 
 FOR POIs:
 
@@ -71,4 +71,4 @@ FOR POIs:
 "Police Station" - "respect the authoritah!!!!"
 "Toll Booth" - Use this for Toll or any other type of human made Barrier
 
-==================================================================================
+===============================================================
