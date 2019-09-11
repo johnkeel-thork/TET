@@ -1,23 +1,23 @@
 # WAYPOINT ICONS GUIDELINES
 
 
-##The Waypoint Icons are the <sym></sym> tags inside a GPX file
+## The Waypoint Icons are the <sym></sym> tags inside a GPX file
 
 
 Simple Waypoint Example with the restaurant icon:
 
 
-<wpt lat="37.25712776184082" lon="-7.956011295318604">
-    <name>Cafe Cortelha</name>
-    <desc>Very good!!</desc>
-    <sym>Restaurant</sym>
-</wpt>
+> <wpt lat="37.25712776184082" lon="-7.956011295318604">
+>     <name>Cafe Cortelha</name>
+>     <desc>Very good!!</desc>
+>     <sym>Restaurant</sym>
+> </wpt>
 
 
 ===============================================================
 
 
-FOR TRACK CONDITIONS:
+## FOR TRACK CONDITIONS:
 
 
 "Flag, Red" - Difficult Section
@@ -28,7 +28,7 @@ FOR TRACK CONDITIONS:
 
 ===============================================================
 
-FOR WARNINGS:
+## FOR WARNINGS:
 
 
 "Circle, Red" - Very Important Notice
@@ -37,7 +37,7 @@ FOR WARNINGS:
 
 ===============================================================
 
-FOR POIs:
+## FOR POIs:
 
 
 "ATV" - A place where there are usually other trail bikes riding
