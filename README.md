@@ -39,4 +39,4 @@ https://play.google.com/store/apps/details?id=com.obsidianpc.tet
 
     
 ### Privacy Policy:
-https://github.com/johnkeel-obsidian/TET/blob/master/Privacy.md
+https://github.com/johnkeel-thork/TET/blob/master/Privacy.md
