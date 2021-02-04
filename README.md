@@ -15,7 +15,7 @@ Provided for free.
 
 Please Submit for the Android App Translation!
 
-https://github.com/johnkeel-thork/DMD2/tree/main/app/src/main/res
+https://github.com/johnkeel-thork/TET/tree/master/Android%20App
 
 
 Following the Android schemas:
