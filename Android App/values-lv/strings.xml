@@ -1,0 +1,288 @@
+<resources>
+    <!--COMMON TO ALL VIEWS-->
+    <string name="app_name">TET</string>
+    <string name="tet_logo_description">TET LOGO</string>
+    <string name="top_message_text">Cieniet Takas, Cieniet Vidi. Cieniet vietējās kopienas, kam braucam cauri.</string>
+    <string name="footer_tet_website">Web lapa</string>
+    <string name="footer_tet_contribute">Dot ieguldījumu</string>
+    <string name="ok">OK</string>
+    <string name="Wrong_Activity_Key">Nepareizā atslēga šai darbībai!</string>
+    <string name="Null_Key">Nav atslēgas, lai validētu šo darbību!</string>
+    <string name="No_Bundle_Extras">Nav papildus pakotnes šai darbībai!</string>
+    <string name="cancel">Atcelt</string>
+    <string name="Camera">Kamera</string>
+    <string name="Local_Gallery_File">Galerija</string>
+    <string name="yes">Jā</string>
+    <string name="later">Vēlāk</string>
+
+    <!--MAIN VIEW-->
+    <string name="pending_notification">0</string>
+    <!--Button: TET Tracks Browser-->
+    <string name="browser_tet_tracks_title">TET Takas</string>
+    <string name="browser_button_text">PĀRLŪKOT</string>
+    <string name="browser_image_description">Pārlūkot TET Takas</string>
+    <!--Button: Report Route Problems-->
+    <string name="report_route_problem_title">Problēma ar taku</string>
+    <string name="report_button_text">PAZIŅOT</string>
+    <string name="report_route_image_description">Paziņot par problēmu ar taku</string>
+    <!--Button: POIs-->
+    <string name="poi_title">Drīzumā…</string>
+    <string name="poi_button">DRĪZUMĀ…</string>
+    <string name="poi_image_description">Interesējošie punkti</string>
+    <!--Button: Community / Share-->
+    <string name="join_title">Kopiena</string>
+    <string name="join_button_text">IESAISTĪTIES</string>
+    <string name="join_community_image_description">Online Kopiena</string>
+    <!--Splash Message-->
+    <string name="tet_splash_message">Eiropas Episks Moto Piedzīvojums</string>
+    <string name="touch_to_continue">Spiest, lai turpinātu</string>
+    <!--END OF MAIN VIEW-->
+
+    <!--COMMUNITY VIEW-->
+    <!--Button: Facebook Group-->
+    <string name="facebook_tet_group_title">Facebook TET Grupa</string>
+    <string name="facebook_icon_image_description">TET Facebook Attēla Ikona</string>
+    <string name="facebook_description">Satieciet citus TET biedrus un dalieties ar Jūsu pieredzi</string>
+    <!--Button: Online Forum Page-->
+    <string name="tet_forum_title">TET Online Forums</string>
+    <string name="tet_forum_description">Vieta padomiem, ziņojumiem un veselīgām diskusijām</string>
+    <string name="tet_forum_icon_image_description">Officiālais TET online forums</string>
+    <string name="tet_contribute_image_description">TET Atbalstam</string>
+    <!--Button: Code of Conduct-->
+    <string name="tet_code_icon_description">Rīcības kodekss</string>
+    <string name="tet_code_title">Rīcības kodekss</string>
+    <string name="tet_code_description">Lasīt par TET Rīcības kodeksu web lapā</string>
+    <!--Button: Integrations-->
+    <string name="tet_integration_title">TET Integrētas Aplikācijas</string>
+    <string name="tet_integration_description">Android Aplikācijas, kas integrējas ar TET aplikāciju</string>
+
+    <!--Integration VIEW-->
+    <string name="integration_title">Aplikācijas, kas integrējas ar TET aplikāciju</string>
+    <string name="integration_description">Kad aplikācija integrējas ar TET aplikācijas API, kopumā uzlabojas lietotāja pieredze. Tas ir vienkārši, ātri un ērti!</string>
+    <string name="integration_example_video">PARAUGA VIDEO</string>
+    <string name="integration_contact">SAZIŅA AR MUMS</string>
+    <string name="integration_add_yours">Vai Jūs izstrādājat navigācijas aplikācijas vai citādi TET noderīgas lietotnes? Vai Jūs vēlaties integrēties ar mūsu API? Spiediet uz SAZIŅA AR MUMS un pastāstiet par to. Lūdzu apskatieties arī parauga video.</string>
+    <string name="download">LEJUPIELĀDE</string>
+    <string name="drivemode_title">Braukšanas režīma Panelis</string>
+    <string name="drivemode_description">Brīvi pielāgojams panelis Jūsu motociklam. Izveidojiet ceļojumu pierakstus, navigējiet izmantojot GPS datnes ar offline kartēm, ierakstiet savas GPX datnes, saglabājiet un apskatiet lokācijas, iegūstiet detalizētu informāciju par laikapstākļiem un daudz citu funkciju. \n\nIzstrādājis TET aplikācijas veidotājs. Mūsu mērķis ir būt par visaptverošu risinājumu TET!</string>
+
+    <!--CONTRIBUTE VIEW-->
+    <string name="contribute_title">Veiciet savu pirmo degvielas uzpildi šeit&#8230;</string>
+    <string name="contribute_subtitle">Trans Euro Trail® uztur kaisle pret motobraukšanu, to atbalsta motobraucēji un Tu. Vislabākais: tā ir par brīvu un mērķis ir to tieši tādu saglabāt!</string>
+    <string name="contribute_text_button">LASĪT VAIRĀK</string>
+    <string name="contribute_buy_merch">PIRKT TET PRECES</string>
+    <string name="contribute_app_developer">DOT SAVU IEGULDĪJUMU APLIKĀCIJĀ</string>
+    <string name="contribute_options_text">Šie ir veidi, kā Tu vari palīdzēt TET aplikācijai:</string>
+    <!--Merch SubView-->
+    <string name="merch_title">Oficiālās TET Preces</string>
+    <string name="merch_subtitle">Izplati TET garu ar mūsu T krekliem, uzlīmēm vai ieguldies ADV Spec Linesman taku braucēja jakā, kas ir speciāli izveidota TET vajadzībām.</string>
+    <string name="t_shirt_image_description">Oficiālais TET T-krekls</string>
+    <string name="t_shirt_title">Trans Euro Trail® T-krekls</string>
+    <string name="t_shirt_description">Nodemonstrē savu mīlestību, valkājot mūsu logo! \n\n£24.90 + pasta izdevumi</string>
+    <string name="Buy_Tshirt_button_text">PIRKT</string>
+    <string name="sticker_title">Trans Euro Trail® uzlīme</string>
+    <string name="sticker_description">Tavam motociklam to ļoti vajag! \n\n£2.40 + pasta izdevuim</string>
+    <string name="sticker_image_description">Oficiālā TET uzlīme</string>
+    <string name="jacket_title">ADV Spec Linesman jaka</string>
+    <string name="jacket_image_description">Oficiālā ADV Linesman jaka</string>
+    <string name="jacket_description">Vējizturīga/elpojoša ar Du Pont™ Kevlar® \n\n£249 + pasta izdevumi</string>
+
+    <!--REPORT TRACK PROBLEM VIEW-->
+    <string name="title_activity_maps">Karte</string>
+    <string name="marker_report_location">Paziņot šo lokāciju</string>
+    <string name="map_instructions">Pieskarieties un turiet jebkur uz kartes, lai marķētu šo lokāciju. Spiediet uz “mērķa” augšējā labajā stūrī, lai pārietu uz Jūsu atrašanās vietu. Ja esat offline režīmā, lūdzu pārliecinieties, ka fiziski esat problemātiskajā vietā un, ka Jums ir GPS signāls.</string>
+    <string name="error_fetching_countryname_title">Kļūda iegūstot valsts nosaukumu</string>
+    <string name="error_fetching_countryname_message">Mēs nevaram iegūt Jūsu valsts nosaukumu, lūdzu izvēlieties karti no saraksta nākošajā solī.</string>
+    <string name="report_second_step_next">NĀKOŠAIS SOLIS</string>
+    <string name="report_step2_title">Paziņot par takas problēmu</string>
+    <string name="report_location_text">Koordinātas:</string>
+    <string name="report_finish_next">NĀKOŠAIS SOLIS</string>
+    <string name="linesman_name">Atbildīgais par taku:</string>
+    <string name="linesman_email">e-mail</string>
+    <string name="problem_input_description">Pieskarieties šeit, lai uzrakstītu nelielu problēmas aprakstu</string>
+    <string name="problem_input_box_title">Ziņojuma apraksts</string>
+    <string name="Track_Country_Text">TET Takas valsts:</string>
+    <string name="Track_Problem_Text">TET Takas Problēmas Tips:</string>
+    <string name="Error_Starting_Report">Kļūda uzsākot ziņojumu</string>
+    <string name="ConfirmCountry">Lūdzu apstipriniet valsts nosaukumu</string>
+    <string name="Manually_Select_Country">Nevar automātiski noteikt valsti. Lūdzu izvēlietiees TET takas, par kuru ziņojat, valsti no saraksta!</string>
+    <string name="submit_title_text">Iesniegt Takas Problēmas Ziņojumu</string>
+    <string name="report_resume_text">Izvēlētā Taka:</string>
+    <string name="the_problem_is">Problēmas Tips:</string>
+    <string name="problem_at">Problēmas Koordinātas:</string>
+    <string name="report_submit">IESNIEGT</string>
+    <string name="Add_Photo_Title">Pievienot attēlu ziņojumam:</string>
+    <string name="No_Camera_Permission_Title">Nepieciešamas tiesības piekļūt kamerai</string>
+    <string name="No_Camera_Permission_Message">Lai lietotu kameru, Jums vajag apstiprināt piekļuves atļauju kamerai!</string>
+    <string name="camera_request_again">Pieprasīt vēlreiz</string>
+    <string name="no_camera_available_title">Nav pieejama Kamera</string>
+    <string name="no_camera_available_message">Vai nu Jūsu iekārtai nav kameras vai arī Jums nav instalēta kameras aplikācija!</string>
+    <string name="photo_to_be_submited">Attēls, ko nosūtīt:</string>
+    <string name="photo_source">Izvēlieties Attēla avotu</string>
+    <string name="photo_source_message">Uzņemiet attēlu izmantojot Jūsu kameru, vai izvēlieties datni no Jūsu foto galerijas?</string>
+    <string name="report_submited_success_title">Jūsu ziņojums ir piegādāts!</string>
+    <string name="report_submited_success_message">Paldies par iesniegto ziņojumu par taku. Mēs to izskatīsim un pēc iespējas ātrāk mēģināsim reaģēt.</string>
+    <string name="Photo_Upload_Progress">Attēla augšupielāde</string>
+    <string name="error_restart_title">Kaut kas nesanāca!</string>
+    <string name="error_restart_message">Lūdzu mēģiniet izveidot Ziņojumu vēlreiz!</string>
+    <string name="error_upload_later_title">Nevarēja pieslēgties serveerim</string>
+    <string name="error_upload_later_message">Šis pieraksts tika saglabāts un mēs mēģināsim to nosūtīt līdzko būs piekļuve serverim.</string>
+    <string name="No_Internet_title">Offline Ziņojuma režīms</string>
+    <string name="No_Internet_message">Nav interneta pieslēguma, bet tā nav problēma. Karte var nerādīties vai būt neprecīza, bet Jūsu atrašanās vieta tiks saglabāta pareizi. Ziņojums tiks arī saglabāts uz iekārtas, ko automātiski nosūtīsim līdz ko būs interneta piekļuve.</string>
+    <string name="pending_report_title_1">Jums ir</string>
+    <string name="pending_report_title_2">gaidoši ziņojumi</string>
+    <string name="pending_report_message">Vai vēlaties tos nosūtīt tagad?</string>
+    <string name="pending_success_title">Gaidošie ziņojumi nosūtīti!</string>
+    <string name="pending_success_message">Jūs esat veiksmīgi iesūtījuši visus gaidošos ziņojumus. Paldies!</string>
+    <string name="pending_error_title">Kļūda iesniedzot ziņojumu!</string>
+    <string name="pending_error_message">Kaut kas neizdevās sūtot ziņojumu, lūdzu mēģiniet vēlāk.</string>
+    <string name="storage_permissions_title">Nepieciešama piekļuve Ierīces Glabātuvei</string>
+    <string name="storage_permissions_message">Lai saglabātu attēlu ziņojumam, Jums vajag akceptēt piekļuves tiesības ierīces glabātuvei!</string>
+    <string name="map_style_description">Izvēlieties Kartes attēlošanas veidu</string>
+    <string name="map_style_dialog_title">Izvēlieties Kartes attēlošanas veidu</string>
+    <string name="using_sats">Izmantot</string>
+    <string name="satas_out_of">satelītus no</string>
+    <string name="available_in_view">pieejamiem skatījumā</string>
+    <string name="gps_accuracy">GPS precizitāte</string>
+    <string name="gps_accuracy_message_wait">Lūdzu uzgaidiet uz labāku GPS precizitāti, lai paziņotu Jūsu atrašanās vietu!</string>
+    <string name="gps_accuracy_message_not_bad">GPS precizitātei jābūt pietiekamai, lai paziņotu Jūsu atrašanās vietu.</string>
+    <string name="gps_accuracy_message_good">GPS precizitāte ir laba un Jūs varat izmantot savu atrašanās vietu ziņojumam!</string>
+    <string name="no_location_selected_title">Nav izvēlēta lokācija</string>
+    <string name="no_location_selected_message">Pieskarieties un turiet jebkur uz kartes, lai marķētu ziņojuma lokāciju. Spiediet uz “mērķa” augšējā labajā stūrī, lai pārietu uz Jūsu atrašanās vietu.</string>
+    <string name="no_message_no_photo_title">Nav apraksta un attēla!!</string>
+    <string name="no_message_no_photo_message">Jūs neizveidojāt aprakstu un nepievienojāt nevienu attēlu. Šādi mums ir ļoti grūti identificēte problēmu - lūidzu uzrakstiet kaut ko vai pievienojiet attēlu!</string>
+    <string name="track_length">Takas garums:</string>
+
+
+    <!--TRACK BROWSER-->
+    <string name="filter">Filtrs</string>
+    <string name="track_section">Takas sekcija</string>
+    <string name="section">Sekcija</string>
+    <string name="options">Iespējas</string>
+    <string name="dialog_remove_section">Noņemt šo sekciju vai padarīt to par vienīgo redzamo?</string>
+    <string name="remove">Noņemt</string>
+    <string name="only_visible">Vienīgā redzamā</string>
+    <string name="rebuilding_waypoints">Pārbūvē “ceļa punktus”</string>
+    <string name="rebuild_waypoints">Pārbūvēt Ceļa punktus</string>
+    <string name="remove_waypoints_dialog_title">Noņemt “Ceļa punktus” ārpus redzamajām sekcijām ?</string>
+    <string name="remove_waypoints_dialog_message">Šis attīrīs visus ceļa punktus, noņemot tos, kas nav tuvu redzamajām sekcijām</string>
+    <string name="no">Nē</string>
+    <string name="export_edited_gpx">Ekspoortē rediģēto GPX datni</string>
+    <string name="track_browser_title">Taku pārlūks</string>
+    <string name="track_browser_subtitle">Izvēlieties valsti, lai apskatītu informāciju par to un lejupielādētu GPX datni.</string>
+    <string name="tracks_view_subtitle">Taku informācija</string>
+    <string name="open_track">ATVĒRT TAKU</string>
+    <string name="generating_list">Veido sarakstu</string>
+    <string name="delete_local_file">IZDZĒST DATNI</string>
+    <string name="gpx_open_dialog">Ielādē GPX datni</string>
+    <string name="fetching_country_list">Iegūst valstu sarakstu</string>
+    <string name="track_download_progress">Lejupielādē Takas</string>
+    <string name="track_browser_noInternet_title">Nav savienojuma. Offline režīms</string>
+    <string name="track_browser_noInternet_message">Nav interneta piekļuves vai arī ir problēma pieslēgties serverim. Jūs varat apskatīt tikai jau iepriekš ielādētās taku datnes.</string>
+    <string name="track_download_offline_title">Lejupieādētās Takas</string>
+    <string name="track_download_offline_subtitle">Pārskatīt iepriekš ielādētās datnes offline režīmā.</string>
+    <string name="track_last_updated">Taka pēdējo reizi atjaunināta</string>
+    <string name="no_offline_files">Nav atrastas GPX taku datnes!</string>
+    <string name="track_updates_available_title">Ir pieejami taku atjauninājumiThere!</string>
+    <string name="track_updates_available_message">Vai vēlaties atjaunināt takas tagad??</string>
+    <string name="updating_tracks">Atjaunina Jūsu lejupielādētās GPX Taku datnes</string>
+    <string name="track_updated_success_title">GPX Takas Atjauninātas</string>
+    <string name="track_updated_success_message">Lokālās GPX datne(s) atjaunināta uz: </string>
+    <string name="track_updated_error_title">GPX Taku atjaunināšana neizdevās</string>
+    <string name="track_updated_error_message">Kļūda atjauninot taku datnes, mēģiniet vēlāk.</string>
+    <string name="track_view_start_error_title">Kļūda uzsākot darbību</string>
+    <string name="track_view_start_error_message">Uzsākot darbību tika iegūta kļūda. Mēģiniet vēlāk!</string>
+    <string name="track_delete_success_title">Lokālās GPX datnes izdzēstas</string>
+    <string name="track_delete_success_message">Lokālās GPX datnes šai valstij ir izdzēstas. Jūs varat vienmēr tās lejupielādēt vēlreiz!</string>
+    <string name="track_delete_error_title">Lokālo GPX datņu dzēšanas kļūda</string>
+    <string name="track_delete_error_message">Radās kļūda izdzēšot lokālās datnes, mēģiniet vēlreiz!</string>
+    <string name="track_download_error_title">Datņu Lejupielādes Kļūda</string>
+    <string name="track_download_error_message">Kļūda lejupielādējot GPX datni, mēģiniet vēlreiz vēlāk.</string>
+    <string name="gpx_parse_error_title">Kļūda atverot GPX datni</string>
+    <string name="gpx_parse_error_message">Izskatās, ka ir kļūda lasot GPX datni. Lūdzu mēģiniet atvērt to vēlreiz!</string>
+    <string name="gpx_open_noapp_title">Nav uzstādīta atbilstoša aplikācija</string>
+    <string name="gpx_open_noapp_message">Jūsu ierīcē nav aplikācijas, kas mācētu apstrādāt GPX datnes, lūdzu uzstādīet tādu no Play Store.</string>
+    <string name="disclaimer_DontShowAgain">Nerādīt atkārtoti</string>
+    <string name="no_permissions_title">Nav tiesību piekļūt GPS</string>
+    <string name="no_permissions_message">Šis nestrādās bez piekļuves GPS. ZINĀŠANAI mēs neievācam NEKĀDUS lietotāju datus!</string>
+    <string name="disclaimer_title">Pirms lejupielādes izlasiet šo</string>
+    <string name="disclaimer_agree">Piekrist</string>
+    <string name="disclaimer_agree_dontshow">Piekrist &amp; atkārtoti nerādīt</string>
+    <string name="disclaimer_refuse">Atteikties</string>
+    <string name="zoom_mode_enabled">Zoom Režīms Ieslēgts</string>
+    <string name="pan_mode_enabled">Pārskata Režīsm Ieslēgts</string>
+    <string name="disclaimer_message">Turpinot lejupielādi un izmantojot Trans Euro Trail® datntes, Jūs piekrītat zemāk rakstītajam are.
+\n\n
+1. GPX datnes Jums nodrošina the Trans Euro Trail® Community Interest Company, Company No. 11371199, Address: Unit 3, Cragg Road, Mytholmroyd, Hebden Bridge, West Jorkšīra, HX7 5HR, Lielbritānija.
+\n\n
+2. GPX datnes tiek izsniegtas bez maksas un tiek nodrošinātas tādas kā tās ir, ietverot visas iespējamās kļūdas, defektus un bez jebkādas garantijas.
+\n\n
+3. Taku precizitāte nav garantēta. Tāpat arī nav garantēta GPS koordinātu precizitāte.
+\n\n
+4. Trans Euro Trail® ir tikai ieteikums un nevis precīza vadība.
+\n\n
+5. Trans Euro Trail® Community Interest Company nepārstāv un līdz ar to arī negarantē materiālu vai pakalpojumu precizitāti, pilnīgumu, uzticamību, atbilstību tekošajai situācijia un nekļūdīgumu.
+\n\n
+6. Trans Euro Trail® Community Interest Company nevar garantēt, ka tās lapa vai pakalpojumi nesatur ļaunprātīgu programmatūru.
+\n\n
+7. Jūs apņematies nedalīties ar šīm GPX datnēm nekādā elektroniskā datņu apmaiņas veidā un neizvietot tās serveros.
+\n\n
+8. Jūs lejupielādēsiet aktuālāko pieejamo GPX datni valstij, kurā plānojat ceļot tieši pirms ceļojuma un aktualizēsiet to ceļošanas laikā, ja nepieciešams.
+\n\n
+9. Ja Jūs nonākat uz privātas zemes, atvainojieties un atgriezieties uz tuvākā ceļa vai atpakaļ uz takas.
+\n\n
+10. Šīs Takas var tikt uz laiku vai pastāvīgi slēgtas atbilstoši vietējai likumdošanai, par to ziņojot tikai īsu brīdi iepriekš.
+\n\n
+11. Nebrauciet ar motociklu pārsniedzot Jūsu spēju robežas. Ja neesat pārliecināts, nokāpiet no motocikla un izstaigājiet taku pirms to braukt. Esiet gatavi griezties atpakaļ un sameklēt alternatīvu ceļu.
+\n\n
+12. Braukšana pa takām vienatnē, īpaši pa takām, ko Jūs nepārzinat nav prātīgs lēmums.
+\n\n
+13. Daudzas lauku takas tiek reti uzturētas. Jūs varat sastapties ar saknēm, bedrēm, plūdiem, sarežģītām virsmām un reizēm pat ļaunprātīgi izvietotiem slazdiem, kurus tur var būt izvietojuši cilvēki, ka nepatīk, ka takas izmanto motocikli.
+\n\n
+14. Kad Jūs izmantojat takas un ceļus, Jūs esat pats atbildīgs par sevi. Izmantojiet Jūsu saprātu, lai novērtētu savas prasmes un spēju navigēt. Viss, ko Trans Euro Trail® Community Interest Company var izdarīt ir norādīt, kur ir takas, bet to leģitimitāte un praktiska lietojamība var mainīties negaidīti un ātri.
+\n\n
+15. Jūs apņematies ievērot ceļa zīmes, barjeras un vietējo likumdošanu. Lēmums izmantot ceļu vai taku ir Jūsu paša un Jūs saprotat, ka pats nesat pilnu atbildību par jebkuru rīcību un vai likuma pārkāpumiem.
+\n\n
+16. Trans Euro Trail® Community Interest Company neuzņemas nekādu atbildību par GPX datņu izmantošanu, kas tieši vai netieši var rasties no šo datņu lietošanas, ieskaitot jebkādu prasījumu, kas tiek iesniegts Lielbritānijas, Menas salas vai Kanāla salu jurisdikcijās.
+\n\n
+17. Motobraukšana ir saistīta ar riskiem. Braukšana ar piedzīvojumu motocikliem rada papildus riskus:\n
+a. Mobilā telefona zonas pārklājums var būt daļējs vai nebūt vispār. Ja ir nepieciešama un izsaukta palīdzība, tai var būt grūti Jūs atrast un tas var radīt arī būtiskus izdevumus. Neasfaltētas takas var būt klātas gan ar akmeņiem, gan smiltīm, gan zāli. Katram segumam ir savi izaicinājumi, kas saistās ar saķeri, stabilitiāti un neparedzamību. Papildus faktors var būt laika apstākļi, kas var strauji mainīties, īpaši kalnainos reģionos.\n
+b. Prasības fiziskajai sagatavotībai braucot ar motociklu (ar bagāžu vai bez) bezceļos ir augstākas. Ja Jūs apgāžat motociklu, var būt grūti to pacelt īpaši kalnā, upes gultnē vai dubļos. Ņemot vēl vērā Eiropas mainīgo klimatu (no mīnus grādiem līdz +30C un vairāk), pārkaršana, atdzišana un dehidratācija var izrādīties bīstama kombinācija.\n
+c. Navigācija var būt izaicinoša, īpaši bez pieredzes lietot GPS vai kartes kustībā, “nepareizajā ceļa pusē” vai zīmēm nesaprotamā valodā/rakstā.\n
+d. Mehāniskas problēmas, ko viegli risināt savā garaža var kļūt daudz sarežģītākas tālu no mājām, vietā, kur nav atbilstošas infrastruktūras vai ražotāja darbnīcu. \n
+e. Vietējie pieaugušie, bērni un dzīvniekki var būt nepieraduši pie motocikliem un to iespējām un nepareizi novērtēt dažādas situācijas. Braukšanas prakse un pieradummim būtiski atšķiras un bieži tiek pielietots princips, ka “lielam vienmēr taisnība”, kas negatīvi atsaucas uz “mazo” motociklu. \n
+f. Lokālie dzīvnieki (gan mājdzīvnieki, gan mežonīgie) var radīt papildus riskus. Lāči un vilki ir tipiski dažu TET zonu iemītnieki, savukārt čūskas var būt aktīvas citās vietās. Tāpat jāņem vērā brieži, ziemēlbrieži kā arī mājlopi un suņi. \n
+g. Likumdošana un vietējie ierobežojumi vienmēr var atšķirties dažādās kontinenta vietās. Līdz ar to taka, ko tās veidotājs var būt uzskatījis par legālu var tāda varis nebūt. Šis var izraisīt konfliktus ar zemes īpašniekiem, vietējiem iedzīvotājiem un varas pārstāvjiem. Jebkas ir iespējams sākot no “greiziem” skatieniem, uzkliedzieniem un līdz pat arestam, sodiem, tiesas spriedumiem un moto cikla konfiscēšanai vai naudas sodiem un vadītāja apliecības atņemšanai ir iespējams.\n
+h. Higēnas un saniitārjies izpratne var atšķirties, medicīnas iestādes var būt tālu, nepieejamas vai vienkārši neesošas.\n
+i. Cilvēces ļaunā puse kā zādzības, uzbrukumi vai krāpniecība arī var Jūs sastapt ceļā.\n
+j. Ņemiet vērā, ka dažas zonas Eiropā var būt īpaši jutīgas pret cilvēkiem kas pārvietojas, pamatojot to ar bēgļu pieplūdumu kā arī Jus varat sastapt cilvēkus, kas ir izmisuši vai izvairās no varas iestādēm.\n
+k. Bosnijā, Horvātijā un citās vietās vēl ir novērojamas kara sekas, kas var izpausties kā neattīrīti mīnu lauki. Sniegs, ūdens un augsnes noslīdējumi var pastiprināt šos draudus, līdz ar to novirzīšanās no plaši izmantotām takām var būt bīstama un vienkārši sakot muļķīga.
+\n\n
+18. Visi ceļi un takas paredz, ka Jūsu motocikls un Jūs esat apdrošināti, atbilstoši ceļu lietošanas noteikumiem un ar adekvātām tiesībām / vadītāja apliecību.
+\n\n
+19. Jums būtu jāpārliecinās, ka Jūsu dokumenti ir kārtībā sākot no motocikla dokumentiem, beidzot ar apdrošiniāšanu, t.sk. veselības, licencēm un identifikācijas dokumentiem.
+\n\n
+20. Jums būtu jāiegūst atbilstoša prakse, lai iegūtu arī pārliecību un izpartni par Jūsu un Jūsu motocikla spēju robežām.
+\n\n
+21. Jums būtu jāpārliecinās, ka esat atbilstoši aprīkoti ar pareizām riepām, rezervēm, aizsarglīdzekļiem, pirmās palīdzības aptieciņu, komunikāciju ierīcēm un baterijām kā arī ar bagāžu un nakšņošanas ekipējumu.
+\n\n
+22. Brauciet ņemot vērā vidi, ceļa virsmu un paredzot negaidītus pārsteigumus.
+\n\n
+23. Kontrolējiet Jūsu ātrumu.
+\n\n
+24. Esiet “motociklam atbilstošā fiziskajā formā”. Ja Jums ir īpašas medicīniskas vajadzības, pārdomājiet savas spēju robežas vai vērsieties pie profesionāļiem pēc padoma.
+\n\n
+25. Sāciet ceļu ar ceļojumiem gatavu motociklu. Iepazīstiet savu motociklu un kādas ikdienas pārbaudes tam jāveic kā arī kā salabot tipiskas tehnikas ķibeles.
+\n\n
+26. Esiet piesardzīgi ar Jūsu īpašumu un Jums pašiem.
+\n\n
+27. Jūs piekrītat ievērot Trans Euro Trail® Uzvedības Kodeksu un būt “atbildīgas motobraukšanas” vēstnieks.
+\n\n
+28. Pieņemiet, ka Jūs esat Jūsu paša likteņa, drošības, veselības un drošības pavēlnieks(ce). Jūs esat atbildīgs par visu, kas notiek!</string>
+
+    <!--NOTIFICATION SERVICE-->
+    <string name="notification_trackupdate_title">Pieejami GPX Takas atjauninājumi </string>
+    <string name="notification_trackupdate_message1">Ir pieejami</string>
+    <string name="notification_trackupdate_message2">taku atjauninājumi.</string>
+
+</resources>

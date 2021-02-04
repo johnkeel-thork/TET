@@ -1,0 +1,290 @@
+<resources>
+    <!--COMMON TO ALL VIEWS-->
+    <string name="app_name">TET</string>
+    <string name="tet_logo_description">Логотип ТЕТ</string>
+    <string name="top_message_text">Поважайте шляхи. Поважайте навколишнє середовище. Поважайте общини, через які подорожуєте.</string>
+    <string name="footer_tet_website">Веб-сайт</string>
+    <string name="footer_tet_contribute">Сприяти</string>
+    <string name="ok">Добре</string>
+    <string name="Wrong_Activity_Key">Неправильний ключ для цієї дії!</string>
+    <string name="Null_Key">Немає ключа для підтвердження цієї дії!</string>
+    <string name="No_Bundle_Extras">Немає додаткових додатків для цієї дії!</string>
+    <string name="cancel">Відмінити</string>
+    <string name="Camera">Камера</string>
+    <string name="Local_Gallery_File">Галерея</string>
+    <string name="yes">Так</string>
+    <string name="later">Пізніше</string>
+
+    <!--MAIN VIEW-->
+    <string name="pending_notification">0</string>
+    <!--Button: TET Tracks Browser-->
+    <string name="browser_tet_tracks_title">ТЕТ Треки</string>
+    <string name="browser_button_text">ПЕРЕГЛЯНУТИ</string>
+    <string name="browser_image_description">Перегляти ТЕТ Треки</string>
+    <!--Button: Report Route Problems-->
+    <string name="report_route_problem_title">Проблема на маршруті</string>
+    <string name="report_button_text">ПОВІДОМИТИ</string>
+    <string name="report_route_image_description">Повідомити про проблему на маршруті</string>
+    <!--Button: POIs-->
+    <string name="poi_title">Незабаром</string>
+    <string name="poi_button">СКОРО</string>
+    <string name="poi_image_description">Цікаві Місця</string>
+    <!--Button: Community / Share-->
+    <string name="join_title">Спільнота</string>
+    <string name="join_button_text">ДОЛУЧИТИСЯ</string>
+    <string name="join_community_image_description">Онлайн Спільнота</string>
+    <!--Splash Message-->
+    <string name="tet_splash_message">Епічна Пригода Європою на Мотоциклі</string>
+    <string name="touch_to_continue">Натисніть для продовження </string>
+    <!--END OF MAIN VIEW-->
+
+    <!--COMMUNITY VIEW-->
+    <!--Button: Facebook Group-->
+    <string name="facebook_tet_group_title">Група ТЕТ у Фейсбуці</string>
+    <string name="facebook_icon_image_description">ТЕТ Фейсбук Картинка Значок</string>
+    <string name="facebook_description">Познайомтесь з іншими членами ТЕТ та поділіться своїм досвідом</string>
+    <!--Button: Online Forum Page-->
+    <string name="tet_forum_title">Онлайн Форум ТЕТ</string>
+    <string name="tet_forum_description">Місце для порад, звітів та корисного спілкування</string>
+    <string name="tet_forum_icon_image_description">Офіційний форум ТЕТ</string>
+    <string name="tet_contribute_image_description">Сприяти ТЕТ</string>
+    <!--Button: Code of Conduct-->
+    <string name="tet_code_icon_description">Кодекс Норм Поведінки</string>
+    <string name="tet_code_title">Кодекс Норм Поведінки</string>
+    <string name="tet_code_description">Прочитати про Кодекс норм поведінки використання ТЕТ на веб-сайті</string>
+    <!--Button: Integrations-->
+    <string name="tet_integration_title">Інтегровані Додатки ТЕТ</string>
+    <string name="tet_integration_description">Android Додатки, які інтегруються з функціями додатку ТЕТ</string>
+
+    <!--Integration VIEW-->
+    <string name="integration_title">Додатки, що інтегруються з додатком ТЕТ</string>
+    <string name="integration_description">Коли додаток інтегрується з API Додатку ТЕТ поліпшується досвід користувача. Це просто, швидко та легко!</string>
+    <string name="integration_example_video">ВІДЕО-ПРИКЛАД</string>
+    <string name="integration_contact">ЗВ\'ЯЖІТЬСЯ З НАМИ</string>
+    <string name="integration_add_yours">Ви розробляєте Додатки для навігації чи маєте відношення до ТЕТ? Хочете інтегрувати наше API? Натисніть зв\'яжіться з нами та повідомте нас про це! Також перегляньте відео-приклад.</string>
+    <string name="download">ЗАВАНТАЖИТИ</string>
+    <string name="drivemode_title">Drive Mode Dashboard</string>
+    <string name="drivemode_description">Настроювана панель приладів для вашого мотоцикла! Створюйте журнали подорожей, переходьте до файлів GPX за допомогою офлайн-карт, записуйте файли GPX, зберігайте та переглядайте місця, отримуйте детальну інформацію про погоду та багато-багато іншого.\n\n Розроблений автором додатку TET, він має на меті стати основним рішенням для TET!</string>
+
+    <!--CONTRIBUTE VIEW-->
+    <string name="contribute_title">Наповни перший бак палива тут</string>
+    <string name="contribute_subtitle">Trans Euro Trail® живиться пристрастю, утримується мотоциклістами та підтримується Вами. Та найкраще понад усе, він є безкоштовним та має намір і далі залишатися таким!</string>
+    <string name="contribute_text_button">ПРОЧИТАТИ БІЛЬШЕ</string>
+    <string name="contribute_buy_merch">КУПИТИ МЕРЧ</string>
+    <string name="contribute_app_developer">ПІДТРИМАТИ ДОДАТОК</string>
+    <string name="contribute_options_text">Існують такі можливості допомогти проекту ТЕТ:</string>
+    <!--Merch SubView-->
+    <string name="merch_title">Офіційний Мерч ТЕТ</string>
+    <string name="merch_subtitle">Поширюй ідею ТЕТ нашими футболками та надміцними наклейками для мотоциклів, або купи собі ADV Spec Linesman куртку, яка була створена спеціально для їзди по ТЕТ.</string>
+    <string name="t_shirt_image_description">Офіційна футболка ТЕТ</string>
+    <string name="t_shirt_title">Trans Euro Trail® Футболкаt</string>
+    <string name="t_shirt_description">Покажи свою любов, надягаючи наш логотип! \n\n£24.90 + доставка</string>
+    <string name="Buy_Tshirt_button_text">КУПИТИ</string>
+    <string name="sticker_title">Trans Euro Trail® Наклейка</string>
+    <string name="sticker_description">Ваш мотоцикл дуже потребує її! \n\n£2.40 + доставка</string>
+    <string name="sticker_image_description">Офіційні TET Наклейки</string>
+    <string name="jacket_title">ADV Spec Linesman Куртки</string>
+    <string name="jacket_image_description">Офіційна ADV Linesman Куртка</string>
+    <string name="jacket_description">Вітрозахисна/дихаюча з Du Pont™ Kevlar® \n\n£249 + доставка</string>
+
+    <!--REPORT TRACK PROBLEM VIEW-->
+    <string name="title_activity_maps">Мапа</string>
+    <string name="marker_report_location">Повідомити про це Місце</string>
+    <string name="map_instructions">Натисніть на тримайте будь-де на мапі, щоб розмістити маркер на цьому місці. Натисніть на піктограму хрестика у верхньому правому куті, щоб перейти до поточного місця розташування. Якщо ви перебуваєте в офлайн-режимі, переконайтеся, що ви знаходитесь фізично в місці, де є проблема, і маєте дійсний сигнал GPS.</string>
+    <string name="error_fetching_countryname_title">Помилка під час отримання назви країни</string>
+    <string name="error_fetching_countryname_message">Ми не можемо отримати назву вашої країни. Будь ласка, виберіть країну вручну на наступному кроці.</string>
+    <string name="report_second_step_next">НАСТУПНИЙ КРОК</string>
+    <string name="report_step2_title">Повідомте про Проблему Треку</string>
+    <string name="report_location_text">Координати:</string>
+    <string name="report_finish_next">НАСТУПНИЙ КРОК</string>
+    <string name="linesman_name">Linesman:</string>
+    <string name="linesman_email">e-mail</string>
+    <string name="problem_input_description">Доторкніться тут, щоб написати невеликий опис проблеми</string>
+    <string name="problem_input_box_title">Опис Проблеми</string>
+    <string name="Track_Country_Text">Країна ТЕТ Треку:</string>
+    <string name="Track_Problem_Text">Тип Проблеми на Треку ТЕТ:</string>
+    <string name="Error_Starting_Report">Помилка при початку Повідомлення</string>
+    <string name="ConfirmCountry">Будь-ласка, підтвердіть назву країни</string>
+    <string name="Manually_Select_Country">Не вдається автоматично визначити назву країни. Будь ласка, виберіть вручну країну ТЕТ Треку, про який ви повідомляєте!</string>
+    <string name="submit_title_text">Відправити Повідомлення про Проблему на Треку</string>
+    <string name="report_resume_text">Обранний Трек:</string>
+    <string name="the_problem_is">Тип Проблеми:</string>
+    <string name="problem_at">Координати Проблеми:</string>
+    <string name="report_submit">ВІДПРАВИТИ</string>
+    <string name="Add_Photo_Title">Додати Фото до Повідомлення:</string>
+    <string name="No_Camera_Permission_Title">Необхідний Дозвіл на Користування Камерою</string>
+    <string name="No_Camera_Permission_Message">Для використання камери потрібно прийняти запит на дозвіл камери!</string>
+    <string name="camera_request_again">Повторити Запит</string>
+    <string name="no_camera_available_title">Камера недоступна</string>
+    <string name="no_camera_available_message">Або на вашому пристрої немає камери, або у вас не встановлено додаток для камери!</string>
+    <string name="photo_to_be_submited">Фото для Відправки:</string>
+    <string name="photo_source">Виберіть джерело фотографій</string>
+    <string name="photo_source_message">Зробіть фотографію за допомогою камери або виберіть локальний файл із своєї галереї?</string>
+    <string name="report_submited_success_title">Ваше повідомлення доставлено!</string>
+    <string name="report_submited_success_message">Дякуємо, що надіслали повідомлення про проблему треку, ми будемо вживати заходів якомога швидше.</string>
+    <string name="Photo_Upload_Progress">Завантаження Фотографії</string>
+    <string name="error_restart_title">Щось пішло не так!</string>
+    <string name="error_restart_message">Будь-ласка, спробуйте створити повідомлення про проблему ще раз!</string>
+    <string name="error_upload_later_title">Неможливо під\'єднатися до сервера</string>
+    <string name="error_upload_later_message">Цей допис буде збережено та буде відправлено, як тільки можна буде підключитися до сервера.</string>
+    <string name="No_Internet_title">Режим Офлайн-Повідомлення</string>
+    <string name="No_Internet_message">Відсутнє підключення до Інтернету, але це нічого, карта може бути неправильно відображена, але ваше місцезнаходження все одно буде захоплено. Допис також буде збережено, як Повідомлення в Очікування, який буде відправлений, як тільки у вас буде доступ до Інтернету.</string>
+    <string name="pending_report_title_1">У вас</string>
+    <string name="pending_report_title_2">повідомлень в очікуванні</string>
+    <string name="pending_report_message">Хочете відправити їх зараз?</string>
+    <string name="pending_success_title">Повідомлення в очікуванні відправлені!</string>
+    <string name="pending_success_message">Ви успішно відправили усі ваші повідомлення, що були в очікуванні, дякуємо.</string>
+    <string name="pending_error_title">Помилка у відправленні повідомлення!</string>
+    <string name="pending_error_message">Під час відправлення повідомленнящось пішло не так, повторіть спробу пізніше.</string>
+    <string name="storage_permissions_title">Необхідний Дозвіл на Зберігання</string>
+    <string name="storage_permissions_message">Для збереження фотографії для Повідомлення необхідно прийняти запит на дозвіл на зберігання!</string>
+    <string name="map_style_description">Виберіть Стиль Мапи</string>
+    <string name="map_style_dialog_title">Оберіть Стиль Мапи</string>
+    <string name="using_sats">Використовується</string>
+    <string name="satas_out_of">супутників з</string>
+    <string name="available_in_view">доступних</string>
+    <string name="gps_accuracy">ТочністьGPS</string>
+    <string name="gps_accuracy_message_wait">Зачекайте кращої точності GPS, щоб повідомити про ваше місцезнаходження!</string>
+    <string name="gps_accuracy_message_not_bad">Точність GPS повинна бути достатньою для повідомлення про використання вашого місцезнаходження.</string>
+    <string name="gps_accuracy_message_good">Точність GPS хороша, ви можете використовувати своє поточне місцезнаходження для повідомлення!</string>
+    <string name="no_location_selected_title">Місцезнаходження не вибрано</string>
+    <string name="no_location_selected_message">Натисніть на тримайте будь-де на мапі, щоб розмістити маркер на цьому місці або натисніть на піктограму хрестика у верхньому правому куті, щоб перейти до поточного місця розташування.</string>
+    <string name="no_message_no_photo_title">Немає опису та немає Фото!</string>
+    <string name="no_message_no_photo_message">Ви не написали жодний опис та не додали жодного фото, це дуже ускладнює нам визначення проблеми, будь ласка, подумайте про те, щоб щось написати чи додати фото!</string>
+    <string name="track_length">Довжина трека:</string>
+
+
+    <!--TRACK BROWSER-->
+    <string name="filter">Фільтр</string>
+    <string name="track_section">Відрізок Треку</string>
+    <string name="section">Відрізок</string>
+    <string name="options">Опції</string>
+    <string name="dialog_remove_section">Видалити цей відрізок або зробити його єдиним видимим?</string>
+    <string name="remove">Видалити</string>
+    <string name="only_visible">Єдиний Видимий</string>
+    <string name="rebuilding_waypoints">Перебудування Маршрутних Точок</string>
+    <string name="rebuild_waypoints">Перебудувати Маршрутних Точок</string>
+    <string name="remove_waypoints_dialog_title">Видалити Маршрутні Точки Поза Відображеними Відрізками?</string>
+    <string name="remove_waypoints_dialog_message">Це видалить усі маршрутні точки, в тому числі ті, що більше не знаходяться поряд з відображеним відрізком</string>
+    <string name="no">Ні</string>
+    <string name="export_edited_gpx">Експорт відредагованого файлу GPX</string>
+    <string name="track_browser_title">Браузер Треку</string>
+    <string name="track_browser_subtitle">Оберіть країну для відображення інформації та завантажити GPX файл.</string>
+    <string name="tracks_view_subtitle">Інформація Треку</string>
+    <string name="open_track">ВІДКРИТИ ТРЕК</string>
+    <string name="generating_list">Генерація Списку</string>
+    <string name="delete_local_file">ВИДАЛИТИ ФАЙЛ</string>
+    <string name="gpx_open_dialog">Завантаження GPX Файлу</string>
+    <string name="fetching_country_list">Отримую Список Країн</string>
+    <string name="track_download_progress">Завантаження Треку</string>
+    <string name="track_browser_noInternet_title">Немає зв\'язку - офлайн-режим</string>
+    <string name="track_browser_noInternet_message">Немає доступу до Інтернету або виникла проблема з підключенням до сервера. Ви можете переглядати лише завантажені раніше треки (локальні файли).</string>
+    <string name="track_download_offline_title">Завантажені Треки</string>
+    <string name="track_download_offline_subtitle">Перегляд раніше завантажених файлів в офлайн-режимі.</string>
+    <string name="track_last_updated">Дата останнього оновлення треку</string>
+    <string name="no_offline_files">Не знайдено треків GPX!</string>
+    <string name="track_updates_available_title">Доступні оновлення треків!</string>
+    <string name="track_updates_available_message">Хочете оновити їх зараз?</string>
+    <string name="updating_tracks">Оновлюю ваші локальні GPX Треки</string>
+    <string name="track_updated_success_title">GPX Треки Оновлені!</string>
+    <string name="track_updated_success_message">Локальні GPX файл(-и) оновлені для: </string>
+    <string name="track_updated_error_title">Помилка Оновлення Треку GPX</string>
+    <string name="track_updated_error_message">Під час оновлення треків сталася помилка, повторіть спробу пізніше.</string>
+    <string name="track_view_start_error_title">Помилка Запуску Дії</string>
+    <string name="track_view_start_error_message">Під час запуску цієї дії сталася помилка, повторіть спробу!</string>
+    <string name="track_delete_success_title">Локальний GPX файл видалено</string>
+    <string name="track_delete_success_message">Локальний GPX файл для цієї країни був видалений, його завжди можна завантажити знову пізніше!</string>
+    <string name="track_delete_error_title">Помилка видалення локального GPX файлу</string>
+    <string name="track_delete_error_message">Під час видалення локального файлу виникла проблема, повторіть спробу!</string>
+    <string name="track_download_error_title">Помилка Завантаження Файлу</string>
+    <string name="track_download_error_message">Під час завантаження GPX файлу сталася помилка, повторіть спробу пізніше.</string>
+    <string name="gpx_parse_error_title">Помилка Відкриття GPX Файлу</string>
+    <string name="gpx_parse_error_message">Здається, виникла проблема з відкриттям GPX файлу. Спробуйте відкрити його ще раз!</string>
+    <string name="gpx_open_noapp_title">Не встановленно жодний сумісний додаток</string>
+    <string name="gpx_open_noapp_message">Немає додатку, який може обробляти GPX файли, встановіть його з Play Store.</string>
+    <string name="disclaimer_DontShowAgain">Не показувати знову</string>
+    <string name="no_permissions_title">Немає дозволу GPS</string>
+    <string name="no_permissions_message">Це не буде працювати без дозволу GPS. До Вашого відома: ми не збираємо жодних даних користувачів!</string>
+    <string name="disclaimer_title">Перед завантаженням прочитайте це</string>
+    <string name="disclaimer_agree">Погоджуюся</string>
+    <string name="disclaimer_agree_dontshow">Погоджуюся та більше не показувати</string>
+    <string name="disclaimer_refuse">Відмовитися</string>
+    <string name="zoom_mode_enabled">Режим Масштабування Увімкнено</string>
+    <string name="pan_mode_enabled">Режим Панорамування Увімкнено</string>
+    <string name="disclaimer_message">Продовжуючи завантаження та використовуючи файли Trans Euro Trail®, ви приймаєте та погоджуєтесь із усім, що написано нижче.
+\n\n
+1. GPX видається  Громадською організацією Trans Euro Trail® (Community Interest Company), Реєстраційний номер: 11371199, Адреса: Unit 3, Cragg Road, Mytholmroyd, Hebden Bridge, West Yorkshire, HX7 5HR, United Kingdom (Сполучене Королівство Великої Британії та Північної Ірландії).
+\n\n
+2. GPX видається безкоштовно і надається "як є", з усіма помилками, дефектами та помилками та без будь-яких гарантій.
+\n\n
+3. Точність треку не гарантована, а також не гарантовані жодні координати GPS.
+\n\n
+4. Trans Euro Trail® це лише рекомендація, а не напрямок.
+\n\n
+5. Громадська Організація Trans Euro Trail® Community Interest Company не заявляє і не гарантує, що матеріали на сайті є точними, повноцінними, надійними, актуальними або не мають помилок.
+\n\n
+6. Громадська Організація Trans Euro Trail® Community Interest Company не може представляти або гарантувати, що сайт або його сервери не містять вірусів або інших шкідливих компонентів..
+\n\n
+7. Ви берете на себе зобов’язання не розповсюджувати цей GPX файл на будь-якому електронному пристрої або сервері спільного використання файлів.
+\n\n
+8. Ви завантажите найновіший GPX файл для країни подорожі безпосередньо перед тим, як вирушати, та завантажите оновлення, якщо це необхідно, під час подорожі.
+\n\n
+9. Якщо ви заблукаєте на приватній землі, вибачтесь і поверніться на дорогу чи стежку.
+\n\n
+10. Ці маршрути можуть бути тимчасово або назавжди закриті в короткий термін відповідно до місцевого законодавства.
+\n\n
+11. Не їдьте стежками, що перевищують ваші можливості. Якщо ви не впевнені, злізьте зі свого мотоцикла і спершу пройдіться там пішки. Будьте готові до розвороту і знайти альтернативний маршрут.
+\n\n
+12. Самостійно їздити на маршрутах по бездоріжжю, особливо на яких ви не були раніше, справді нерозумно.
+\n\n
+13. Багато маршрутів по бездоріжжю рідко обслуговуються. На вашому шляху будуть корені, ями, підтоплення, оманливі поверхні та періодично навіть пастки, що були поставленні людьми, яким не подобається, що цими маршрутами користуються мотоцикли.
+\n\n
+14. Коли ви використовуєте стежки та дороги, ви самі по собі. Ви здійснюєте своє судження у власних навичках та власній навігації. Все що може зробити Громадська Організація Trans Euro Trail® Community Interest Company так це показати де є якісь з маршрутів, але законність їх використання та стан не підтверджені і можуть змінитись за мить.
+\n\n
+15. Ви берете на себе зобов’язання поважати та дотримуватися дорожніх знаків, бар\'єрів та місцевих законів. Рішення про використання дороги чи стежки - виключно ваше, і ви приймаєте, що несете повну відповідальність за свої дії або будь-які порушення закону.
+\n\n
+16. Громадська Організація Trans Euro Trail® Community Interest Company не несе жодної відповідальності за використання GPX файлу, прямо чи опосередковано випливаючи з його використання, або будь-яким чином пов’язаним з будь-яким Позовом, який пред\'явлений до будь-якої юрисдикції, окрім Сполученого Королівства, Острова Мен та Нормандських островів.
+\n\n
+17. Мотоцикл несе ризики. До них в подорожах додаються ще й наступні речі:\n
+a. Покриття мобільного телефона може бути поганими або відсутнім взагалі, тому в разі необхідності можливість виклику допомоги може бути обмеженою. В разі виклику допомоги, в неї можуть виникнути складнощі добратись до вас та це може призвести до великих витрат. Маршрути по бездоріжжю варіюються від гравію до розбитого асфальту, піску, каменів, валунів, трави ітп. Кожен тип поверхні несе в собі свої проблеми пов\'язані зі зчепленням, стабільністю та непередбачуваністю, всі вони сильно відрізняються від погодних умов, які можуть швидко змінитися, особливо в гірських районах.\n
+b. Фізичні вимоги до їзди на мотоциклі, навантаженому або/та по бездоріжжю не варто недооцінювати. Якщо ви упустите його, підняти його може бути важкою роботою, або при невдалому виїзді по схилу пагорба, або під час перетину річки чи в багні, де дуже слизько - це все може бути дуже виснажливим. Додайте до цього мінливий клімат в Європі - від нуля градусів до тридцяти  і вище - спека, холод, зневоднення все це може сильно погіршити вашу продуктивність і зробити небезпечний коктейль у поєднанні зі складним умовами їзди по бездоріжжю.\n
+c. Навігація може бути складним завданням, особливо без досвіду використання GPS або карт під час руху, їзді по іншій стороні дороги або з дорожніми знаками іншою мовою.\n
+d. Механічні проблеми, які легко вирішуються у власному гаражі чи рідному місті, можуть стати набагато важчим завданням далеко від дому в місцях з поганою інфраструктурою або при відсутності дилерів. \n
+e. Місцеві дорослі та діти (і тварини!) можуть бути незнайомі з мотоциклами, їхніми можливостями, що може призвести до неправильної оцінки їми ситуації. Стандарти водіння транспортних засобів, а також дисципліна в дотриманні Правил дорожнього руху дуже відрізняється в кожному місці, окрім того досить часто “правий той, хто сильніший” не на користь “меншої людини”, що на мотоциклі . \n
+f. Місцеві тварини, як домашні, так і дикі, можуть становити ризики. Ведмеді та вовки є в одних районах, змії в інших, дикі бродячі північні олені на крайній півночі, а велика рогата худоба та собаки є всюди. \n
+g. Закони та правила завжди змінюються на всьому континенті, тому маршрут, який вважали учасники, законним, може й не бути таким. Це може призвести до конфлікту з владою, громадами, власниками земельних ділянок чи іншими користувачами - що завгодно, від погляду, крику чи розмахування кулаком до арешту, судового переслідування, судового розгляду, конфіскації мотоциклу, штрафу або втрати водійських прав чи свободи.\n
+h. Поняття та практика санітарії та гігієни надзвичайно різняться, та й медичні установи можуть бути в недостатній кількості, незадовільному стані або  вкрай віддаленими.\n
+i. Негативна сторона людства також може вплинути на вас через крадіжки, напади чи шахрайство.\n
+j. Майте на увазі, що деякі райони Східної Європи також підвищили рівень поінформованості про мобільне населення після припливу біженців, так що ви можете натрапити на дуже бідних людей або надто обачних та насторожених представників влади.\n
+k. У Боснії, Хорватії та інших місцях після війни все ще існують незачищені мінні поля. Сніг, вода і зсуви грунтів може змінити їх місцерозташування, тому не використання добре зазначених стежок в таких місцях може бути небезпечним та ба більше є просто дурним.\n\n
+18. Усі маршрути по бездоріжжю та дорогам вимагають, щоб ваш мотоцикл був зареєстрованим, застрахованим та в придатному стані, а ви мали водійські права.
+\n\n
+19. Ви повинні переконатися, що ваші документи в належному стані, як і документи вашого мотоцикла, а також, що ваш страховий поліс покриває необхідні ризики.
+\n\n
+20. Ви маєте набути певного досвіду для формування впевненості та компетентності (та поважати власні межі та межі вашого мотоцикла).
+\n\n
+21. Ви повинні переконатися, що ви належним чином обладнані правильними шинами, запасними частинами, захистом, аптечкою, комунікаційними пристроями (та акумуляторами до них!), багажем та спорядженням для кемпінгу.
+\n\n
+22. Їдьте з розумінням місцевості, поверхні та в очікуванні несподіваних небезпек.
+\n\n
+23. Слідкуйте за своєю швидкістю.
+\n\n
+24. Будьте у добрій фізичній формі для їздити на мотоциклі. Якщо у вас проблеми зі здоров\'ям - добре подумайте та проконсультуйтесь з лікарем.
+\n\n
+25. Почніть подорож на мотоциклі, який готовий до цього. Ознайомтеся зі своїм мотоциклом, що треба перевіряти щодня та як вирішити можливі проблеми.
+\n\n
+26. Вживайте запобіжних заходів щодо своєї власності та себе.
+\n\n
+27. Ви погоджуєтесь дотримуватися Кодексу Норм поведінки на Trans Euro Trail® та бути Послом відповідальної їзди на мотоциклі.
+\n\n
+28. Приймаєте, що ви власник власної долі, безпеки, здоров\'я та безпеки. Ви берете на себе відповідальність за те, що трапиться.</string>
+
+    <!--NOTIFICATION SERVICE-->
+    <string name="notification_trackupdate_title">Доступне оновлення GPX Треку</string>
+    <string name="notification_trackupdate_message1">Є</string>
+    <string name="notification_trackupdate_message2">доступне оновлення трека.</string>
+
+</resources>
+
+
+

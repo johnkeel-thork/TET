@@ -52,6 +52,19 @@
     <string name="tet_code_icon_description">Code of Conduct</string>
     <string name="tet_code_title">Code of Conduct</string>
     <string name="tet_code_description">Read about the TET Code of Conduct in the website</string>
+    <!--Button: Integrations-->
+    <string name="tet_integration_title">TET Integrated Apps</string>
+    <string name="tet_integration_description">Android Apps that integrate the TET App features</string>
+
+    <!--Integration VIEW-->
+    <string name="integration_title">Apps that Integrate the TET App</string>
+    <string name="integration_description">When a app integrates with the TET App API the user experience improves. It´s simple, fast, seamlessly!</string>
+    <string name="integration_example_video">EXAMPLE VIDEO</string>
+    <string name="integration_contact">CONTACT US</string>
+    <string name="integration_add_yours">Do you develop Apps for navigation or otherwise relevant to the TET? Would you like to integrate our API? Touch contact us and tell us about it! Also check the example video.</string>
+    <string name="download">DOWNLOAD</string>
+    <string name="drivemode_title">Drive Mode Dashboard</string>
+    <string name="drivemode_description">A highly customizable dashboard for your motorcycle! Create trip logs, navigate GPX files with offline maps, record GPX files, save and view locations, get detailed weather information and much, much more.\n\nDeveloped by the creator of the TET app, it aims to become the ultimate TET solution!</string>
 
     <!--CONTRIBUTE VIEW-->
     <string name="contribute_title">Make your first fuel stop right here&#8230;</string>
@@ -136,8 +149,25 @@
     <string name="gps_accuracy_message_good">GPS accuracy is good you can use your current location to report!</string>
     <string name="no_location_selected_title">No Location Selected</string>
     <string name="no_location_selected_message">Touch and hold anywhere on the map to mark the report location or click the crosshair button in the top right corner to select your current location.</string>
+    <string name="no_message_no_photo_title">No Description and no Photo!</string>
+    <string name="no_message_no_photo_message">You did not write any description and you did not add any photo, this makes it very hard for us to identify the problem, please consider writing something or adding a photo!</string>
+    <string name="track_length">Track length:</string>
+
 
     <!--TRACK BROWSER-->
+    <string name="filter">Filter</string>
+    <string name="track_section">Track Section</string>
+    <string name="section">Section</string>
+    <string name="options">Options</string>
+    <string name="dialog_remove_section">Remove this section or make it the only visible?</string>
+    <string name="remove">Remove</string>
+    <string name="only_visible">Only Visible</string>
+    <string name="rebuilding_waypoints">Rebuilding Waypoints</string>
+    <string name="rebuild_waypoints">Rebuild Waypoints</string>
+    <string name="remove_waypoints_dialog_title">Remove Waypoints Outside the Visible Sections?</string>
+    <string name="remove_waypoints_dialog_message">This will clean up all the waypoints, removing any that no longer is close to the visible sections</string>
+    <string name="no">No</string>
+    <string name="export_edited_gpx">Exporting Edited GPX file</string>
     <string name="track_browser_title">Track Browser</string>
     <string name="track_browser_subtitle">Select country to view information about and download the GPX file.</string>
     <string name="tracks_view_subtitle">Track Information</string>
@@ -179,6 +209,8 @@
     <string name="disclaimer_agree">Agree</string>
     <string name="disclaimer_agree_dontshow">Agree &amp; never show</string>
     <string name="disclaimer_refuse">Refuse</string>
+    <string name="zoom_mode_enabled">Zoom Mode Enabled</string>
+    <string name="pan_mode_enabled">Pan Mode Enabled</string>
     <string name="disclaimer_message">By continuing to the download and in using the Trans Euro Trail® files, you are accepting and agree to everything below.
 \n\n
 1. The GPX is issued by the Trans Euro Trail® Community Interest Company, Company No. 11371199, Address: Unit 3, Cragg Road, Mytholmroyd, Hebden Bridge, West Yorkshire, HX7 5HR, United Kingdom.

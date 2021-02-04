@@ -1,0 +1,291 @@
+<resources>
+
+    <string name="filter">Filter</string>
+    <string name="track_section">Track Section</string>
+    <string name="section">Section</string>
+    <string name="options">Options</string>
+    <string name="dialog_remove_section">Remove this section or make it the only visible?</string>
+    <string name="remove">Remove</string>
+    <string name="only_visible">Only Visible</string>
+    <string name="rebuilding_waypoints">Rebuilding Waypoints</string>
+    <string name="rebuild_waypoints">Rebuild Waypoints</string>
+    <string name="remove_waypoints_dialog_title">Remove Waypoints Outside the Visible Sections?</string>
+    <string name="remove_waypoints_dialog_message">This will clean up all the waypoints, removing any that no longer is close to the visible sections</string>
+    <string name="no">No</string>
+    <string name="export_edited_gpx">Exporting Edited GPX file</string>
+
+
+    <!--COMMON TO ALL VIEWS-->
+    <string name="app_name">TET</string>
+    <string name="tet_logo_description">TET LOGO</string>
+    <string name="top_message_text">Respect voor de paden. Respect voor de omgeving. Respect voor de streken waar we doorreizen.</string>
+    <string name="footer_tet_website">Website</string>
+    <string name="footer_tet_contribute">Bijdragen</string>
+    <string name="ok">OK</string>
+    <string name="Wrong_Activity_Key">Verkeerde toets voor deze activiteit!</string>
+    <string name="Null_Key">Geen toets om deze activiteit te valideren!</string>
+    <string name="No_Bundle_Extras">Geen extra bundels voor deze activiteit!</string>
+    <string name="cancel">Annuleren</string>
+    <string name="Camera">Camera</string>
+    <string name="Local_Gallery_File">Gallerij</string>
+    <string name="yes">Ja</string>
+    <string name="later">Later</string>
+
+    <!--MAIN VIEW-->
+    <string name="pending_notification">0</string>
+    <!--Button: TET Tracks Browser-->
+    <string name="browser_tet_tracks_title">TET Tracks</string>
+    <string name="browser_button_text">BLADER</string>
+    <string name="browser_image_description">Blader doorheen de TET Tracks</string>
+    <!--Button: Report Route Problems-->
+    <string name="report_route_problem_title">Route probleem</string>
+    <string name="report_button_text">VERSLAG</string>
+    <string name="report_route_image_description">Verslag route problemen</string>
+    <!--Button: POIs-->
+    <string name="poi_title">Komt eraan</string>
+    <string name="poi_button">BINNENKORT</string>
+    <string name="poi_image_description">Nuttige plaatsen</string>
+    <!--Button: Community / Share-->
+    <string name="join_title">Gemeenschap</string>
+    <string name="join_button_text">TOETREDEN</string>
+    <string name="join_community_image_description">Online gemeenschap</string>
+    <!--Splash Message-->
+    <string name="tet_splash_message">Europa\'s meest epische motoravontuur</string>
+    <string name="touch_to_continue">Tik om door te gaan</string>
+    <!--END OF MAIN VIEW-->
+
+    <!--COMMUNITY VIEW-->
+    <!--Button: Facebook Group-->
+    <string name="facebook_tet_group_title">Facebook TET Groep</string>
+    <string name="facebook_icon_image_description">TET Facebook gezicht Icoon</string>
+    <string name="facebook_description">Ontmoet andere TET-leden en deel uw ervaringen</string>
+    <!--Button: Online Forum Page-->
+    <string name="tet_forum_title">TET Online Forum</string>
+    <string name="tet_forum_description">De plaats voor verslagen, documenten en constructieve discussies</string>
+    <string name="tet_forum_icon_image_description">Het officiële TET online forum</string>
+    <string name="tet_contribute_image_description">TET Bijdrage</string>
+    <!--Button: Code of Conduct-->
+    <string name="tet_code_icon_description">Gedragscode</string>
+    <string name="tet_code_title">Gedragscode</string>
+    <string name="tet_code_description">Lees meer over de TET-gedragscode op de website</string>
+    <!--Button: Integrations-->
+    <string name="tet_integration_title">TET geïntegreerde apps</string>
+    <string name="tet_integration_description">Android-apps die de functies van de TET-app integreren</string>
+
+    <!--Integration VIEW-->
+    <string name="integration_title">Apps die de TET-app integreren</string>
+    <string name="integration_description">Wanneer een app integreert met de TET App API, verbetert de gebruikerservaring. Het is eenvoudig, snel en naadloos!</string>
+    <string name="integration_example_video">VOORBEELD VIDEO</string>
+    <string name="integration_contact">CONTACTEER ONS</string>
+    <string name="integration_add_yours">Ontwikkelt u apps voor navigatie of met enige relevantie voor de TET? Wilt u onze API integreren? Neem contact op en vertel het ons! Bekijk ook de voorbeeldvideo.</string>
+    <string name="download">DOWNLOAD</string>
+    <string name="drivemode_title">Drive Mode Dashboard</string>
+    <string name="drivemode_description">Een zeer aanpasbaar dashboard voor je motor! Maak triplogs, navigeer door GPX-bestanden met offline kaarten, neem GPX-bestanden op, sla locaties op en bekijk ze, krijg gedetailleerde weersinformatie en nog veel meer.\n\n Het werd ontwikkeld door de maker van de TET-app en wil de ultieme TET-oplossing worden!</string>
+
+    <!--CONTRIBUTE VIEW-->
+    <string name="contribute_title">Maak hier uw eerste brandstof stop&#8230;</string>
+    <string name="contribute_subtitle">De Trans Euro Trail® wordt gevoed door passie, onderhouden door rijders en ondersteund door JOU. Het beste van alles is dat het gratis is en dat ook zo blijft!</string>
+    <string name="contribute_text_button">LEES MEER</string>
+    <string name="contribute_buy_merch">KOOP</string>
+    <string name="contribute_app_developer">LEVER EEN BIJDRAGE AAN DE APP</string>
+    <string name="contribute_options_text">Dit zijn de manieren waarop u het TET-project kunt helpen:</string>
+    <!--Merch SubView-->
+    <string name="merch_title">Officiële TET Handelswaar</string>
+    <string name="merch_subtitle">Verspreid de TET-vibes met onze T-shirts en heavy duty zelfklevers, of met de ADV Spec Linesman trail vest, speciaal ontwikkeld voor de TET.</string>
+    <string name="t_shirt_image_description">Het officiële TET T-shirt</string>
+    <string name="t_shirt_title">Trans Euro Trail® T-shirt</string>
+    <string name="t_shirt_description">Toon uw liefde door ons logo te dragen! \n\n£24.90 + portkosten</string>
+    <string name="Buy_Tshirt_button_text">KOOP</string>
+    <string name="sticker_title">Trans Euro Trail® Zelfklever</string>
+    <string name="sticker_description">Je motorfiets heeft dit zo hard nodig! \n\n£2.40 + portkosten</string>
+    <string name="sticker_image_description">De officiële TET Zelfklever</string>
+    <string name="jacket_title">ADV Spec Linesman Jacket</string>
+    <string name="jacket_image_description">Het officiële ADV Linesman Jacket</string>
+    <string name="jacket_description">Winddicht/ademend met Du Pont™ Kevlar® \n\n£249 + portkosten</string>
+
+    <!--REPORT TRACK PROBLEM VIEW-->
+    <string name="title_activity_maps">Kaart</string>
+    <string name="marker_report_location">Rapporteer deze locatie</string>
+    <string name="map_instructions">Tik ergens op de kaart en houd vast om een ​​markering op die locatie te plaatsen. Klik op het dradenkruis pictogram in de rechterbovenhoek om naar uw huidige locatie te springen. Als u zich in de offline modus bevindt, zorg er dan voor dat u zich fysiek op de probleemlocatie bevindt en over een geldige GPS-signaal beschiktl.</string>
+    <string name="error_fetching_countryname_title">Fout bij ophalen van landnaam</string>
+    <string name="error_fetching_countryname_message">We kunnen uw landnaam niet ophalen. Selecteer handmatig het land bij de volgende stap.</string>
+    <string name="report_second_step_next">VOLGENDE STAP</string>
+    <string name="report_step2_title">Trackprobleem melden</string>
+    <string name="report_location_text">Coördinaten:</string>
+    <string name="report_finish_next">VOLGENDE STAP</string>
+    <string name="linesman_name">Linesman:</string>
+    <string name="linesman_email">E-mail</string>
+    <string name="problem_input_description">Tik hier om een ​​kleine beschrijving over het probleem te schrijven</string>
+    <string name="problem_input_box_title">Beschrijving</string>
+    <string name="Track_Country_Text">Land TET Track:</string>
+    <string name="Track_Problem_Text">TET Track Probleem Type:</string>
+    <string name="Error_Starting_Report">Fout bij starten van rapport</string>
+    <string name="ConfirmCountry">Bevestig de landnaam</string>
+    <string name="Manually_Select_Country">Kan de landnaam niet automatisch detecteren. Selecteer handmatig het land voor de TET-track die u rapporteert!</string>
+    <string name="submit_title_text">Probleemrapport indienen</string>
+    <string name="report_resume_text">Geselecteerde Track:</string>
+    <string name="the_problem_is">Probleem Type:</string>
+    <string name="problem_at">Probleem coördinaten:</string>
+    <string name="report_submit">VERZEND</string>
+    <string name="Add_Photo_Title">Foto toevoegen aan rapport:</string>
+    <string name="No_Camera_Permission_Title">Camera-toestemming vereist</string>
+    <string name="No_Camera_Permission_Message">Om uw camera te gebruiken, moet u het verzoek om toestemming voor de camera accepteren!</string>
+    <string name="camera_request_again">Opnieuw aanvragen</string>
+    <string name="no_camera_available_title">Geen camera beschikbaar</string>
+    <string name="no_camera_available_message">Je apparaat heeft geen camera of je hebt geen camera-app geïnstalleerd!</string>
+    <string name="photo_to_be_submited">Te verzenden foto:</string>
+    <string name="photo_source">Selecteer Fotobron</string>
+    <string name="photo_source_message">Maak een foto met je camera of selecteer een lokaal bestand in je galerij!</string>
+    <string name="report_submited_success_title">Uw rapport is bezorgd!</string>
+    <string name="report_submited_success_message">Bedankt voor het indienen van uw track probleemrapport, we zullen zo snel mogelijk actie ondernemen.</string>
+    <string name="Photo_Upload_Progress">Foto uploaden</string>
+    <string name="error_restart_title">Er is iets fout gegaan!</string>
+    <string name="error_restart_message">Probeer opnieuw een rapport te maken!</string>
+    <string name="error_upload_later_title">Kon geen verbinding maken met de server</string>
+    <string name="error_upload_later_message">Dit logboek wordt opgeslagen en wordt ingediend wanneer het mogelijk is om verbinding te maken met de server.</string>
+    <string name="No_Internet_title">Offline rapportmodus</string>
+    <string name="No_Internet_message">Er is geen internetverbinding, maar geen paniek :) De kaart wordt mogelijk niet correct weergegeven, maar uw locatie wordt nog steeds vastgelegd. Het logboek wordt ook opgeslagen als een rapport in behandeling dat wordt verzonden wanneer u opnieuw internettoegang heeft.</string>
+    <string name="pending_report_title_1">Je hebt</string>
+    <string name="pending_report_title_2">afwachtende rapporten</string>
+    <string name="pending_report_message">Wil je ze nu indienen??</string>
+    <string name="pending_success_title">Afwachtende rapporten verstuurd!</string>
+    <string name="pending_success_message">U heeft al uw afwachtende rapporten met succes ingediend, dank u.</string>
+    <string name="pending_error_title">Fout bij het indienen van een rapport!</string>
+    <string name="pending_error_message">Er is iets misgegaan bij het indienen van uw melding. Probeer het later opnieuw.</string>
+    <string name="storage_permissions_title">Opslagtoestemming vereist</string>
+    <string name="storage_permissions_message">Om een ​​foto voor een rapport op te slaan, moet u het verzoek om opslagrechten accepteren!</string>
+    <string name="map_style_description">Selecteer de kaartstijl</string>
+    <string name="map_style_dialog_title">Selecteer kaartstijl</string>
+    <string name="using_sats">Gebruik maken van</string>
+    <string name="satas_out_of">aantal sattelieten uit de</string>
+    <string name="available_in_view">beschikbaar in zicht</string>
+    <string name="gps_accuracy">GPS Nauwkeurigheid</string>
+    <string name="gps_accuracy_message_wait">Wacht a.u.b. op een betere GPS-nauwkeurigheid om uw locatie te melden!</string>
+    <string name="gps_accuracy_message_not_bad">GPS-nauwkeurigheid zou voldoende moeten zijn om te rapporteren op basis van uw locatie.</string>
+    <string name="gps_accuracy_message_good">GPS-nauwkeurigheid is goed, u kunt uw huidige locatie gebruiken om te rapporteren!</string>
+    <string name="no_location_selected_title">Geen locatie geselecteerd</string>
+    <string name="no_location_selected_message">Tik ergens op de kaart en houd vast om de rapport locatie te markeren of klik op de kruiscursor in de rechterbovenhoek om uw huidige locatie te selecteren.</string>
+    <string name="no_message_no_photo_title">Geen beschrijving en geen foto!</string>
+    <string name="no_message_no_photo_message">Je hebt geen beschrijving geschreven en je hebt geen foto toegevoegd, dit maakt het erg moeilijk voor ons om het probleem te identificeren, overweeg om iets te schrijven of een foto toe te voegen!</string>
+    <string name="track_length">Lengte van de track:</string>
+
+
+    <!--TRACK BROWSER-->
+    <string name="track_browser_title">Track Browser</string>
+    <string name="track_browser_subtitle">Selecteer land om informatie over te bekijken en het GPX-bestand te downloaden.</string>
+    <string name="tracks_view_subtitle">Track Informatie</string>
+    <string name="open_track">OPEN DE TRACK</string>
+    <string name="generating_list">Lijst genereren</string>
+    <string name="delete_local_file">BESTAND VERWIJDEREN</string>
+    <string name="gpx_open_dialog">Laden van het GPX bestand</string>
+    <string name="fetching_country_list">Lijst met landen ophalen</string>
+    <string name="track_download_progress">Downloaden van de track</string>
+    <string name="track_browser_noInternet_title">Geen verbinding - offline modus</string>
+    <string name="track_browser_noInternet_message">Er is geen internettoegang of er is een probleem opgetreden bij het verbinden met de server. Je kunt alleen je eerder gedownloade tracks (lokale bestanden) bekijken.</string>
+    <string name="track_download_offline_title">Gedownloade tracks</string>
+    <string name="track_download_offline_subtitle">Eerder gedownloade bestanden doorbladeren in offline modus.</string>
+    <string name="track_last_updated">Track laatst bijgewerkt op</string>
+    <string name="no_offline_files">Geen GPX-tracks gevonden!</string>
+    <string name="track_updates_available_title">Er zijn trackupdates beschikbaar!</string>
+    <string name="track_updates_available_message">Wil je ze nu updaten?</string>
+    <string name="updating_tracks">Je lokale GPX-tracks bijwerken</string>
+    <string name="track_updated_success_title">GPX-tracks bijgewerkt</string>
+    <string name="track_updated_success_message">Lokaal GPX-bestand (en) bijgewerkt voor: </string>
+    <string name="track_updated_error_title">GPX-trackupdate mislukt</string>
+    <string name="track_updated_error_message">Er is een fout opgetreden bij het updaten van je tracks. Probeer het later opnieuw.</string>
+    <string name="track_view_start_error_title">Fout bij het starten van activiteit</string>
+    <string name="track_view_start_error_message">Er is een fout opgetreden bij het starten van deze activiteit. Probeer het opnieuw!</string>
+    <string name="track_delete_success_title">Lokaal GPX-bestand verwijderd</string>
+    <string name="track_delete_success_message">Het lokale GPX-bestand voor dit land is verwijderd, u kunt het later altijd opnieuw downloaden!</string>
+    <string name="track_delete_error_title">Fout bij verwijderen van lokaal GPX-bestand</string>
+    <string name="track_delete_error_message">Er is een probleem opgetreden bij het verwijderen van uw lokale bestand. Probeer het opnieuw!</string>
+    <string name="track_download_error_title">Fout bij downloaden van bestand</string>
+    <string name="track_download_error_message">Er is een fout opgetreden bij het downloaden van het GPX-bestand. Probeer het later opnieuw.</string>
+    <string name="gpx_parse_error_title">Fout bij openen van GPX-bestand</string>
+    <string name="gpx_parse_error_message">Er lijkt een probleem te zijn bij het lezen van het GPX-bestand. Probeer het alstublieft opnieuw te openen!</string>
+    <string name="gpx_open_noapp_title">Geen compatibele app geïnstalleerd</string>
+    <string name="gpx_open_noapp_message">Er is geen app die GPX-bestanden kan verwerken, installeer er een uit de Play Store.</string>
+    <string name="disclaimer_DontShowAgain">Niet meer laten zien</string>
+    <string name="no_permissions_title">Geen GPS-toestemming</string>
+    <string name="no_permissions_message">Dit werkt niet zonder GPS-toestemming. Ter info: we verzamelen GEEN gebruikersgegevens!</string>
+    <string name="disclaimer_title">Lees dit voor het downloaden</string>
+    <string name="disclaimer_agree">Akkoord</string>
+    <string name="disclaimer_agree_dontshow">Akkoord &amp; toon nooit</string>
+    <string name="disclaimer_refuse">Weiger</string>
+    <string name="zoom_mode_enabled">Zoommodus ingeschakeld</string>
+    <string name="pan_mode_enabled">Pan-modus ingeschakeld</string>
+    <string name="disclaimer_message">Door verder te gaan met downloaden en de Trans Euro Trail®-bestanden te gebruiken, accepteert u en gaat u akkoord met alles hieronder.
+\n\n
+1. De GPX wordt uitgegeven door de Trans Euro Trail® Community Interest Company, bedrijfsnummer 11371199, adres: Unit 3, Cragg Road, Mytholmroyd, Hebden Bridge, West Yorkshire, HX7 5HR, Verenigd Koninkrijk.
+\n \n
+2. De GPX wordt gratis uitgegeven en wordt geleverd "zoals hij is", met alle fouten en defecten, en zonder enige vorm van garantie.
+\n \n
+3. De nauwkeurigheid van het pad is niet gegarandeerd en ook de GPS-coördinaten niet.
+\n \n
+4. De Trans Euro Trail® is een suggestie en geen opgelegde ,te volgen, richting.
+\n \n
+5. De Trans Euro Trail® Community Interest Company verklaart of garandeert niet dat materialen op de site of in de services accuraat, volledig, betrouwbaar, actueel of foutloos zijn.
+\n \n
+6. De Trans Euro Trail® Community Interest Company kan niet verklaren of garanderen dat de site of haar servers vrij zijn van virussen of andere schadelijke componenten.
+\n \n
+7. U verbindt zich ertoe deze GPX niet te delen op een elektronisch apparaat voor het delen van bestanden of op een server.
+\n \n
+8. U downloadt de meest recente GPX voor uw reisland net voordat u deze nodig heeft en downloadt updates, indien relevant, tijdens het reizen.
+\n \n
+9. Als je op privéterrein afdwaalt, bied dan je excuses aan en ga weer de weg of het pad op.
+\n \n
+10. Deze paden kunnen volgens de lokale wetgeving op korte termijn tijdelijk of permanent worden afgesloten.
+\n \n
+11. Rijd niet op paden die buiten uw mogelijkheden liggen. Als je het niet zeker weet, stap dan van je motorfiets en verken eerst het pad. Wees bereid om je om te draaien en een alternatieve route te vinden.
+\n \n
+12. Trailrijden alleen, vooral op paden die je niet kent, is echt onverstandig.
+\n \n
+13. Veel landpaden worden zelden onderhouden. Je zult sporen, gaten, overstromingen, verraderlijke oppervlakken en mogelijks af ​​en toe een val met boobytraps vinden die opzettelijk zijn geplaatst door mensen die het offroad rijden niet gunstig gezind zijn.
+\n \n
+14. Wanneer u de paden en wegen gebruikt, staat u er alleen voor. Beoordeel ieder deel van het traject in functie van je eigen vaardigheden en je eigen navigatiekunde. Het enige wat de Trans Euro Trail® Community Interest Company kan doen, is u laten zien waar sommige van de paden zijn, maar hun wettigheid en levensvatbaarheid worden niet bevestigd en kunnen in een oogwenk veranderen.
+\n \n
+15. U verbindt zich ertoe verkeersborden, slagbomen en plaatselijke wetten te respecteren en na te leven. De beslissing om een ​​weg of pad te gebruiken is geheel aan u en u accepteert dat u de volledige verantwoordelijkheid draagt ​​voor uw actie of enige overtreding van de wet.
+\n\n
+16. De Trans Euro Trail®-onderneming is niet aansprakelijk voor het gebruik van de GPX, direct of indirect voortvloeiend uit het gebruik ervan of op enige wijze met betrekking tot een claim die is ingediend in een ander rechtsgebied dan het Verenigd Koninkrijk, Isle of Man of Kanaaleilanden.
+\n \n
+17. Motorrijden brengt risico\'s met zich mee. Avontuurlijk motorrijden draagt ​​hieraan bij: \n
+a. De dekking van mobiele telefoons is mogelijk slecht of niet aanwezig, dus het kan zijn dat de hulp bij het oproepen beperkt is. Als hulp wordt ingeroepen, kan het moeilijk zijn om u te bereiken en kunt u hoge kosten maken. Onverharde paden variëren van grind tot gebroken teer tot zand tot steen tot kei tot gras. Elk heeft zijn eigen uitdagingen van grip, stabiliteit en onvoorspelbaarheid, die allemaal enorm variëren met weersomstandigheden die snel kunnen veranderen, vooral in berggebieden. \ N
+b. De fysieke eisen van het rijden op een motorfiets, beladen of anderszins, off-road zijn niet te onderschatten. Als u valt, kan het zwaar werk zijn om terug recht te komen. Voeg hieraan de mix van het variabele klimaat in Europa toe - onder nul tot 30°C en hoger - en hitte, kou en uitdroging kunnen de prestaties nadelig beïnvloeden en een gevaarlijke cocktail maken wanneer ze worden gemengd met de complexe taak van het offroad rijden.\ N
+c. Navigatie kan een uitdaging zijn, vooral zonder te oefenen met het gebruik van GPS of kaarten onderweg, aan de "verkeerde" kant van de weg of met wegwijzers in een onbekende taal. \ N
+d. Mechanische problemen die gemakkelijk in de eigen garage of woonplaats kunnen worden opgelost, kunnen een veel grotere uitdaging zijn als u niet thuis bent in een gebied met een slechte infrastructuur of gebrek aan dealers. \n
+e. Lokale volwassenen en kinderen (en dieren!) zijn mogelijk niet bekend met motorfietsen of hun capaciteiten en beoordelen situaties verkeerd. Rij normen en discipline variëren enorm en vaak is de perceptie "macht is goed", met weinig aandacht voor de kleine man op een motor aanwezig. \n
+f. Lokale wilde dieren, zowel huisdieren als wilde dieren, kunnen risico\'s opleveren. In sommige gebieden zijn beren en wolven aanwezig, in andere slangen. In het verre noorden rondzwervende rendieren en overal vee en honden. \n
+g. Wet- en regelgeving veranderen altijd op het hele continent, dus een spoor waarvan de bijdragers dachten dat het legaal was, is dat nu misschien niet meer. Dit kan leiden tot conflicten met de autoriteiten, gemeenschappen, landeigenaren of andere gebruikers - alles van een blik, een schreeuw of een gebalde vuist tot arrestatie, vervolging, procesvoering, verbeurdverklaring van de fiets, boete of verlies van rijbewijs of vrijheid. \ N
+h. Concepten en praktijken van sanitaire voorzieningen en hygiëne variëren enorm en medische voorzieningen kunnen schaars, suboptimaal of ver weg zijn. \ N
+ik. Houd steeds rekening met mogelijke diefstal, mishandeling of fraude. \n
+j. Houd er rekening mee dat sommige delen van Oost-Europa ook meer bekend zijn met mobiele bevolkingsgroepen als gevolg van de toestroom van vluchtelingen, zodat u mogelijk wanhopig arme mensen of behoedzame autoriteiten tegenkomt. \ N
+k. In Bosnië, Kroatië en andere plaatsen bestaat er nog steeds oorlogsafval in de vorm van niet-verklaarde mijnenvelden. Sneeuw, water en bodemgroei verstoppen deze allemaal, zodat afdwalen van gevestigde, goed gebruikte paden gevaarlijk en, natuurlijk, dom kan zijn.
+\n \n
+18. Alle paden en wegen vereisen dat u en uw motorfiets volledig verzekerd, gecertificeerd en rijklaar zijn.
+\n \n
+19. U moet ervoor zorgen dat uw papierwerk in orde is, of het nu gaat om een motor​​fiets-, pech- of medische / repatriëringsverzekering, rijbewijzen of paspoorten.
+\n \n
+20. Je moet wat oefenen om vertrouwen en competentie op te bouwen (en respect voor je eigen limieten en die van je fiets).
+\n \n
+21. U dient ervoor te zorgen dat u naar behoren bent uitgerust met de juiste banden, reserveonderdelen, bescherming, verbanddoos, communicatieapparatuur (en batterijen!), Bagage en kampeerspullen.
+\n \n
+22. Rijd met een bewustzijn van het terrein, het oppervlak en anticiperen op onverwachte gevaren.
+\n \n
+23. Matig uw snelheid.
+\n \n
+24. Bent u wel fit genoeg?. Als u een medische aandoening heeft, denk dan goed na en neem zeker eerst medisch advies.
+\n \n
+25. Begin de reis met een rijklare motorfiets. Ken uw motorfiets, weet welke dagelijkse controles u moet uitvoeren en hoe u hiermee problemen kunt oplossen.
+\n \n
+26. Neem veiligheidsmaatregelen rond uw bezittingen en uzelf.
+\n \n
+27. U stemt ermee in zich te houden aan de Trans Euro Trail®-gedragscode en ambassadeur te zijn van verantwoord motorrijden.
+\n \n
+28. Accepteer dat je meester bent van je eigen lot, veiligheid en gezondheid. Je neemt de volledige verantwoordelijkheid voor wat er ook gebeurt.</string>
+
+    <!--NOTIFICATION SERVICE-->
+    <string name="notification_trackupdate_title">GPX-trackupdate beschikbaar</string>
+    <string name="notification_trackupdate_message1">Er is</string>
+    <string name="notification_trackupdate_message2">track update(s) beschikbaar.</string>
+
+</resources>

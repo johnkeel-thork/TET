@@ -1,0 +1,292 @@
+<resources>
+
+    <string name="filter">Filter</string>
+    <string name="track_section">Odcinek trasy</string>
+    <string name="section">Odcinek</string>
+    <string name="options">Opcje</string>
+    <string name="dialog_remove_section">Ukryć ten odcinek lub pozostawić jako jedyny widoczny?</string>
+    <string name="remove">Ukryj</string>
+    <string name="only_visible">Jedyny widoczny</string>
+    <string name="rebuilding_waypoints">Odbudowa punktów orientacyjnych</string>
+    <string name="rebuild_waypoints">Odbuduj punty orientacyjne</string>
+    <string name="remove_waypoints_dialog_title">Usunąć punkty orientacyjne poza widocznym odcinkiem?</string>
+    <string name="remove_waypoints_dialog_message">Ta czynność usunie wszystkie punkty orientacyjne, które nie znajdują się w pobliżu widocznego odcinka.</string>
+    <string name="no">Nie</string>
+    <string name="export_edited_gpx">Export edytowanego pliku GPX</string>
+
+
+    <!--COMMON TO ALL VIEWS-->
+    <string name="app_name">TET</string>
+    <string name="tet_logo_description">TET LOGO</string>
+    <string name="top_message_text">Szanuj trasy. Szanuj środowisko. Szanuj społeczności, które odwiedzasz.</string>
+    <string name="footer_tet_website">Strona internetowa</string>
+    <string name="footer_tet_contribute">Wspomóż</string>
+    <string name="ok">OK</string>
+    <string name="Wrong_Activity_Key">Nieprawidłowy klucz dla tej czynności!</string>
+    <string name="Null_Key">Brak klucza by zatwierdzić tę czynność!</string>
+    <string name="No_Bundle_Extras">Brak dodatków wymaganych do tej czynności!</string>
+    <string name="cancel">Anuluj</string>
+    <string name="Camera">Aparat</string>
+    <string name="Local_Gallery_File">Galeria zdjęć</string>
+    <string name="yes">Tak</string>
+    <string name="later">Później</string>
+
+    <!--MAIN VIEW-->
+    <string name="pending_notification">0</string>
+    <!--Button: TET Tracks Browser-->
+    <string name="browser_tet_tracks_title">Trasy TET</string>
+    <string name="browser_button_text">PRZEGLĄDAJ</string>
+    <string name="browser_image_description">Przeglądaj trasy TET</string>
+    <!--Button: Report Route Problems-->
+    <string name="report_route_problem_title">Problem z trasą</string>
+    <string name="report_button_text">ZGŁOŚ</string>
+    <string name="report_route_image_description">Zgłoś problem z trasą</string>
+    <!--Button: POIs-->
+    <string name="poi_title">Dostępne wkrótce</string>
+    <string name="poi_button">WKRÓTCE</string>
+    <string name="poi_image_description">Ciekawe miejsca</string>
+    <!--Button: Community / Share-->
+    <string name="join_title">Społeczność</string>
+    <string name="join_button_text">WEŹ UDZIAŁ</string>
+    <string name="join_community_image_description">Społeczność internetowa</string>
+    <!--Splash Message-->
+    <string name="tet_splash_message">Wspaniała europejska przygoda motocyklowa</string>
+    <string name="touch_to_continue">Kliknij aby przejść dalej</string>
+    <!--END OF MAIN VIEW-->
+
+    <!--COMMUNITY VIEW-->
+    <!--Button: Facebook Group-->
+    <string name="facebook_tet_group_title">Grupa TET na Facebooku</string>
+    <string name="facebook_icon_image_description">TET Facebook Image Icon</string>
+    <string name="facebook_description">Poznaj innych uczestników TET i podziel się swoimi doświadczeniami</string>
+    <!--Button: Online Forum Page-->
+    <string name="tet_forum_title">Forum TET</string>
+    <string name="tet_forum_description">Miejsce na porady, raporty i ciekawe dyskusje</string>
+    <string name="tet_forum_icon_image_description">Oficjalne Forum TET</string>
+    <string name="tet_contribute_image_description">Wspomóż TET</string>
+    <!--Button: Code of Conduct-->
+    <string name="tet_code_icon_description">Kodeks postępowania</string>
+    <string name="tet_code_title">Kodeks postępowania</string>
+    <string name="tet_code_description">Przeczytaj kodeks postępowania TET na stronie nternetowej</string>
+    <!--Button: Integrations-->
+    <string name="tet_integration_title">Aplikacje zintegrowane z TET</string>
+    <string name="tet_integration_description">Aplikacje na Androida, które obsługują funkcje aplikacji TET</string>
+
+    <!--Integration VIEW-->
+    <string name="integration_title">Aplikacje zintegrowane z aplikacją TET</string>
+    <string name="integration_description">Gdy aplikacja współpracuje z API aplikacji TET, doznania użytkownika się polepszają. To proste, szybkie i płynne.</string>
+    <string name="integration_example_video">PRZYKŁADOWE WIDEO</string>
+    <string name="integration_contact">SKONTAKTUJ SIĘ Z NAMI</string>
+    <string name="integration_add_yours">Czy zajmujesz się rozwojem aplikacji do nawigacji lub w jakiś sposób mających zastosowanie w TET? Chciałbyś wykorzystać nasz API? Kliknij SKONTAKTUJ SIĘ Z NAMI aby nam o tym opowiedzieć. Obejrzyj tez przykładowe wideo.</string>
+    <string name="download">POBIERZ</string>
+    <string name="drivemode_title">Drive Mode Dashboard</string>
+    <string name="drivemode_description">Zestaw instrumentów dla Twojego motocykla z dużą możliwością konfiguracji. Twórz zapis tras, nawiguj z plików GPX używając map offline, zapisuj i przeglądaj miejsca, pobierz dane pogodowe i dużo, dużo innych funkcji. Opracowany przez twórcę aplikacji TET z ambicją by stać się najlepszym narzędziem na TET.</string>
+
+    <!--CONTRIBUTE VIEW-->
+    <string name="contribute_title">Zatankuj tutaj!</string>
+    <string name="contribute_subtitle">Trans Euro Trail® napędzany jest pasją, utrzymywany przez uczestników i wspierany przez CIEBIE. Co najlepsze, jest darmowy i taki pozostanie.</string>
+    <string name="contribute_text_button">PRZECZYTAJ WIĘCEJ</string>
+    <string name="contribute_buy_merch">KUP GADŻETY</string>
+    <string name="contribute_app_developer">WSPOMÓŻ APLIKACJĘ</string>
+    <string name="contribute_options_text">Możesz wesprzeć TET w następujący sposób:</string>
+    <!--Merch SubView-->
+    <string name="merch_title">Oficjalne gadżety TET</string>
+    <string name="merch_subtitle">Reklamuj ducha TET poprzez koszulki i wytrzymałe naklejki na motocykl. Możesz też kupić kurtkę ADV Spec Linesman zaprojektowaną z myślą o TET.</string>
+    <string name="t_shirt_image_description">Oficjalne koszulki TET</string>
+    <string name="t_shirt_title">T-shirt Trans Euro Trail®</string>
+    <string name="t_shirt_description">Pokaż zaangażowanie przez noszenie naszego logo! \n\n£24.90 + koszty wysyłki</string>
+    <string name="Buy_Tshirt_button_text">KUP</string>
+    <string name="sticker_title">Naklejka Trans Euro Trail®</string>
+    <string name="sticker_description">Twój motocykl nie może się bez tego obejść!\n\n£2.40 + koszty wysyłki</string>
+    <string name="sticker_image_description">Oficjalna naklejka TET</string>
+    <string name="jacket_title">Kurtka ADV Spec Linesman</string>
+    <string name="jacket_image_description">Oficjalna kurtka ADV Linesman</string>
+    <string name="jacket_description">Wiatroodporna/oddychająca kurtka zawierająca Du Pont™ Kevlar® \n\n£249 + koszty wysyłki</string>
+
+    <!--REPORT TRACK PROBLEM VIEW-->
+    <string name="title_activity_maps">Mapa</string>
+    <string name="marker_report_location">Zgłoś tę lokalizację</string>
+    <string name="map_instructions">Dotkinj palcem i przytrzymaj w dowolnym miejscu na mapie aby umieścić znacznik. Wybierz celownik w prawym górnym rogu ekranu aby wybrać Twoją aktualną pozycję. Jeśli jesteś w trybie offline, upewnij się, że jesteś dokładnie w miejscu występowania problemu i masz sygnał GPS.</string>
+    <string name="error_fetching_countryname_title">Błąd określania nazwy kraju</string>
+    <string name="error_fetching_countryname_message">Nie możemy określić kraju, w którym się znajdujesz. Ręcznie wybierz kraj z listy w następnym kroku.</string>
+    <string name="report_second_step_next">NASTĘPNY KROK</string>
+    <string name="report_step2_title">Zgłoś problem z trasą</string>
+    <string name="report_location_text">Współrzędne</string>
+    <string name="report_finish_next">NASTĘPNY KROK</string>
+    <string name="linesman_name">Opiekun</string>
+    <string name="linesman_email">e-mail</string>
+    <string name="problem_input_description">Dotknij tu aby wprowadzić krótki opis zgłaszanego problemu</string>
+    <string name="problem_input_box_title">Opis problemu</string>
+    <string name="Track_Country_Text">Kraj:</string>
+    <string name="Track_Problem_Text">Rodzaj zgłaszanego problemu</string>
+    <string name="Error_Starting_Report">Błąd inicjacji zgłoszenia</string>
+    <string name="ConfirmCountry">Proszę wybrać nazwę kraju</string>
+    <string name="Manually_Select_Country">Nie można wykryć nazwy kraju. Proszę ręcznie wybrać kraj, w którym występuje zgłaszany problem.</string>
+    <string name="submit_title_text">Zgłoś problem z trasą</string>
+    <string name="report_resume_text">Wybrana trasa:</string>
+    <string name="the_problem_is">Rodzaj problemu:</string>
+    <string name="problem_at">Współrzędne problemu:</string>
+    <string name="report_submit">WYŚLIJ</string>
+    <string name="Add_Photo_Title">Dołącz zdjęcie do zgłoszenia:</string>
+    <string name="No_Camera_Permission_Title">Wymagane zezwolenie na dostęp do aparatu</string>
+    <string name="No_Camera_Permission_Message">Aby użyć aparatu musisz zatwierdzić żądanie dostępu do aparatu!</string>
+    <string name="camera_request_again">Zażądaj ponownie</string>
+    <string name="no_camera_available_title">Aparat niedostępny</string>
+    <string name="no_camera_available_message">Twoje urządzenie nie ma aparatu lub nie masz zainstalowanej aplikacji do jego obsługi.</string>
+    <string name="photo_to_be_submited">Zdjęcie do wysłania:</string>
+    <string name="photo_source">Wybierz źródło</string>
+    <string name="photo_source_message">Zrób zdjęcie lub dołącz plik z galerii</string>
+    <string name="report_submited_success_title">Twoje zgłoszenie zostało dostarczone!</string>
+    <string name="report_submited_success_message">Dziękujemy za zgłoszenie problemu z trasą. Zrobimy z tym coś tak szybko, jak będzie to możliwe.</string>
+    <string name="Photo_Upload_Progress">Wrzuć zdjęcie</string>
+    <string name="error_restart_title">Coś poszło nie tak!</string>
+    <string name="error_restart_message">Spróbuj utworzyć zgłoszenie ponownie.</string>
+    <string name="error_upload_later_title">Nie można połączyć się z  serwerem</string>
+    <string name="error_upload_later_message">Informacja będzie zapisana i zostanie wysłana gdy połączenie z serwerem będzie możliwe.</string>
+    <string name="No_Internet_title">Tryb zgłoszenia offline</string>
+    <string name="No_Internet_message">Nie masz połączenia z internetem ale to nie szkodzi. Mapa może nie wyświetlać się prawidłowo ale Twoja lokalizacja zostanie zapisana. Informacja będzie zapisana jako “Oczekujące” i zostanie dostarczona gdy połączysz się z internetem.</string>
+    <string name="pending_report_title_1">Masz</string>
+    <string name="pending_report_title_2">zgłoszenie(a) oczekujący(e)</string>
+    <string name="pending_report_message">Czy chcesz je wysłać teraz?</string>
+    <string name="pending_success_title">Oczekujące zgłoszenia wysłane!</string>
+    <string name="pending_success_message">Udało się wysłać wszystkie oczekujące zgłoszenia. Dziękujemy!</string>
+    <string name="pending_error_title">Błąd wysyłania zgłoszenia!</string>
+    <string name="pending_error_message">Coś poszło nie tak podczas próby wysłania Twojego zgłoszenia. Spróbuj ponownie później.</string>
+    <string name="storage_permissions_title">Zezwolenie na dostęp do pamięci wymagane.</string>
+    <string name="storage_permissions_message">Aby zapisać zdjęcie do zgłoszenia musisz zatwierdzić żądanie dostępu do pamięci!</string>
+    <string name="map_style_description">Wybierz styl mapy</string>
+    <string name="map_style_dialog_title">Wybierz styl mapy</string>
+    <string name="using_sats">Używasz</string>
+    <string name="satas_out_of">satelit z</string>
+    <string name="available_in_view">dostępnych</string>
+    <string name="gps_accuracy">Dokładność GPS</string>
+    <string name="gps_accuracy_message_wait">Poczekaj na dokładniejszy sygnał GPS aby wysłać zgłoszenie przy użyciu Twojej aktualnej lokalizacji.</string>
+    <string name="gps_accuracy_message_not_bad">Dokładność GPS powinna wystarczyć aby wysłać zgłoszenie</string>
+    <string name="gps_accuracy_message_good">Dokładność GPS bardzo dobra. Można jej użyć w zgłoszeniu.</string>
+    <string name="no_location_selected_title">Nie wybrano lokalizacji</string>
+    <string name="no_location_selected_message">Dotkinj palcem i przytrzymaj w dowolnym miejscu na mapie aby umieścić znacznik. Wybierz celownik w prawym górnym rogu ekranu aby wybrać Twoją aktualną pozycję.</string>
+    <string name="no_message_no_photo_title">Brak opisu i zdjęcia!</string>
+    <string name="no_message_no_photo_message">Nie opisałeś problemu i nie dodałeś zdjęcia przez co trudno będzie nam określić problem i znaleźć rozwiązanie. Napisz coś lub dodaj zdjęcie jeśli możesz!</string>
+    <string name="track_length">Dłogość trasy:</string>
+
+
+    <!--TRACK BROWSER-->
+    <string name="track_browser_title">Przeglądarka tras</string>
+    <string name="track_browser_subtitle">Wybierz kraj aby zobaczyć szczegóły i ściągnąć plik GPX.</string>
+    <string name="tracks_view_subtitle">Informacje o trasie</string>
+    <string name="open_track">OTWÓRZ TRASĘ</string>
+    <string name="generating_list">Tworzenie listy</string>
+    <string name="delete_local_file">USUŃ PLIK</string>
+    <string name="gpx_open_dialog">Ładowanie pliku GPX</string>
+    <string name="fetching_country_list">Pobieranie listy krajów</string>
+    <string name="track_download_progress">Pobieranie trasy</string>
+    <string name="track_browser_noInternet_title">Brak połączenia - tryb offline</string>
+    <string name="track_browser_noInternet_message">Brak połączenia z internetem lub nie można było połączyć się z serwerem. Możesz obecnie przeglądać tylko trasy, które już pobrano na urządzenie.</string>
+    <string name="track_download_offline_title">Pobrane trasy</string>
+    <string name="track_download_offline_subtitle">Przeglądanie pobranych już tras w trybie offline.</string>
+    <string name="track_last_updated">Trasa ostatnio zmodyfikowana</string>
+    <string name="no_offline_files">Nie znaleziono tras GPX</string>
+    <string name="track_updates_available_title">Dostępne są aktualizacje trasy!</string>
+    <string name="track_updates_available_message">Czy chcesz je zaktualizować teraz?</string>
+    <string name="updating_tracks">Aktualizacja dostępnych tras GPX</string>
+    <string name="track_updated_success_title">Zaktualizowano trasy GPX</string>
+    <string name="track_updated_success_message">Zaktualizowano plik(i) GPX dla: </string>
+    <string name="track_updated_error_title">Nie udało się zaktualizować trasy GPX</string>
+    <string name="track_updated_error_message">Wystąpił błąd podczas aktualizacji Twoich tras. Proszę spróbować później.</string>
+    <string name="track_view_start_error_title">Błąd przy rozpoczęciu czynności</string>
+    <string name="track_view_start_error_message">Wystąpił błąd przy rozpoczęciu tej czynności, spróbuj ponownie!</string>
+    <string name="track_delete_success_title">Plik GPX usunięty</string>
+    <string name="track_delete_success_message">Plik GPX dla tego kraju został usunięty. Możesz go pobrać ponownie później.</string>
+    <string name="track_delete_error_title">Błąd przy usuwaniu pliku GPX</string>
+    <string name="track_delete_error_message">Wystąpił błąd przy usuwaniu pliku, spróbuj ponownie!</string>
+    <string name="track_download_error_title">Błąd przy pobieraniu pliku</string>
+    <string name="track_download_error_message">Wystąpił błąd przy pobieraniu pliku, spróbuj ponownie!</string>
+    <string name="gpx_parse_error_title">Błąd przy otwieraniu pliku GPX</string>
+    <string name="gpx_parse_error_message">Wystąpił błąd przy otwieraniu pliku, spróbuj ponownie!</string>
+    <string name="gpx_open_noapp_title">Brak kompatybilnej aplikacji</string>
+    <string name="gpx_open_noapp_message">Nie zainstalowano aplikacji obsługującej pliki GPX. Pobierz i zainstaluj aplikację ze Sklepu Play.</string>
+    <string name="disclaimer_DontShowAgain">Nie pokazuj ponownie</string>
+    <string name="no_permissions_title">Brak dostępu do GPS</string>
+    <string name="no_permissions_message">Działanie nie jest możliwe bez dostępu do GPS. Dane użytkownika nie będą przez nas zbierane!</string>
+    <string name="disclaimer_title">Przeczytaj to przed popbraniem</string>
+    <string name="disclaimer_agree">Zgoda</string>
+    <string name="disclaimer_agree_dontshow">Zgoda, nie pokazuj ponownie</string>
+    <string name="disclaimer_refuse">Odmowa</string>
+    <string name="zoom_mode_enabled">Uruchomiono tryb przybliżenia</string>
+    <string name="pan_mode_enabled">Uruchomiono tryb obrotu</string>
+    <string name="disclaimer_message">Poprzez pobranie i używanie plików Trans Euro Trail® wyrażasz zgodę na wszystkie punkty wyszczególnione poniżej.
+\n\n
+1. Pliki GPX udostępnione są przez Trans Euro Trail® Community Interest Company, Company No. 11371199, Address: Unit 3, Cragg Road, Mytholmroyd, Hebden Bridge, West Yorkshire, HX7 5HR, United Kingdom.
+\n\n
+2. Ten GPX jest dostępny bezpłatnie; proszę go więc zaakceptować takim, jakim jest, ze wszystkimi defektami, błędami i bez jakiejkolwiek gwarancji
+
+Pliki GPX udostępnione są bezpłatnie w takiej postaci jak obecnie,  The GPX is issued free of charge and is provided "as is," with all faults, defects and errors, and without warranty of any kind.
+\n\n
+3. Dokładność trasy nie może być zagwarantowana. Dotyczy to również współrzędnych GPS.
+\n\n
+4. Trasa Trans Euro Trail® to zbiór wskazówek, nie wytycznych.
+\n\n
+5. Trans Euro Trail® Community Interest Company nie gwarantuje, że materiały na stronie internetowej są dokładne, kompletne, aktualne i bezbłędne.
+\n\n
+6. Trans Euro Trail® Community Interest Company nie może zagwarantować, że strona internetowa lub serwery wolne są od wirusów lub innego szkodliwego oprogramowania
+\n\n
+7. Zgadzasz się nie publikować plików GPX na żadnym urządzeniu, serwisie lub serwerze służącym do przesyłania plików.
+\n\n
+8. Pobierzesz ostatni dostępny plik GPX dla danego kraju przed podróżą i pobierzesz aktualizacje jeśli będą dostępne w czasie korzystania.
+\n\n
+9. Jeśli wjedziesz na czyjś prywatny teren, przeproś i wycofaj się na drogę lub trasę.
+\n\n
+10. Trasy mogą być tymczasowo lub na stałe niedostępne bez ostrzeżenia w zależności od lokalnych przepisów.
+\n\n
+11. Nie podejmuj się tras wymagających umiejętności, których nie posiadasz. Jeśli nie jesteś pewien, zatrzymaj motocykl i przeprowadź pieszy rekonesans. Licz się z koniecznością zawrócenia lub znalezienia innej trasy.
+\n\n
+12. Samotna jazda, zwłaszcza po trasach, których nie znasz, nie jest najmądrzejszym pomysłem.
+\n\n
+13. Wiele tras w różnych krajach nie jest regularnie naprawianych. Możesz napotkać głębokie koleiny, dziury, kałuże i powodzie, trudne nawierzchnie. Zdarzają się też pułapki zastawiane przez ludzi, którzy sprzeciwiają się używaniu motocykli na tych trasach.
+\n\n
+14. Gdy podróżujesz po drogach i trasach, sam(a) decydujesz o swoim losie. To do Ciebie należy ocena własnych umiejętności i nawigacja. Trans Euro Trail® Community Interest Company jedynie wskazuje gdzie znajdują się trasy ale ich zdatność do użytku i legalność nie są gwarantowane i mogą zmienić się bez uprzedzenia.
+\n\n
+15. Zobowiązujesz się do przestrzegania znaków, ograniczeń i lokalnych przepisów. Decyzja aby wjechać na trasę należy tylko do Ciebie i ponosisz pełną odpowiedzialność za swoje czyny i nieprzestrzeganie przepisów.
+\n\n
+16.Trans Euro Trail® Community Interest Company zrzeka się odpowiedzialności za użycie pliku GPX, które pośrednio lub bezpośrednio doprowadzi do postępowania sądowego w kraju innym niż Wielka Brytania, Wyspa Man lub Wyspy Normandzkie.
+\n\n
+17. Jazda na motocyklu niesie za sobą ryzyko. Jazda w poszukiwaniu przygody zwiększa ryzyko:\n
+a. Łaczność telefonów komórkowych może być słaba lub niedostępna co może ograniczać możliwość wezwania pomocy. Jeśli pomoc zostanie wezwana, może mieć utrudniony dostęp do Twojej lokalizacji i może nieść ze sobą wysokie koszty. Nieutwardzone drogi mogą być pokryte żwirem, piaskiem, kawałkami asfaltu lub betonu a także kamieniami, głazami lub trawą. Każda z nawierzchni zapewnia różną przyczepność, stabilność i może być w różnym stopniu nieprzewidywalna. Warunki mogą być zmienne w zależności od pogody, zwłaszcza w obszarach górskich.\n
+b. Jazda na motocyklu, zarówno z bagażem jak i bez, wymaga pewnej sprawności fizycznej. Jeśli motocykl się przewróci, podniesienie go może wymagać wysiłku. Może to być trudniejsze na wzgórzu, w rzece czy głębokim błocie. Dodatkowo trzeba wziąć pod uwagę różne warunki pogodowe na obszarze Europy - od ujemnych temperatur do ponad trzydziestostopniowych upałów - zmarznięcie, przegrzanie lub odwodnienie może poważnie utrudnić jazdę poza utwardzonymi drogami. \n
+c. Nawigacja może być wyzwaniem, zwłaszcza jeśli nie ma się doświadczenia w używaniu GPS lub map, jeżdżeniu po “złej” stronie czy czytaniu znaków w obcym języku.\n
+d. Naprawy, które w zaciszu garażu lub znajomego warsztatu wydają się proste, w miejscach odizolowanych od infrastruktury lub specjalistycznych warsztatów mogą sprawić większy kłopot.\n
+e. Lokalni mieszkańcy, zarówno dorośli jak i dzieci (i zwierzęta!) mogą nie być obeznani z motocyklami i ich możliwościami. Kultura jazdy różni się znacznie w zależności od regionu i często działa zasada “większy ma pierwszeństwo” co może stawiać motocyklistów w bardzo niekomfortowych sytuacjach.\n
+f. Zwierzyna, zarówno udomowiona jak i dzika, może powodować zagrożenie. Niedźwiedzie i wilki występują w pewnych częściach Europy, węże w innych. Na dalekiej północy spotkać można renifery i łosie a bydło i psy występują praktycznie wszędzie. \n
+g. Prawa i przepisy wciąż się zmieniają na całym kontynencie. Trasa, która początkowo była legalna może taką już nie być. Może prowadzić to do konfliktów z lokalnymi władzami, społecznościami, właścicielami terenów i innymi użytkownikami. Konsekwencje mogą być różne - od niezadowolonego okrzyku, poprzez groźby do aresztowania, konfiskaty motocykla, grzywny czy utraty prawa jazdy.\n
+h. Dostęp do sanitariatów i łazienek może być bardzo różny. Placówki medyczne mogą występować w dużych odstępach i oferować usługi na niskim poziomie.\n
+i. Czasem chciwa i nieuczciwa strona ludzi może odbić się na Tobie poprzez kradzież, oszustwo lub napad.\n
+j. Weź pod uwagę, że w pewnych częściach Wschodniej Europy występują większe populacje ludów wędrownych wynikające z napływu osób uciekających przed wojną. Możesz natknąć się na skrajnie ubogie grupy lub lokalne władze wyczulone na ruchy obcokrajowców.\n
+k. W pewnych częściach Bośni i Chorwacji wciąż można natknąć się na pozostałości wojen jak np. nierozbrojone pola minowe. Śniegi, powodzie i osuwiska ziemskie mogą powodować odkrywanie niewybuchów. Jazda poza ściśle wyznaczonymi trasami może być niebezpieczna, zupełnie niepotrzebna i niezbyt rozsądna.
+\n\n
+18. Aby jeździć po wszystkich trasach i drogach wymagane jest aby Twój motocykl był zarejestrowany, sprawny i ubezpieczony.
+\n\n
+19. Upewnij się, że posiadasz pełną dokumentację wymaganą w przypadku awarii, wypadku lub konieczności repatriacji. Miej też ubezpieczenie, uprawnienia i paszport.
+\n\n
+20. Powinieneś poćwiczyć przed podjęciem się trasy aby podnieść swoje umiejętności, pewność siebie i poznać granice (swoje i motocykla).
+\n\n
+21. Upewnij się, że jesteś odpowiednio wyposażony i że masz odpowiednie opony, części zapasowe, apteczkę, urządzenia do komunikacji, bagaż i sprzęt biwakowy.\n\n
+22.Bądź świadom terenu w jakim się znajdujesz, nawierzchni i nieprzewidzianych niebezpieczeństw
+\n\n
+23. Pilnuj swojej prędkości.
+\n\n
+24. Upewnij się, że jesteś wystarczająco sprawny fizycznie aby jeździć. Jeśli masz problemy zdrowotne zastanów się i zasięgnij opinii specjalisty.
+\n\n
+25. Rozpocznij podróż na motocyklu gotowym do wyprawy. Zapoznaj się ze swoim motocyklem, z wymaganą obsługą i potencjalnymi naprawami.
+\n\n
+26. Dbaj o bezpieczeństwo zarówno swoje jak i swoich rzeczy.
+\n\n
+27. Zgadzasz się stosować do kodeksu postępowania Trans Euro Trail® i pełnić rolę ambasadora odpowiedzialnej jazdy na motocyklu.
+\n\n
+28. Jesteś Panią/Panem własnego losu, zdrowia i bezpieczeństwa. Bierzesz pełną odpowiedzialność za to co się wydarzy.</string>
+
+    <!--NOTIFICATION SERVICE-->
+    <string name="notification_trackupdate_title">Aktualizacja trasy GPX dostępna</string>
+    <string name="notification_trackupdate_message1">Dostępna(e) jest(są)</string>
+    <string name="notification_trackupdate_message2">aktualizacja(e)</string>
+
+</resources>

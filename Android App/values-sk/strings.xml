@@ -1,0 +1,304 @@
+<resources>
+    <!--COMMON TO ALL VIEWS-->
+    <string name="app_name">TET</string>
+    <string name="tet_logo_description">TET LOGO</string>
+    <string name="top_message_text">Respektujte cestu . berte ohlad na zivotne prostredie . berte ohlad na  komunity cez ktore cestujeme .</string>
+    <string name="footer_tet_website">Webova stranka </string>
+    <string name="footer_tet_contribute">Prispiet </string>
+    <string name="ok">OK</string>
+    <string name="Wrong_Activity_Key">Nespravne zadanie pre tuto cinnost !</string>
+    <string name="Null_Key">ziadne tlacitko na potvrdenie tejto cinnosti !</string>
+    <string name="No_Bundle_Extras">No bundle extras for this activity!</string>
+    <string name="cancel">storno</string>
+    <string name="Camera">kamera</string>
+    <string name="Local_Gallery_File">Galeria</string>
+    <string name="yes">Ano</string>
+    <string name="later">Neskor</string>
+
+    <!--MAIN VIEW-->
+    <string name="pending_notification">0</string>
+    <!--Button: TET Tracks Browser-->
+    <string name="browser_tet_tracks_title">Trasa TET</string>
+    <string name="browser_button_text">Priehliadnut</string>
+    <string name="browser_image_description">vyhladat  trasu TET</string>
+    <!--Button: Report Route Problems-->
+    <string name="report_route_problem_title">Problem na trase </string>
+    <string name="report_button_text">poslat spravu </string>
+    <string name="report_route_image_description">oznamit problem na trase </string>
+    <!--Button: POIs-->
+    <string name="poi_title">vo vystavbe</string>
+    <string name="poi_button">coskoro</string>
+    <string name="poi_image_description">body zaujmu </string>
+    <!--Button: Community / Share-->
+    <string name="join_title">Komunita</string>
+    <string name="join_button_text">spustit</string>
+    <string name="join_community_image_description">webove forum</string>
+    <!--Splash Message-->
+    <string name="tet_splash_message">Nezabudnutelne dobrodruztvo na motocykli v europe </string>
+    <string name="touch_to_continue">pokracovat</string>
+    <!--END OF MAIN VIEW-->
+
+    <!--COMMUNITY VIEW-->
+    <!--Button: Facebook Group-->
+    <string name="facebook_tet_group_title">TET na facebooku </string>
+    <string name="facebook_icon_image_description">TET Facebook Image Icon</string>
+    <string name="facebook_description">stretni sa s clenmi TET a zdielaj svoje skusenosti </string>
+    <!--Button: Online Forum Page-->
+    <string name="tet_forum_title">webove forum TET</string>
+    <string name="tet_forum_description">Miesto pre sprievodcov , oznamy , a spravne debaty </string>
+    <string name="tet_forum_icon_image_description">officialne webove forum TET</string>
+    <string name="tet_contribute_image_description">Podporit TET</string>
+    <!--Button: Code of Conduct-->
+    <string name="tet_code_icon_description">Pravidla spravania na TET</string>
+    <string name="tet_code_title">Pravidla spravania na TET</string>
+    <string name="tet_code_description">precitajte si pravidla spravania na webovej stranke</string>
+    <!--Button: Integrations-->
+    <string name="tet_integration_title">applikacie ktore podporuju TET</string>
+    <string name="tet_integration_description">applikacie ktore podporuju funkcie TET aplikacie </string>
+
+    <!--Integration VIEW-->
+    <string name="integration_title">applikacie ktore podporuju funkcie applikacie TET </string>
+    <string name="integration_description">ked applikacia podpori  TET API, vylepsi sa zazitok uzivatiela , je to jednoduche , rychle , a bezproblemove   !</string>
+    <string name="integration_example_video">video na priklad </string>
+    <string name="integration_contact">kontaktujte nas</string>
+    <string name="integration_add_yours">ste developerom applikacie  na navigovanie alebo inak prislusnej applikacie ku applikacii TET ? chceli by ste integrovat nase API ? kontaktujte nas a povedzte nam o tom ! Pozrite si nase video !</string>
+    <string name="download">stiahnut</string>
+    <string name="drivemode_title">pristrojova doska v rezime jazdy </string>
+    <string name="drivemode_description">pristrojova doska z mnohymi nastaveniami pre vasu motorku . vytvorte si zaznam trasy , navigujte subory GPX bez internetu , nahrajte subory GPX , zaznamejte a pozrite si body polohy , prezrite si podrobne informacie o pocasi a ovela ovela viac . vybudovane tvorcom aplikacie TET , tato pristrojova doska sa snazi byt konecnym riesenim navigovania TET , </string>
+
+    <!--CONTRIBUTE VIEW-->
+    <string name="contribute_title">pred jazdou natankujte tu &#8230;</string>
+    <string name="contribute_subtitle">Trans Euro Trail® jazdi na vasen , ktora je udrziavana jazdcami  a podporovana VAMI . najlepsie na tom je to ze je to zadarmo a malo by to tak zostat !</string>
+    <string name="contribute_text_button">precitajte si viac</string>
+    <string name="contribute_buy_merch">obchod z vecami TET</string>
+    <string name="contribute_app_developer">prispiet APP</string>
+    <string name="contribute_options_text">takto sa da podporit projekt TET:</string>
+    <!--Merch SubView-->
+    <string name="merch_title">offcialne TET produkty </string>
+    <string name="merch_subtitle">oblecte si tricko TET , nalepte si kvalitne nalepky TET alebo si oblecte ADV SPEC LINESMAN offroadovu bundu,ktora bola specialne vyrobena pre jazdenie na trase TET a naladte sa na atmosferu TET.</string>
+    <string name="t_shirt_image_description">oficialne tricko TET</string>
+    <string name="t_shirt_title">Trans Euro Trail® tricko</string>
+    <string name="t_shirt_description">oblecte si nase logo a ukazte ze milujete TET  ! \n\n£24.90 + postage</string>
+    <string name="Buy_Tshirt_button_text">KUPIT</string>
+    <string name="sticker_title">Trans Euro Trail® nalepka</string>
+    <string name="sticker_description">vasa motorka to che ! \n\n£2.40 + postage</string>
+    <string name="sticker_image_description">oficialna nalepka TET</string>
+    <string name="jacket_title">ADV Spec Linesman bunda</string>
+    <string name="jacket_image_description">oficialna ADV Linesman bunda</string>
+    <string name="jacket_description">vetru vzdorna /priedusna Du Pont™ Kevlar® \n\n£249 + postovne </string>
+
+    <!--REPORT TRACK PROBLEM VIEW-->
+    <string name="title_activity_maps">Mapa</string>
+    <string name="marker_report_location">nahlasit problem v tomto mieste </string>
+    <string name="map_instructions">podržte hocikde na mape a označte miesto . aby ste skočili na miesto v ktorom momentalne ste , stlacte tercikovu ikonku hore vpravo . ak ste v rezime bez internetu offline , mali by ste byt presne v tom mieste problemu a skontolujte ci mate  dobry signal gps.</string>
+    <string name="error_fetching_countryname_title">chyba nacitania krajiny </string>
+    <string name="error_fetching_countryname_message">neni mozne nacitat krajinu , zvolte krajinu manualne v dalsom kroku.</string>
+    <string name="report_second_step_next">dalej</string>
+    <string name="report_step2_title">poslat spravu o probleme na trati </string>
+    <string name="report_location_text">suradnice:</string>
+    <string name="report_finish_next">dalej</string>
+    <string name="linesman_name">Linesman:</string>
+    <string name="linesman_email">e-mail</string>
+    <string name="problem_input_description">tu stlacte a strucne popiste problem </string>
+    <string name="problem_input_box_title">popis problemu </string>
+    <string name="Track_Country_Text">TET trat krajiny :</string>
+    <string name="Track_Problem_Text">TET kategoria problemu :</string>
+    <string name="Error_Starting_Report">stala sa chyba pri nacitani</string>
+    <string name="ConfirmCountry">prosim potvrdit krajinu</string>
+    <string name="Manually_Select_Country">Neni mozne nacitat krajinu , prosim zvolte krajinu trate TET,na ktorej je problem !</string>
+    <string name="submit_title_text">odoslat spravu o probleme</string>
+    <string name="report_resume_text">zobrazena trat:</string>
+    <string name="the_problem_is">kategoria problemu:</string>
+    <string name="problem_at">suradnice problemoveho bodu :</string>
+    <string name="report_submit">odoslat</string>
+    <string name="Add_Photo_Title">ku sprave pridat fotografiu</string>
+    <string name="No_Camera_Permission_Title">povolenie na pristup ku kamere</string>
+    <string name="No_Camera_Permission_Message">aby ste mohli pouzit kameru musite dat suhlas k pouzivaniu kamery !</string>
+    <string name="camera_request_again">vyziadat znovu</string>
+    <string name="no_camera_available_title">nenasla sa kamera</string>
+    <string name="no_camera_available_message">vase zariadenie nema kameru alebo nemate nainstalovanu applikaciu kamery !</string>
+    <string name="photo_to_be_submited">poslat fotografiu</string>
+    <string name="photo_source">vyberte si subor fotografii</string>
+    <string name="photo_source_message">odfotit kamerou alebo zvolte fotografiu v galerii?</string>
+    <string name="report_submited_success_title">vasa sprava bola odoslana!</string>
+    <string name="report_submited_success_message">dakujeme za nahlasenie problemu. budeme sa snazit najst riesenie hned ako to bude mozne.</string>
+    <string name="Photo_Upload_Progress">nacitat fotografiu</string>
+    <string name="error_restart_title">nieco sa pokazilo </string>
+    <string name="error_restart_message">prosim vyskusajte vytvorit hlasenie znova</string>
+    <string name="error_upload_later_title">nebolo mozne odoslat spravu do databazy</string>
+    <string name="error_upload_later_message">tato sprava bude ulozena a odoslana do databazy hned ako bude mozne sa spojist z databazou</string>
+    <string name="No_Internet_title">rezim nahlasenia problemu bez internetu offline </string>
+    <string name="No_Internet_message">nenašlo sa pripojenie na internet, ale je to v poriadku , mapa nemusi byt dobre zobrazená , ale vase suradnice budu zaznamenane , vasa sprava bude zaznamenaná, a hned ako sa najde internetové pripojenie bude sprava odoslana .</string>
+    <string name="pending_report_title_1">mate</string>
+    <string name="pending_report_title_2">neodoslanych hlaseni</string>
+    <string name="pending_report_message">odoslat neodoslane hlasenia teraz ?</string>
+    <string name="pending_success_title">neodoslane hlasenia odoslane!</string>
+    <string name="pending_success_message">vsety neodoslane hlasenia boli uspesne poslane.</string>
+    <string name="pending_error_title">stala sa chyba </string>
+    <string name="pending_error_message">stala sa chyba pri odosielani hlasenia , prosim vyskusajte neskôr</string>
+    <string name="storage_permissions_title">povolenie na ulozenie</string>
+    <string name="storage_permissions_message">aby ste mohli ulozit fotografiu z hlasenia musite potvrdit poziadavku na ulozenie .</string>
+    <string name="map_style_description">vybrat styl mapy</string>
+    <string name="map_style_dialog_title">vybrat styl mapy</string>
+    <string name="using_sats">pouzivaju sa</string>
+    <string name="satas_out_of">satelity</string>
+    <string name="available_in_view">dostupne</string>
+    <string name="gps_accuracy">presnost GPS</string>
+    <string name="gps_accuracy_message_wait">prosim pockajte na lepsiu presnost GPS!</string>
+    <string name="gps_accuracy_message_not_bad">presnost GPS by mala byt dostacujuca na odoslanie hlasenia.</string>
+    <string name="gps_accuracy_message_good">presnost vasej polohy gps je dostacujuca , mozte pouzit vasu polohu na odoslanie!</string>
+    <string name="no_location_selected_title">nebola zvolena poloha</string>
+    <string name="no_location_selected_message">podržte hocikde na mape a označte miesto . aby a mapa presunula na miesto v ktorom momentalne ste , stlacte tercikovu ikonku hore vpravo .</string>
+    <string name="no_message_no_photo_title">chyba vas  popis a fotografia!</string>
+    <string name="no_message_no_photo_message">nenapisali ste popis problemu , a nepridali ste ziadnu fotku , pre nas to je velmi tazke zistit aky to je problem , prosim popiste problem and pridajte fotku </string>
+    <string name="track_length">Track length:</string>
+
+
+    <!--TRACK BROWSER-->
+    <string name="filter">Filter</string>
+    <string name="track_section">usek trate </string>
+    <string name="section">usek</string>
+    <string name="options">moznosti</string>
+    <string name="dialog_remove_section">zrusit zobrazenie tohto useku alebo zobrazit iba tento usek ?</string>
+    <string name="remove">zrusit zobrazenie</string>
+    <string name="only_visible">zobrazit iba tento usek</string>
+    <string name="rebuilding_waypoints">vybudovat body prejazdu waypoints odznova</string>
+    <string name="rebuild_waypoints">vybudovat  waypoints</string>
+    <string name="remove_waypoints_dialog_title">zrusit zobrazenie bodou prejazdu waypoints mimo zobrazeneho useku  trate</string>
+    <string name="remove_waypoints_dialog_message">tato funkcia vyberie von  vsetky waypoints, ktore niesu v blizkosti vsetkych zobrazenych usekov</string>
+    <string name="no">No</string>
+    <string name="export_edited_gpx">odosielam upraveny subor gpx</string>
+    <string name="track_browser_title">prehliadac usekov</string>
+    <string name="track_browser_subtitle">vyberte si krajinu .</string>
+    <string name="tracks_view_subtitle">informacie o trati </string>
+    <string name="open_track">otvorit trat </string>
+    <string name="generating_list">vytvaram list </string>
+    <string name="delete_local_file">zmazat subor</string>
+    <string name="gpx_open_dialog">nacitat gpx subor</string>
+    <string name="fetching_country_list">nacitavam krajiny</string>
+    <string name="track_download_progress">stahujem trat</string>
+    <string name="track_browser_noInternet_title">nie je internet , offline</string>
+    <string name="track_browser_noInternet_message">nieste pripojeny k internetu , alebo sa vyskytol problem pri pripojeni k serveru , je mozne zobrazit iba trate,ktore su uz stiahnute vo vasom zariadeni .</string>
+    <string name="track_download_offline_title">zoznam stiahnutych trati</string>
+    <string name="track_download_offline_subtitle">prehliadanie suborov,ktore su uz stiahnute v rezime.</string>
+    <string name="track_last_updated">trat bola naposledy upravena</string>
+    <string name="no_offline_files">nenasli sa ziadne gpx pre trat !</string>
+    <string name="track_updates_available_title">su k dispozicii aktualizacie trate !</string>
+    <string name="track_updates_available_message">chcete teraz  nainstalovat aktualizacie trate?</string>
+    <string name="updating_tracks">aktualizujem vase GPX trate </string>
+    <string name="track_updated_success_title">GPX trate boli aktualizovane</string>
+    <string name="track_updated_success_message">Lokalne GPX file(s) aktualizovane pre: </string>
+    <string name="track_updated_error_title">zlyhala aktualizacia trate </string>
+    <string name="track_updated_error_message">chyba aktualizacie , prosim vyskusajte aktualizaciu znova </string>
+    <string name="track_view_start_error_title">chyba</string>
+    <string name="track_view_start_error_message">chyba , pozadovana funkcia sa nespustila . skuste znova!</string>
+    <string name="track_delete_success_title">gpx subor zmazany</string>
+    <string name="track_delete_success_message">GPX subor tejto krajiny bol zmazany . mozte si ho kedykolvek stiahnut znova!</string>
+    <string name="track_delete_error_title">chyba zmazania trate GPX</string>
+    <string name="track_delete_error_message">chyba zmazania suboru GPX trate , skuste zmazat subor znova</string>
+    <string name="track_download_error_title">chyba stiahnutia suboru</string>
+    <string name="track_download_error_message">chyba pri stahovani suboru GPX , vyskusajte stiahnut subor znova.</string>
+    <string name="gpx_parse_error_title">chyba , subor nebolo mozne otvorit</string>
+    <string name="gpx_parse_error_message">system ma problem precitat GPX subor , vyskusajte ho otvorit odznova!</string>
+    <string name="gpx_open_noapp_title">nenasla sa aplikacia,ktora dokaze otvorit tento subor</string>
+    <string name="gpx_open_noapp_message">nenasla sa tu ziadna applikacia,ktora dokaze otvorit GPX subory , najdite applikaciu v play store a naistalujte si ju.</string>
+    <string name="disclaimer_DontShowAgain">uz nezobrazovat </string>
+    <string name="no_permissions_title">chyba povolenie na GPS</string>
+    <string name="no_permissions_message">tuto funkciu nie je mozne pouzivat bez povolenia na GPS .My nezhromazdujeme ziadne uzivatelske data !
+ </string>
+    <string name="disclaimer_title">predtým ako si stiahnete subor si prečítajte toto</string>
+    <string name="disclaimer_agree">suhlasim</string>
+    <string name="disclaimer_agree_dontshow">Agree &amp; never show</string>
+    <string name="disclaimer_refuse">odmietnut</string>
+    <string name="zoom_mode_enabled">rezim zvacsenia </string>
+    <string name="pan_mode_enabled">Pan Mode Enabled</string>
+    <string name="disclaimer_message">tym ze si stiahnete subor , a tym ze subor Trans Euro Trail®  pouzijete , súhlasíte s uplne vsetkymi pravidlami ktore su napisane tu .
+\n\n
+1. vydavatelom tychto GPX suborov je Trans Euro Trail® Community Interest Company, Company No. 11371199, Address: Unit 3, Cragg Road, Mytholmroyd, Hebden Bridge, West Yorkshire, HX7 5HR, United Kingdom.
+\n\n
+2. GPX subor je vydany bezplatne , a je vydany bez akychkolvek zaruk , bez zaruky a moze byt chybny , mat rozne chyby , a neni zarucene,ze je dobry a funkcny a spolahlivy ,  subory su vydane , tak ako su , nezarucene .
+\n\n
+3. presnost GPS suradnic , ani presnost trate neni zarucena .
+\n\n
+4. Trans Euro Trail® trat je iba navrh  a nie presny  smer
+\n\n
+5. Trans Euro Trail® Community Interest Company ( firma TRANS EURO TRAIL ) nezodpovedá ani nezaručuje, že materiály na webe alebo v službách sú presné, úplné, spoľahlivé, aktuálne alebo bez chýb.
+
+\n\n
+6. The Trans Euro Trail® Community Interest Company
+nemôže vyhlasit alebo zaručiť, že nas web alebo jeho servery neobsahujú vírusy alebo iné škodlivé komponenty ktore mozu poskodit vase zariadenie.
+
+\n\n
+7. Zaväzujete sa, že nebudete zdieľať tieto GPX subory na žiadnom zariadení alebo serveri na verejne zdieľanie elektronických súborov.
+
+\n\n
+8. Najnovšiu verziu GPX pre svoju krajinu cestovania si stiahnete tesne pred tým, ako ju budete potrebovať, a počas cestovania si stiahnite aktualizácie .
+\n\n
+9. ak zabludite na sukromny pozemok , ospravedlnte sa a vrate sa na cestu alebo trat
+\n\n
+10.Tieto trasy môžu byť podľa miestnych zákonov dočasne alebo trvalo zatvorené bez toho ze miestne urady to oznamia .
+.
+\n\n
+11. neprecenujte svoje schopnosti pri jazde  .  ked nie ste si isty ze trat zvladnete , prejdite si trat najprv  peši , a buďte pripravení na to ze si budete musiet najst inu trat alebo obchadzku , nakolko trat moze byt neprejazdná , alebo obtiažna a neni zarucene ze budete schopný trat prejst . \n\n
+12.nieje to moc mudre  jazdit po trasach sam , a specialne jazdit sam po neznamych trasach
+\n\n
+13. mnohé vidiecke cesty a chodniky nie su udrziavane . najdete tu vyjazdne kolaje , diery , vymoly , diery vyplavene od vody , nebezpecny povrch a rôzne pasce, ktoré úmyselne umiestnia ľudia, ktorí nemajú radi motocykle.
+
+\n\n
+14. trate , cesty a chodniky pouzivate na vlastnu zodpovednost . Svoj úsudok vykonávate podľa svojich vlastných schopností a vlastnej navigácie. Trans Euro Trail® Community Interest Company vam moze iba ukázať kde tieto cestičky a trate sú , ale nemoze vam zarucit, ze tieto trate, chodníky a cesty su povolene na prejazd , nakolko zakazy sa mozu vyskytnut bez akéhokoľvek upozornenia a hocikedy .
+
+\n\n
+15.
+Zaväzujete sa rešpektovať a dodržiavať dopravné značky, respektovat bariéry  a miestne zákony. Rozhodnutie o použití cesty alebo chodníka je úplne na vás a súhlasíte s tým, že nesiete plnú zodpovednosť za svoje konanie alebo akékoľvek porušenie zákona.
+ \n\n
+16. firma  Trans Euro Trail® Community Interest Company nezodpovedá za používanie GPX suborov , nezodpoveda priamo ani nepriamo za akekolvek situacie vyplývajúce z jeho použitia alebo akýmkoľvek inym spôsobom zahŕňajúcim akýkoľvek nárok vznesený k sudu v  jurisdikcii UK United Kingdom, isle of  Man alebo channel islands.
+
+\n\n
+17.
+Jazdenie na motorke je nebezpecne a rizikove . Jazdenie na dobrodruznych (adventure) motorkach je extra nebezpečné a rizikové a tieto k tomu pridavaju:\n
+siet pokrytia mobilnych telefonov moze byt slaba alebo aj neexistujuca .Ak je predvolaná pomoc, môže byť ťažké sa k vam dostat a môžu vám vzniknúť vysoké finančné náklady. Trat moze byt zostavena zo spevnenych a nespevnených ciest a chodníkov, ktore mozu byt z polamaneho asfaltu, kamienkov, štrku  , piesku , velkeho kamena, blata alebo travy . každý druh povrchu je iny a problem udržania motorky rozlisny , a podmienky sa menia rýchlo a predvídavo z pocasim , specialne na horach . \n
+b.jazda terénom na motorke je fyzicky namahava , a nemalo by byt podcenena , ak vam motorka spadne , zdvihnúť ju moze byt velmi namahave , ak vam motorka spadne do rokliny alebo dole kopcom , do rieky alebo do blata ,  vytiahnutie moze extremne namahave . ak sa do toho prida pocasie , kde teploty mozu byt od minus do plus 30 stupňov celzia a viac , zima , horúco a dehydratácia mozu tazko ovplyvniť vase schopnosti . toto je velmi nebezpecny koktail ktory je spojený z jazdením na motocykli terénom .\n
+c.
+Navigácia môže byť náročná, najmä bez precvičovania navigacie pouzivanim gps alebo máp na cestách, na „zlej“ ceste alebo so značkami, ktore nepoznate .
+.\n
+d. poruchy, ktore su uplne banálne a lahko opravitelne vo vašej vlastnej garazi , alebo doma, v meste kde poznate vsetky servisy a garaze moze byt ovela ťažšie a zložitejšie v krajine  a terene, ktory nepoznate , nepoznate servisy alebo kde nie je ziadny servis k dispozícii  . \n
+e.Miestni ludia aj  dospelí a deti (a zvieratá!) Nemusia byť oboznámení s motocyklami alebo ich schopnosťami a nesprávnymi odhadmi situácie. Vodičské štandardy a disciplína sa veľmi líšia a vnímanie je často „možno má pravdu“, pričom chalanovi na motorke nevenuje nedostatočná pozornosť. \n
+f. zvierata , aj dive aj domace predstavujú nebezpečenstvo . V niektorych oblastiach najdete medvede a vlky , v inych oblastiach zase hady , soby najdete vysoko na severe a kravy ovce a psy su uplne vsade. \n
+g.zakony a nariadenia sa stale menia všade na celom kontinente , cesta alebo chodnik , o ktorom si tvorcovia myslel, ze jej prejazd je povolený , teraz moze byt jeho prejazd zakázaný . taketo situacie mozu vyvolat konflikt z uradmi , policiou , komunitami , vlastníkmi pôdy a inými pouzivatelmi . moze to byt skaredy  pohlad , výkrik , pohrozenie alebo hrozba pastou az po zatknutie , zhabanie vasho motocykla , odobratie vodicskeho preukazu alebo  odnatie slobody .\n
+h. nemocnice a ich hygiena  nemusia byt takej kvality na akú ste zvyknutý  alebo mozu byt  daleko .\n
+i.pocitajte s tym ze mozete byt napadnuty , okradnuty .\n
+j. treba si byt vedomi toho ze v niektorych oblastiach vychodnej europy sa pohybuju populácie migrantov , moze sa stat ze narazíte na zufalo chudobnych ludi a opatrne urady.\n
+k. V bosne , chorvátsku a inych oblastiach su pozostatky vojny vo forme nevybuchnutych min .  je mozne ze Sneh , voda , a posuvy pody posunu tieto miny  a jazdenie mimo ojazdenych ciest a chodníkov moze byt velmi nebezpecne , smrtelne , a jednoducho povedané hlupe.
+\n\n
+18. na  vsetkych tratiach cestach a chodnikoch musite mat vodicsky preukaz , technicky preukaz a poistenie a vasa motorka by mala byť v dobrom stave , schopna jazdy  .
+\n\n
+19.
+Mali by ste sa ubezpečiť, že vaša dokumentácia je v poriadku, či ide o motocykel, poruchove alebo zdravotné poistenie, licencie alebo cestovne pasy.
+
+\n\n
+20. mali by ste mat natrenovane budovanie sebavedomia a kompetencie a poznať svoje hranice a hranice vašej motorky .
+\n\n
+21. Uistite sa ze mate spravne pneumatiky , ze mate nahradne duse a suciastky , ze mate chranice , lekarnicku , zariadenie na komunikáciu , spravne kufre a vystroj na kemping
+\n\n
+22. jazdite tak, ze si uvedomujute teren , povrch trate a ze na trati mozu byt neocakavane nebezpecenstva.
+\n\n
+23. zmiernite rychlost .
+\n\n
+24. pripravte sa fizycky na jazdu. Ak mate nejake zdravotne problemy , zvazte si to a poraďte sa z lekarom.
+\n\n
+25. na jazdu si zoberte motorku, ktora je pripravená na cestovanie . Oboznamte sa s motorkou a zistite ake veci treba skontrolovat kazdy den po technickej stránke  a naučte sa opravit si motorku v pripade,ze budu opravy nevyhnutne  .
+\n\n
+26. davajte si na seba a na svoje veci pozor .
+\n\n
+27. Súhlasíte, že budete dodržiavať Kódex správania spoločnosti Trans Euro Trail® a budete veľvyslancom zodpovedneho jazdenia .
+
+\n\n
+28. vyrovnajte sa s tym, ze ste vlastným strojcom svojho stastia a nestastia , svojho zdravia , svojho osudu a svojej bezpecnosti ,Beriete zodpovednosť za všetko, čo sa stane.
+ </string>
+
+    <!--NOTIFICATION SERVICE-->
+    <string name="notification_trackupdate_title">Aktualizacia GPX suboru je dostupna </string>
+    <string name="notification_trackupdate_message1">mate</string>
+    <string name="notification_trackupdate_message2">aktualizaciu(e) trate .</string>
+
+</resources>

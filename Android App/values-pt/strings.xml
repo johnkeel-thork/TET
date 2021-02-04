@@ -1,16 +1,33 @@
 <resources>
+
+    <string name="filter">Filtro</string>
+    <string name="track_section">Secção do Percurso</string>
+    <string name="section">Secção</string>
+    <string name="options">Opções</string>
+    <string name="dialog_remove_section">Remover esta secção ou colocar apenas esta secção visivel?</string>
+    <string name="remove">Remover</string>
+    <string name="only_visible">Única Visível</string>
+    <string name="rebuilding_waypoints">Reconstruindo Waypoints</string>
+    <string name="rebuild_waypoints">Limpar Waypoints</string>
+    <string name="remove_waypoints_dialog_title">Remover Waypoints Fora das Secções Visiveis?</string>
+    <string name="remove_waypoints_dialog_message">Isto removerá todos os Waypoints que já não estão perto de secções visiveis</string>
+    <string name="no">Não</string>
+    <string name="export_edited_gpx">A Exportar Ficheiro GPX Editado</string>
+
+
+
     <!--COMMON TO ALL VIEWS-->
     <string name="app_name">TET</string>
     <string name="tet_logo_description">TET LOGO</string>
-    <string name="top_message_text">Respeito pelos Trilhos. Respeito pelo Ambiente. Respeito pelas Comunidades por onde viajamos.</string>
+    <string name="top_message_text">Respeito pelos trails. Respeito pelo Ambiente. Respeito pelas Comunidades por onde viajamos. </string>
     <string name="footer_tet_website">Website</string>
-    <string name="footer_tet_contribute">Contribui</string>
+    <string name="footer_tet_contribute">Contribuir</string>
     <string name="ok">OK</string>
     <string name="Wrong_Activity_Key">Chave errada para esta actividade!</string>
-    <string name="Null_Key">Sem chave para validar esta actividade!</string>
-    <string name="No_Bundle_Extras">Bundle sem extras para esta actividade!</string>
+    <string name="Null_Key">Nenhuma chave para validar esta actividade!</string>
+    <string name="No_Bundle_Extras">Nenhum pacote de extras para esta actividade!</string>
     <string name="cancel">Cancelar</string>
-    <string name="Camera">Camera</string>
+    <string name="Camera">Câmara</string>
     <string name="Local_Gallery_File">Galeria</string>
     <string name="yes">Sim</string>
     <string name="later">Mais Tarde</string>
@@ -18,176 +35,196 @@
     <!--MAIN VIEW-->
     <string name="pending_notification">0</string>
     <!--Button: TET Tracks Browser-->
-    <string name="browser_tet_tracks_title">TET Tracks</string>
-    <string name="browser_button_text">BROWSE</string>
-    <string name="browser_image_description">Browse TET Tracks</string>
+    <string name="browser_tet_tracks_title">Trajetos TET </string>
+    <string name="browser_button_text">NAVEGAR</string>
+    <string name="browser_image_description">Explora Trajetos TET</string>
     <!--Button: Report Route Problems-->
-    <string name="report_route_problem_title">Route Problem</string>
-    <string name="report_button_text">REPORT</string>
-    <string name="report_route_image_description">Report Route Problems</string>
+    <string name="report_route_problem_title">Problema Percurso</string>
+    <string name="report_button_text">REPORTAR</string>
+    <string name="report_route_image_description">Reportar Problema Percurso</string>
     <!--Button: POIs-->
-    <string name="poi_title">Coming Soon</string>
-    <string name="poi_button">SOON</string>
-    <string name="poi_image_description">Points of Interest</string>
+    <string name="poi_title">Brevemente</string>
+    <string name="poi_button">BREVEMENTE</string>
+    <string name="poi_image_description">Pontos de Interesse</string>
     <!--Button: Community / Share-->
-    <string name="join_title">Community</string>
-    <string name="join_button_text">ENGAGE</string>
-    <string name="join_community_image_description">Online Community</string>
+    <string name="join_title">Comunidade</string>
+    <string name="join_button_text">JUNTA-TE</string>
+    <string name="join_community_image_description">Comunidade Online</string>
     <!--Splash Message-->
-    <string name="tet_splash_message">Europe\'s Epic Motorcycle Adventure</string>
-    <string name="touch_to_continue">Tap to Continue</string>
+    <string name="tet_splash_message">A Épica Aventura Motociclista da Europa</string>
+    <string name="touch_to_continue">Clica para Continuar</string>
     <!--END OF MAIN VIEW-->
 
     <!--COMMUNITY VIEW-->
     <!--Button: Facebook Group-->
-    <string name="facebook_tet_group_title">Facebook TET Group</string>
+    <string name="facebook_tet_group_title">Grupo Facebook TET</string>
     <string name="facebook_icon_image_description">TET Facebook Image Icon</string>
-    <string name="facebook_description">Meet other TET members and share your experiences</string>
+    <string name="facebook_description">Conhece outros membros da comunidade TET e partilha as tuas experiências</string>
     <!--Button: Online Forum Page-->
-    <string name="tet_forum_title">TET Online Forum</string>
-    <string name="tet_forum_description">The place for guides, reports and healthy discussions</string>
-    <string name="tet_forum_icon_image_description">The official TET online forum</string>
-    <string name="tet_contribute_image_description">TET Contribution</string>
+    <string name="tet_forum_title">Fórum TET Online</string>
+    <string name="tet_forum_description">O sitio para guias, relatórios e discussões saudáveis</string>
+    <string name="tet_forum_icon_image_description">O fórum online Oficial do TET</string>
+    <string name="tet_contribute_image_description">Contribuição TET</string>
     <!--Button: Code of Conduct-->
-    <string name="tet_code_icon_description">Code of Conduct</string>
-    <string name="tet_code_title">Code of Conduct</string>
-    <string name="tet_code_description">Read about the TET Code of Conduct in the website</string>
+    <string name="tet_code_icon_description">Código de Conduta</string>
+    <string name="tet_code_title">Código de Conduta</string>
+    <string name="tet_code_description">Lê o Código de Conduta do TET no website</string>
+    <!--Button: Integrations-->
+    <string name="tet_integration_title">Apps Integradas com o TET</string>
+    <string name="tet_integration_description">Android que integram funções da App TET</string>
+
+    <!--Integration VIEW-->
+    <string name="integration_title">Apps que integram com a App TET</string>
+    <string name="integration_description">Quando uma aplicação se integra com a API da App TET, a experiência do usuário melhora. É simples, rápido e perfeito!  </string>
+    <string name="integration_example_video">VIDEO de EXEMPLO</string>
+    <string name="integration_contact">CONTACTA-NOS</string>
+    <string name="integration_add_yours">Desenvolves Apps de navegação ou de outro tipo relevante para o TET? Gostarias de integrar a nossa API? Contacta-nos! Vê também o nosso vídeo de exemplo. </string>
+    <string name="download">DOWNLOAD</string>
+    <string name="drivemode_title">Drive Mode Dashboard</string>
+    <string name="drivemode_description">Um painel de instrumentos completamente customizável para a tua mota! Cria resumos das tuas viagens, navega ficheiros GPX com mapas offline, grava ficheiros GPX, guarda e vê localizações, recebe informação meteorologica atualizada e muito mais! \n\nDesenvolvida pelo mesmo criador da App dp TET, o objetivo é ser a solução perfeita para usar no TET!</string>
 
     <!--CONTRIBUTE VIEW-->
-    <string name="contribute_title">Make your first fuel stop right here&#8230;</string>
-    <string name="contribute_subtitle">The Trans Euro Trail® is fuelled by passion, maintained by riders and supported by YOU. Best of all, it’s free of charge and intends to stay that way!</string>
-    <string name="contribute_text_button">READ MORE</string>
-    <string name="contribute_buy_merch">BUY MERCH</string>
-    <string name="contribute_app_developer">CONTRIBUTE APP</string>
-    <string name="contribute_options_text">These are the ways you can help the TET Project:</string>
+    <string name="contribute_title">Faz a tua primeira paragem para abastecer aqui&#8230;</string>
+    <string name="contribute_subtitle">O Trans Euro Trail® é alimentado por paixão, mantido por motociclistas e suportado por TI. Melhor que tudo, é gratuito e pretende ser sempre assim!</string>
+    <string name="contribute_text_button">SABE MAIS</string>
+    <string name="contribute_buy_merch">COMPRA MERCH</string>
+    <string name="contribute_app_developer">CONTRIBUI PARA A APP</string>
+    <string name="contribute_options_text">Estas são as formas com que podes apoiar o projeto TET:</string>
+
     <!--Merch SubView-->
-    <string name="merch_title">Official TET Merchandising</string>
-    <string name="merch_subtitle">Spread the TET vibes with our Ts and heavy duty bike stickers, or splash out on the ADV Spec Linesman trail riding jacket, developed especially for the TET.</string>
-    <string name="t_shirt_image_description">The Official TET Tshirt</string>
+    <string name="merch_title">Merchandising Oficial do TET</string>
+    <string name="merch_subtitle">Espalha as boas vibrações do TET com a nossa T-shirt, com os autocolantes super resistentes para a tua mota ou com o casaco ADV Spec Linesman, desenvolvido especialmente para o TET.</string>
+    <string name="t_shirt_image_description">A Tshirt Oficial do TET</string>
     <string name="t_shirt_title">Trans Euro Trail® T-shirt</string>
-    <string name="t_shirt_description">Show your love by wearing our logo! \n\n£24.90 + postage</string>
-    <string name="Buy_Tshirt_button_text">BUY</string>
+    <string name="t_shirt_description">Mostra o teu carinho usando o nosso logo! \n\n£24.90 + envio</string>
+    <string name="Buy_Tshirt_button_text">COMPRAR</string>
     <string name="sticker_title">Trans Euro Trail® Sticker</string>
-    <string name="sticker_description">Your motorcycle needs this so much! \n\n£2.40 + postage</string>
+    <string name="sticker_description">A tua mota precisa disto! \n\n£2.40 + envio</string>
     <string name="sticker_image_description">The official TET Sticker</string>
-    <string name="jacket_title">ADV Spec Linesman Jacket</string>
-    <string name="jacket_image_description">The official ADV Linesman Jacket</string>
-    <string name="jacket_description">Windproof/breathable with Du Pont™ Kevlar® \n\n£249 + postage</string>
+    <string name="jacket_title">Casaco ADV Spec Linesman</string>
+    <string name="jacket_image_description">O casaco oficiall ADV Linesman</string>
+    <string name="jacket_description">À prova de vento/respirável com Du Pont™ Kevlar® \n\n£249 + envio</string>
 
     <!--REPORT TRACK PROBLEM VIEW-->
-    <string name="title_activity_maps">Map</string>
-    <string name="marker_report_location">Report This Location</string>
-    <string name="map_instructions">Touch and hold anywhere on the map to place a marker in that location. Click the crosshair icon on the top right corner to jump to your current location. If you are in offline mode, please make sure you are physically located at the problem location and have a valid GPS signal.</string>
-    <string name="error_fetching_countryname_title">Error fetching country name</string>
-    <string name="error_fetching_countryname_message">We are unable to fetch your country name, please manually select the country on the next step.</string>
-    <string name="report_second_step_next">NEXT STEP</string>
-    <string name="report_step2_title">Report Track Problem</string>
-    <string name="report_location_text">Coordinates:</string>
-    <string name="report_finish_next">NEXT STEP</string>
-    <string name="linesman_name">Linesman:</string>
+    <string name="title_activity_maps">Mapa</string>
+    <string name="marker_report_location">Comunica Esta Localização</string>
+    <string name="map_instructions">Toca e mantém pressionado em qualquer parte do mapa para adicionar um marcador nessa localização. Clica no icon de mira no canto superior direito para ir para a tua localização atual. Se estás em modo offline, certifica-te que estás na localização do problema e tens sinal GPS.</string>
+    <string name="error_fetching_countryname_title">Erro a encontrar nome do país</string>
+    <string name="error_fetching_countryname_message">Não conseguimos encontrar o nome do país, por favor seleciona manualmente o nome do país no próximo passo.</string>
+    <string name="report_second_step_next">PRÓXIMO PASSO</string>
+    <string name="report_step2_title">Comunica Problema na Rota</string>
+    <string name="report_location_text">Coordenadas:</string>
+    <string name="report_finish_next">PRÓXIMO PASSO</string>
+    <string name="linesman_name">Nome do Linesman:</string>
     <string name="linesman_email">e-mail</string>
-    <string name="problem_input_description">Touch here to, write a small description about the problem</string>
-    <string name="problem_input_box_title">Report Description</string>
-    <string name="Track_Country_Text">TET Track Country:</string>
-    <string name="Track_Problem_Text">TET Track Problem Type:</string>
-    <string name="Error_Starting_Report">Error starting Report</string>
-    <string name="ConfirmCountry">Please confirm the country name</string>
-    <string name="Manually_Select_Country">Unable to automatically detect the country name. Please manually select the country for the TET Track you are reporting!</string>
-    <string name="submit_title_text">Submit Track Problem Report</string>
-    <string name="report_resume_text">Selected Track:</string>
-    <string name="the_problem_is">Problem Type:</string>
-    <string name="problem_at">Problem Coordinates:</string>
-    <string name="report_submit">SUBMIT</string>
-    <string name="Add_Photo_Title">Add Photo to Report:</string>
-    <string name="No_Camera_Permission_Title">Camera Permission Required</string>
-    <string name="No_Camera_Permission_Message">To use your camera you need to accept the camera permission request!</string>
-    <string name="camera_request_again">Request Again</string>
-    <string name="no_camera_available_title">No Camera Available</string>
-    <string name="no_camera_available_message">Either your device does not have a camera or you have no camera app installed!</string>
-    <string name="photo_to_be_submited">Photo to Send:</string>
-    <string name="photo_source">Select Photo Source</string>
-    <string name="photo_source_message">Take a photo using your camera or select a local file from your gallery?</string>
-    <string name="report_submited_success_title">Your report was delivered!</string>
-    <string name="report_submited_success_message">Thank you for submitting your track problem report, we will take action as soon as possible.</string>
-    <string name="Photo_Upload_Progress">Photo Upload</string>
-    <string name="error_restart_title">Something went wrong!</string>
-    <string name="error_restart_message">Please try creating a report again!</string>
-    <string name="error_upload_later_title">Could not connect to server</string>
-    <string name="error_upload_later_message">This log will be saved and it will be submitted when it´s possible to connect to the server.</string>
-    <string name="No_Internet_title">Offline Report Mode</string>
-    <string name="No_Internet_message">There is no Internet connection, but It´s fine, the map may not properly be displayed but your location will still be captured. The log will also be saved as a Pending Report which will be sent when you have Internet access.</string>
-    <string name="pending_report_title_1">You have</string>
-    <string name="pending_report_title_2">pending reports</string>
-    <string name="pending_report_message">Do you want to submit them now?</string>
-    <string name="pending_success_title">Pending reports sent!</string>
-    <string name="pending_success_message">You have successfully submitted all your pending reports, thank you.</string>
-    <string name="pending_error_title">Error submitting report!</string>
-    <string name="pending_error_message">Something went wrong while trying to submit your report, please try again later.</string>
-    <string name="storage_permissions_title">Storage Permission Required</string>
-    <string name="storage_permissions_message">To save a photo for report you need to accept the storage permission request!</string>
-    <string name="map_style_description">Select the Map Style</string>
-    <string name="map_style_dialog_title">Select Map Style</string>
-    <string name="using_sats">Using</string>
-    <string name="satas_out_of">satellites of</string>
-    <string name="available_in_view">available in view</string>
+    <string name="problem_input_description">Escreve aqui uma pequena descrição do problema. </string>
+    <string name="problem_input_box_title">Descrição da Comunicação</string>
+    <string name="Track_Country_Text">País da Rota TET:</string>
+    <string name="Track_Problem_Text">Tipo de Problema na Rota TET:</string>
+    <string name="Error_Starting_Report">Erro a iniciar comunicação</string>
+    <string name="ConfirmCountry">Por favor confirma o nome do país</string>
+    <string name="Manually_Select_Country">Não conseguimos detetar o nome do país. Por favor seleciona manualmente o nome do país para onde estás a comunicar o problema na rota. </string>
+    <string name="submit_title_text">Submeter Comunicação de Problema na Rota</string>
+    <string name="report_resume_text">Rota Selecionada:</string>
+    <string name="the_problem_is">Tipo de Problema:</string>
+    <string name="problem_at">Coordenadas do Problema:</string>
+    <string name="report_submit">SUBMETER</string>
+    <string name="Add_Photo_Title">Adiciona foto á Comunicação:</string>
+    <string name="No_Camera_Permission_Title">É Preciso Acesso a Câmara</string>
+    <string name="No_Camera_Permission_Message">Para usar a câmara tens de aceder ao pedido de permissão para usar a câmara!</string>
+    <string name="camera_request_again">Pedir Novo Acesso</string>
+    <string name="no_camera_available_title">Nenhuma Câmara Disponível</string>
+    <string name="no_camera_available_message">Ou o teu dispositivo não tem uma câmara ou não tem uma app de câmara instalada!</string>
+    <string name="photo_to_be_submited">Foto para ser Enviada:</string>
+    <string name="photo_source">Selecionar Fonte da Foto</string>
+    <string name="photo_source_message">Tira uma foto ou usa uma foto da tua galeria?</string>
+    <string name="report_submited_success_title">A tua comunicação foi entrgue!</string>
+    <string name="report_submited_success_message">Obrigado por comunicares o problema com a rota, nós vamos corrigir a rota o mais rápido possível.</string>
+    <string name="Photo_Upload_Progress">Carregar Foto</string>
+    <string name="error_restart_title">Alguma coisa correu mal!</string>
+    <string name="error_restart_message">Por favor tenta fazer a comunicação outra vez!</string>
+    <string name="error_upload_later_title">Impossivel ligar ao servidor</string>
+    <string name="error_upload_later_message">Esta informação será guardada e comunicada ao servidor assim que possível.</string>
+    <string name="No_Internet_title">Modo Comunicação Offline</string>
+    <string name="No_Internet_message">Não há ligação á internet e o mapa poderá não ser mostrado corretamente mas a tua localização será salva corretamente. Esta informação será guardado como uma Comunicação Pendente e enviada ao servidor quando houver ligação á internet.</string>
+    <string name="pending_report_title_1">Tens</string>
+    <string name="pending_report_title_2">comunicações pendentes</string>
+    <string name="pending_report_message">Submeter agora?</string>
+    <string name="pending_success_title">Comunicações pendentes enviadas!</string>
+    <string name="pending_success_message">Submeteste todas as Comunicações pendentes, obrigado!</string>
+    <string name="pending_error_title">Erro a submeter Comunicação!</string>
+    <string name="pending_error_message">Alguma coisa correu mal durante a submissão da comunicação. Por favor volta a tentar mais tarde.</string>
+    <string name="storage_permissions_title">Necessário Permissão para Guardar</string>
+    <string name="storage_permissions_message">Para guardar uma foto tens de aceitar o pedido de permissão para guardar!</string>
+    <string name="map_style_description">Seleciona o Estilo de Mapa</string>
+    <string name="map_style_dialog_title">Seleciona o Estilo de Map</string>
+    <string name="using_sats">A Usar</string>
+    <string name="satas_out_of">satelites de</string>
+    <string name="available_in_view">disponíveis</string>
     <string name="gps_accuracy">GPS Accuracy</string>
-    <string name="gps_accuracy_message_wait">Please wait for better GPS accuracy to report using your location!</string>
-    <string name="gps_accuracy_message_not_bad">GPS accuracy should be enough for reporting using your location.</string>
-    <string name="gps_accuracy_message_good">GPS accuracy is good you can use your current location to report!</string>
-    <string name="no_location_selected_title">No Location Selected</string>
-    <string name="no_location_selected_message">Touch and hold anywhere on the map to mark the report location or click the crosshair button in the top right corner to select your current location.</string>
+    <string name="gps_accuracy_message_wait">Por favor aguardo por melhor cobertura GPS para fazer comunicação usando a tua localização!</string>
+    <string name="gps_accuracy_message_not_bad">Cobertura GPS suficiente para comunicação usando a tua localização.</string>
+    <string name="gps_accuracy_message_good">Cobertura GPS é boa para usar a tua localização para fazer uma comunicação!</string>
+    <string name="no_location_selected_title">Nenhuma Localização Selecionada</string>
+    <string name="no_location_selected_message">Mantém pressionado o mapa em qualquer lado para marcar a localização para a comunicação ou clica na mira no topo direito para selecionar a tua localização atual.</string>
+    <string name="no_message_no_photo_title">Nenhuma Descrição e Nenhuma Foto!</string>
+    <string name="no_message_no_photo_message">Não escreveste uma descrição ou adicionaste uma foto, isto não nos permite identificar o problema com exatidão. por favor adiciona uma pequena descrição e/ou adicionar uma foto!</string>
+    <string name="track_length">Track length:</string>
+
 
     <!--TRACK BROWSER-->
-    <string name="track_browser_title">Track Browser</string>
-    <string name="track_browser_subtitle">Select country to view information about and download the GPX file.</string>
-    <string name="tracks_view_subtitle">Track Information</string>
-    <string name="open_track">OPEN TRACK</string>
-    <string name="generating_list">Generating List</string>
-    <string name="delete_local_file">DELETE FILE</string>
-    <string name="gpx_open_dialog">Loading GPX File</string>
-    <string name="fetching_country_list">Fetching Countries List</string>
-    <string name="track_download_progress">Downloading Track</string>
-    <string name="track_browser_noInternet_title">No Connection - Offline Mode</string>
-    <string name="track_browser_noInternet_message">There is no Internet access or there was a problem connecting to the server. You are only able to view your previous downloaded tracks (local files).</string>
-    <string name="track_download_offline_title">Downloaded Tracks</string>
-    <string name="track_download_offline_subtitle">Browsing previously downloaded files in offline mode.</string>
-    <string name="track_last_updated">Track last updated on</string>
-    <string name="no_offline_files">No GPX Tracks found!</string>
-    <string name="track_updates_available_title">There are track updates available!</string>
-    <string name="track_updates_available_message">Do you want to update them now?</string>
-    <string name="updating_tracks">Updating your local GPX Tracks</string>
-    <string name="track_updated_success_title">GPX Tracks Updated</string>
-    <string name="track_updated_success_message">Local GPX file(s) updated for: </string>
-    <string name="track_updated_error_title">GPX Track Update Failed</string>
-    <string name="track_updated_error_message">There was an error updating your tracks, please try again later.</string>
-    <string name="track_view_start_error_title">Error Starting Activity</string>
-    <string name="track_view_start_error_message">There was an error starting this activity, please try again!</string>
-    <string name="track_delete_success_title">Local GPX file deleted</string>
-    <string name="track_delete_success_message">The local GPX file for this country was deleted, you can always download it again later!</string>
-    <string name="track_delete_error_title">Local GPX file delete error</string>
-    <string name="track_delete_error_message">There was a problem deleting your local file, please try again!</string>
-    <string name="track_download_error_title">File Download Error</string>
-    <string name="track_download_error_message">There was an error downloading the GPX file, please try again later.</string>
-    <string name="gpx_parse_error_title">Error Opening GPX File</string>
-    <string name="gpx_parse_error_message">There seems to be a problem reading the GPX file. Please try to open it again!</string>
-    <string name="gpx_open_noapp_title">No Compatible App Installed</string>
-    <string name="gpx_open_noapp_message">There is no app capable of handling GPX files, please install one from the Play Store.</string>
-    <string name="disclaimer_DontShowAgain">Do not show again</string>
-    <string name="no_permissions_title">No GPS Permission</string>
-    <string name="no_permissions_message">This will not work without GPS permission. FYI we do not collect ANY user data!</string>
-    <string name="disclaimer_title">Before downloading read this</string>
-    <string name="disclaimer_agree">Agree</string>
+    <string name="track_browser_title">Navegador Rota</string>
+    <string name="track_browser_subtitle">Seleciona o país para veres a informação e descarregar o ficheiro GPX.</string>
+    <string name="tracks_view_subtitle">Informação Rota</string>
+    <string name="open_track">ABRIR ROTA</string>
+    <string name="generating_list">Gerar Lista</string>
+    <string name="delete_local_file">APAGAR FICHEIRO</string>
+    <string name="gpx_open_dialog">A Carregar Ficheiro GPX</string>
+    <string name="fetching_country_list">A Buscar Lista Países</string>
+    <string name="track_download_progress">A Descarregar Rota</string>
+    <string name="track_browser_noInternet_title">Sem Ligação - Modo Offline</string>
+    <string name="track_browser_noInternet_message">Não há ligação á internet ou houve um problema a ligar ao servidor. Só podes ver as rotas já descarregadas (ficheiros locais). </string>
+    <string name="track_download_offline_title">Rotas Descarregadas</string>
+    <string name="track_download_offline_subtitle">Navegando nas rotas descarregadas préviamente no modo offline.</string>
+    <string name="track_last_updated">Rota atualizada em</string>
+    <string name="no_offline_files">Nenhumas rotas GPX encontradas!</string>
+    <string name="track_updates_available_title">Há atualizações para as rotas!</string>
+    <string name="track_updates_available_message">Queres atualizar agora?</string>
+    <string name="updating_tracks">A atualizar as tuas rotas GPX locais</string>
+    <string name="track_updated_success_title">Rotas GPX Atualizadas</string>
+    <string name="track_updated_success_message">Rotas GPX locais atualizadas para: </string>
+    <string name="track_updated_error_title">Atualização Rota Falhou</string>
+    <string name="track_updated_error_message">Houve um erro a atulizar as tuas rotas, por favor tenta mais tarde.</string>
+    <string name="track_view_start_error_title">Erro a Iniciar esta Atividade</string>
+    <string name="track_view_start_error_message">Houve um erro a iniciar esta atividade, por favor tenta outra vez!</string>
+    <string name="track_delete_success_title">Ficheiro GPX local Apagado</string>
+    <string name="track_delete_success_message">O ficheiro GPX local para este país foi apagado, podes descarrega-lo novamente mais tarde!</string>
+    <string name="track_delete_error_title">Erro ficheiro GPX local apagado</string>
+    <string name="track_delete_error_message">Houve um erro ao tentar apagar o teu ficheiro GPX local, por favor tenta novamente!</string>
+    <string name="track_download_error_title">Erro ao Descarregar Ficheiro</string>
+    <string name="track_download_error_message">Houve um erro ao descarregar o ficheiro GPX, por favor tenta novamente!.</string>
+    <string name="gpx_parse_error_title">Erro a Abrir Ficheiro GPX</string>
+    <string name="gpx_parse_error_message">Parece haver um problema na leitura no ficheiro GPX. Por favor tenta abrir novamente!</string>
+    <string name="gpx_open_noapp_title">Nenhuma App Compatível Instalada</string>
+    <string name="gpx_open_noapp_message">Não há nenhuma App capaz de abrir ficheiros GPX, por favor instala uma da Play Store.</string>
+    <string name="disclaimer_DontShowAgain">Não mostrar novamente</string>
+    <string name="no_permissions_title">Sem permissão GPS</string>
+    <string name="no_permissions_message">Esta App não funciona sem permissão GPS. FYI, nós não guardamos nenhuns dados teus!</string>
+    <string name="disclaimer_title">Ler antes de descarregar</string>
+    <string name="disclaimer_agree">Concordo</string>
     <string name="disclaimer_agree_dontshow">Agree &amp; never show</string>
-    <string name="disclaimer_refuse">Refuse</string>
-    <string name="disclaimer_message">By continuing to the download and in using the Trans Euro Trail® files, you are accepting and agree to everything below.
+    <string name="disclaimer_refuse">Recusar</string>
+    <string name="zoom_mode_enabled">Modo Zoom Ligado</string>
+    <string name="pan_mode_enabled">Modo Panorâmico Ligado</string>
+    <string name="disclaimer_message"> Ao continuar com o descarregamento e utilização dos ficheiros Trans Euro Trail®, estás a aceitar e concordar com tudo abaixo descrito.
 \n\n
-1. The GPX is issued by the Trans Euro Trail® Community Interest Company, Company No. 11371199, Address: Unit 3, Cragg Road, Mytholmroyd, Hebden Bridge, West Yorkshire, HX7 5HR, United Kingdom.
+1. O ficheiro GPX é emitido por Trans Euro Trail® Community Interest Company, Company No. 11371199, Morada: Unit 3, Cragg Road, Mytholmroyd, Hebden Bridge, West Yorkshire, HX7 5HR, United Kingdom.
 \n\n
-2. The GPX is issued free of charge and is provided "as is," with all faults, defects and errors, and without warranty of any kind.
+2. O ficheiro GPX é emitido gratuito e é proporcionado “como está”, com todas as falhas, defeitos e erros, e sem nenhuma garantia de nenhuma espécie.
 \n\n
-3. The accuracy of the trail is not guaranteed, nor are the GPS co-ordinates.
+3. A precisão da rota não é garantida, nem as coordenadas GPS.
 \n\n
-4. The Trans Euro Trail® is a suggestion not a direction.
+4. O Trans Euro Trail® é uma sugestão, não uma direção.
 \n\n
 5. The Trans Euro Trail® Community Interest Company does not represent or warrant that materials in the site or the services are accurate, complete, reliable, current or error-free.
 \n\n
@@ -249,8 +286,11 @@ k. In Bosnia, Croatia and other locations the detritus of war still exists in th
 28. Accept that you are master or mistress of your own destiny, safety, health and security. You take responsibility for whatever happens.</string>
 
     <!--NOTIFICATION SERVICE-->
-    <string name="notification_trackupdate_title">GPX Track Update Available</string>
-    <string name="notification_trackupdate_message1">There is</string>
-    <string name="notification_trackupdate_message2">track update(s) available.</string>
+    <string name="notification_trackupdate_title">Disponível Atualização Ficheiro GPX</string>
+    <string name="notification_trackupdate_message1">Há </string>
+    <string name="notification_trackupdate_message2">atualização de rota disponível.</string>
 
 </resources>
+
+
+

@@ -1,0 +1,288 @@
+<resources>
+    <!--COMMON TO ALL VIEWS-->
+    <string name="app_name">TET</string>
+    <string name="tet_logo_description">TET LOGO</string>
+    <string name="top_message_text">Gerbkime maršrutus. Gerbkime aplinką. Gerbkime bendruomenes, pro kurias keliaujame.</string>
+    <string name="footer_tet_website">Svetainė</string>
+    <string name="footer_tet_contribute">Prisidėti</string>
+    <string name="ok">OK</string>
+    <string name="Wrong_Activity_Key">Blogas raktas šiam veiksmui!</string>
+    <string name="Null_Key">Nėra rakto šiam veiksmui patikrinti!</string>
+    <string name="No_Bundle_Extras">Nėra priedų šiam veiksmui!</string>
+    <string name="cancel">Atšaukti</string>
+    <string name="Camera">Kamera</string>
+    <string name="Local_Gallery_File">Galerija</string>
+    <string name="yes">Taip</string>
+    <string name="later">Vėliau</string>
+
+    <!--MAIN VIEW-->
+    <string name="pending_notification">Nauji pranešimai</string>
+    <!--Button: TET Tracks Browser-->
+    <string name="browser_tet_tracks_title">TET Maršrutai</string>
+    <string name="browser_button_text">NARŠYTI</string>
+    <string name="browser_image_description">Naršyti TET maršrutus</string>
+    <!--Button: Report Route Problems-->
+    <string name="report_route_problem_title">Problema maršrute</string>
+    <string name="report_button_text">PRANEŠTI</string>
+    <string name="report_route_image_description">Pranešti apie problemą maršrute</string>
+    <!--Button: POIs-->
+    <string name="poi_title">Netrukus</string>
+    <string name="poi_button">TUOJ</string>
+    <string name="poi_image_description">Lankytinas objektas</string>
+    <!--Button: Community / Share-->
+    <string name="join_title">Bendruomenė</string>
+    <string name="join_button_text">PRISIJUNGTI</string>
+    <string name="join_community_image_description">Prisijungusi bendruomenė</string>
+    <!--Splash Message-->
+    <string name="tet_splash_message">Didžiausias motociklų nuotykis Europoje</string>
+    <string name="touch_to_continue">Pratęsimui bakstelkite</string>
+    <!--END OF MAIN VIEW-->
+
+    <!--COMMUNITY VIEW-->
+    <!--Button: Facebook Group-->
+    <string name="facebook_tet_group_title">Facebook’o TET Grupė</string>
+    <string name="facebook_icon_image_description">TET Facebook’o paveiksliukas</string>
+    <string name="facebook_description">Susitik su kitais TET nariais ir pasidalink savo įspūdžiais</string>
+    <!--Button: Online Forum Page-->
+    <string name="tet_forum_title">TET Online Forumas</string>
+    <string name="tet_forum_description">Vieta patarimams, pranešimams ir sveikoms diskusijoms</string>
+    <string name="tet_forum_icon_image_description">Oficialus TET online forumas</string>
+    <string name="tet_contribute_image_description">Parama TET</string>
+    <!--Button: Code of Conduct-->
+    <string name="tet_code_icon_description">Elgesio Kodeksas</string>
+    <string name="tet_code_title">Elgesio kodeksas</string>
+    <string name="tet_code_description">Susipažink su TET Elgesio Kodeksu svetainėje</string>
+    <!--Button: Integrations-->
+    <string name="tet_integration_title">TET Integruotos programėlės</string>
+    <string name="tet_integration_description">Android programėlės kurios integruojasi su TET programėle</string>
+
+    <!--Integration VIEW-->
+    <string name="integration_title">Programėlės kurios integruojasi su TET programėle</string>
+    <string name="integration_description">Kuomet programėlė integruojasi su TET programėlės API vartotojo patirtis pagerėja. Tai paprasta, greita ir sklandu!</string>
+    <string name="integration_example_video">DEMO VIDEO</string>
+    <string name="integration_contact">SUSISIEKITE</string>
+    <string name="integration_add_yours">Ar kuriate navigacijos programėles ar kitotkias TET naudingas programėles? Ar norėtumėte integruoti mūsų API? Spauskite “Susisiekti” ir praneškite apie tai! Taip pat, pažiūrėkite mūsų pavyzdinį video.</string>
+    <string name="download">PARSISIŲSTI</string>
+    <string name="drivemode_title">”Drive Mode Dashboard”</string>
+    <string name="drivemode_description">Labai platus pritaikymas kelionėms motociklu! Kurkite kelionių žurnalus, naršykite GPX failus naudodami “offline” žemėlapius, įrašykite GPX failus, išsaugokite ir peržiūrėkite vietas, gaukite išsamią orų informaciją ir dar daug daugiau.\n\nSukurtas TET programėlės kūrėjo, ji siekia tapti geriausiu TET sprendimu.</string>
+
+    <!--CONTRIBUTE VIEW-->
+    <string name="contribute_title">Užpilk kuro tiesiog čia…</string>
+    <string name="contribute_subtitle">Trans Euro Trail® yra varoma aistros, palaikoma motociklininkų ir remiama jūsų. Geriausia tai, kad visa tai yra nemokama ir ketina tokia išlikti!</string>
+    <string name="contribute_text_button">SKAITYK TOLIAU</string>
+    <string name="contribute_buy_merch">ĮSIGYTI ATRIBUTIKOS</string>
+    <string name="contribute_app_developer">PAREMK PROGRAMĖLĘ</string>
+    <string name="contribute_options_text">Būdai, kuriais galite padėti TET projektui:</string>
+    <!--Merch SubView-->
+    <string name="merch_title">Oficiali TET atributika</string>
+    <string name="merch_subtitle">Skleiskite TET nuotaiką su mūsų marškinėliais ir atspraiais motocikliniais lipdukais arba išlaidaukite įsigydami “ADV Spec” sukurta specialiai TET - “Linesman” striukę.</string>
+    <string name="t_shirt_image_description">Oficialūs TET marškinėliai</string>
+    <string name="t_shirt_title">Trans Euro Trail® marškinėliai</string>
+    <string name="t_shirt_description">Parodykite savo meilę nešiodami mūsų logotipą! \n\n£24.90 + siuntimas</string>
+    <string name="Buy_Tshirt_button_text">PIRKTI</string>
+    <string name="sticker_title">Trans Euro Trail® Lipdukas</string>
+    <string name="sticker_description">Tavo motociklui taip jo reikia! \n\n£2.40 + siuntimas</string>
+    <string name="sticker_image_description">Oficialus TET Lipdukas</string>
+    <string name="jacket_title">ADV Spec Linesman striukė</string>
+    <string name="jacket_image_description">Oficiali ADV Linesman striukė</string>
+    <string name="jacket_description">Neperpučiama/kvėpuojanti su Du Pont™ Kevlar® medžiaga \n\n£249 + siuntimas</string>
+
+    <!--REPORT TRACK PROBLEM VIEW-->
+    <string name="title_activity_maps">Žemėlapis</string>
+    <string name="marker_report_location">Pranešti apie šią vietą</string>
+    <string name="map_instructions">Palieskite ir palaikykite žymekli toje vietoje kurioje yra problema. Spustelėkite kryžiaus formos piktogramą viršutiniame dešiniajame kampe, kad pereitumėte į savo dabartinę vietą. Jei esate neprisijungę, įsitikinkite, kad fiziškai esate probleminėje vietoje ir turite gerą GPS signalą.</string>
+    <string name="error_fetching_countryname_title">Gaunant šalies pavadinimą įvyko klaida</string>
+    <string name="error_fetching_countryname_message">Neįmanoma gauti jūsų šalies pavadinimo, atlikdami sekantį veiksmą, rankiniu būdu pasirinkite šalį.</string>
+    <string name="report_second_step_next">SEKANTIS ŽINGSNIS</string>
+    <string name="report_step2_title">Pranešti maršruto problemą</string>
+    <string name="report_location_text">Koordinatės:</string>
+    <string name="report_finish_next">SEKANTIS ŽINGSNIS</string>
+    <string name="linesman_name">Linesman:</string>
+    <string name="linesman_email">el.paštas:</string>
+    <string name="problem_input_description">Palieskite čia norėdami parašyti nedidelį problemos aprašymą</string>
+    <string name="problem_input_box_title">Pranešimo aprašymas</string>
+    <string name="Track_Country_Text">TET maršruto šalis:</string>
+    <string name="Track_Problem_Text">TET maršruto problemos tipas:</string>
+    <string name="Error_Starting_Report">Klaida paleidžiant pranešimą</string>
+    <string name="ConfirmCountry">Prašome patvirtinti šalies pavadinimą</string>
+    <string name="Manually_Select_Country">Negalima automatiškai nustatyti šalies pavadinimo. Prašome pasirinkti TET maršruto, apie kurį norite pranešti, šalį!</string>
+    <string name="submit_title_text">Pateikite maršruto problemos įrašą</string>
+    <string name="report_resume_text">Pasirinktas maršrutas:</string>
+    <string name="the_problem_is">Problemos tipas:</string>
+    <string name="problem_at">Problemos koordinatės:</string>
+    <string name="report_submit">SIŲSTI</string>
+    <string name="Add_Photo_Title">Prideti fotografiją į pranešimą:</string>
+    <string name="No_Camera_Permission_Title">Reikalingas leidimas kamerai</string>
+    <string name="No_Camera_Permission_Message">Norėdami naudoti fotoaparatą, turite sutikti su fotoaparato leidimo užklausa!</string>
+    <string name="camera_request_again">Prašyti dar kartą</string>
+    <string name="no_camera_available_title">Kamera nerasta</string>
+    <string name="no_camera_available_message">Arba jūsų įrenginyje nėra kameros, arba neįdiegta fotoaparato programėlė!</string>
+    <string name="photo_to_be_submited">Nuotrauka siuntimui:</string>
+    <string name="photo_source">Pasirinkti Nuotraukos šaltinį</string>
+    <string name="photo_source_message">Fotografuoti, ar pasirinkti esamą failą iš galerijos?</string>
+    <string name="report_submited_success_title">Jūsų pranešimas išsiųstas!</string>
+    <string name="report_submited_success_message">Dėkojame, kad pateikėte savo maršruto problemos pranešima, imsimės veiksmų kaip įmanoma greičiau problemoms pašalinti.</string>
+    <string name="Photo_Upload_Progress">Išsiųsti nuotrauką</string>
+    <string name="error_restart_title">Kažkas negerai!</string>
+    <string name="error_restart_message">Pabandyite dar kartą sukurti pranešimą!</string>
+    <string name="error_upload_later_title">Nepavyko prisijungti prie serverio.</string>
+    <string name="error_upload_later_message">Šis įrašas bus išsaugotas ir bus išsiųstas, kai bus įmanoma prisijungti prie serverio.</string>
+    <string name="No_Internet_title">Pranešimo rėžimas neprisijungus</string>
+    <string name="No_Internet_message">Nėra interneto ryšio, bet tai nebėda, žemėlapis gali būti rodomas netinkamai, bet jūsų vieta vis tiek bus užfiksuota. Įrašas taip pat bus išsaugotas kaip siunčiamas pranešimas, kuris bus išsiųstas, kai turėsite prieigą prie interneto.</string>
+    <string name="pending_report_title_1">Jūs turite</string>
+    <string name="pending_report_title_2">siunčiamų pranešimų</string>
+    <string name="pending_report_message">Ar nortie juos išsiųsti dabar?</string>
+    <string name="pending_success_title">Pranešimas išsiųstas!</string>
+    <string name="pending_success_message">Jūs sėkmingai išsiuntėte visus “siunčiamus pranešimus”, dėkojame.</string>
+    <string name="pending_error_title">Siunčiant pranešimą įvyko klaida!</string>
+    <string name="pending_error_message">Bandant pateikti pranešimą kažkas nutiko, bandykite vėliau dar kartą.</string>
+    <string name="storage_permissions_title">Reikalingas saugojimo leidimas</string>
+    <string name="storage_permissions_message">Norėdami išsaugoti pranešimo nuotrauką, turite sutikti su leidimo saugoti užklausa!</string>
+    <string name="map_style_description">Pasirinkite žemėlapio stilių</string>
+    <string name="map_style_dialog_title">Pasirinkite žemėlapio stilių</string>
+    <string name="using_sats">Naudojate</string>
+    <string name="satas_out_of">Palydovai</string>
+    <string name="available_in_view">galima peržiūrėti</string>
+    <string name="gps_accuracy">GPS tikslumas</string>
+    <string name="gps_accuracy_message_wait">Palaukite geresnio GPS signalo, kad praneštumėte naudodamiesi jūsų buvimo vieta!</string>
+    <string name="gps_accuracy_message_not_bad">GPS tikslumo turėtų pakakti pranešimui naudojant jūsų buvimo vietą.</string>
+    <string name="gps_accuracy_message_good">GPS tikslumas yra geras. Galite pranešti naudodami savo dabartinę vietą!</string>
+    <string name="no_location_selected_title">Nepasirinkta vieta</string>
+    <string name="no_location_selected_message">Palieskite ir palaikykite bet kurioje žemėlapio vietoje norėdami pažymėti pranešimo vietą, arba spustelėkite kryželio mygtuką, esantį viršutiniame dešiniajame kampe, kad pasirinktumėte dabartinę jūsų vietą.</string>
+    <string name="no_message_no_photo_title">Nėra aprašymo ir nėra nuotraukos!</string>
+    <string name="no_message_no_photo_message">Neparašėte jokio aprašymo ir nepridėjote nė vienos nuotraukos, todėl mums bus labai sunku nustatyti problemą. Parašykite bent trumpą problemos aprašą ar pridėkite problemą identifikuojančia nuotrauką!</string>
+    <string name="track_length">Maršruto ilgis:</string>
+
+
+    <!--TRACK BROWSER-->
+    <string name="filter">Filtras</string>
+    <string name="track_section">Maršruto dalis</string>
+    <string name="section">dalis</string>
+    <string name="options">Parametrai</string>
+    <string name="dialog_remove_section">Pašalinti šią maršruto dalį ar padaryti ją vienintelę matoma?</string>
+    <string name="remove">Pašalinti</string>
+    <string name="only_visible">Padaryti matoma</string>
+    <string name="rebuilding_waypoints">Kelio taškų atstatymas</string>
+    <string name="rebuild_waypoints">Kelio taškų atstatymas</string>
+    <string name="remove_waypoints_dialog_title">Pašalinti kelio taškus už matomų maršruto dalių?</string>
+    <string name="remove_waypoints_dialog_message">Tai išvalys visus kelio taškus ir pašalins visus, kurie nėra arti matomos maršruto dalies</string>
+    <string name="no">Ne</string>
+    <string name="export_edited_gpx">Eksportuojamas redaguotas GPX failas</string>
+    <string name="track_browser_title">Maršruto naršyklė</string>
+    <string name="track_browser_subtitle">Pasirinkite šalį, kad galėtumėte peržiūrėti informaciją apie GPX failą ir atsisiųsti jį.</string>
+    <string name="tracks_view_subtitle">Maršruto informacija</string>
+    <string name="open_track">Atidaryti maršrutą</string>
+    <string name="generating_list">Kuriamas sąrašas</string>
+    <string name="delete_local_file">TRINTI FAILĄ</string>
+    <string name="gpx_open_dialog">Kraunamas GPX Failas</string>
+    <string name="fetching_country_list">Gaunamas šalių sąrašas</string>
+    <string name="track_download_progress">Siunčiamas maršrutas</string>
+    <string name="track_browser_noInternet_title">Nėra ryšio - Rėžimas Neprisijungus</string>
+    <string name="track_browser_noInternet_message">Nėra interneto prieigos arba kilo problemų jungiantis prie serverio. Galite peržiūrėti tik ankstesnius atsisiųstus maršrutus (vietinius failus).</string>
+    <string name="track_download_offline_title">Atsisiųsti maršrutai</string>
+    <string name="track_download_offline_subtitle">Naršyti ankščiau atsisiųstus maršrutus</string>
+    <string name="track_last_updated">Maršrutas paskutinį kart atnaujintas</string>
+    <string name="no_offline_files">Nerasta GPX maršrutų!</string>
+    <string name="track_updates_available_title">Yra maršruto atnaujinimų!</string>
+    <string name="track_updates_available_message">Ar norite juos atnaujinti dabar?</string>
+    <string name="updating_tracks">Vietinių GPX maršrutų atnaujinimas</string>
+    <string name="track_updated_success_title">GPX maršrutai atnaujinti</string>
+    <string name="track_updated_success_message">Vietinis GPX failas/ai atnaujintas: </string>
+    <string name="track_updated_error_title">Nepavyko atnaujinti GPX maršruto</string>
+    <string name="track_updated_error_message">Atnaujinant maršrutus įvyko klaida. Pabandykite vėliau dar kartą.</string>
+    <string name="track_view_start_error_title">Klaida pradedant veiklą</string>
+    <string name="track_view_start_error_message">Pradėjus šią veiklą įvyko klaida, bandykite dar kartą!</string>
+    <string name="track_delete_success_title">Vietinis GPX failas ištrintas</string>
+    <string name="track_delete_success_message">Vietinis šios šalies GPX failas buvo ištrintas, visada galite jį vėl atsisiųsti vėliau!</string>
+    <string name="track_delete_error_title">Vietinio GPX failo ištrynimo klaida</string>
+    <string name="track_delete_error_message">Ištrinant vietinį failą kilo problema, bandykite dar kartą!</string>
+    <string name="track_download_error_title">Failo siuntimo klaida</string>
+    <string name="track_download_error_message">Atsisiunčiant GPX failą įvyko klaida. Pabandykite vėliau dar kartą.</string>
+    <string name="gpx_parse_error_title">Klaida atidarant GPX failą</string>
+    <string name="gpx_parse_error_message">Panašu, kad iškilo problemų skaitant GPX failą. Bandykite atidaryti dar kartą!</string>
+    <string name="gpx_open_noapp_title">Neįdiegta suderinama programa</string>
+    <string name="gpx_open_noapp_message">Nėra jokios programos, galinčios tvarkyti GPX failus, įdiekite ją iš „Play Store“.</string>
+    <string name="disclaimer_DontShowAgain">Daugiau neberodyti</string>
+    <string name="no_permissions_title">Nėra GPS leidimo</string>
+    <string name="no_permissions_message">Tai neveiks be GPS leidimo. Jūsų žinojimui - mes nerenkame JOKIŲ vartotojo duomenų!</string>
+    <string name="disclaimer_title">Prieš parsisiunčiant perskaitykite</string>
+    <string name="disclaimer_agree">Sutinku</string>
+    <string name="disclaimer_agree_dontshow">Sutinku &amp; daugiau nerodyti</string>
+    <string name="disclaimer_refuse">Nesutinku</string>
+    <string name="zoom_mode_enabled">Mastelio/”ZOOM” režimas įjungtas</string>
+    <string name="pan_mode_enabled">Judinimo/”Pan” režimas įjungtas</string>
+    <string name="disclaimer_message">Tęsdami atsisiuntimą ir naudodami „Trans Euro Trail®“ failus, jūs sutinkate su viskuo, kas nurodyta žemiau.
+\n\n
+1. GPX išleido „Trans Euro Trail®“ bendrijos interesų kompanija, įmonės Nr. 11371199, adresas: Unit 3, Cragg Road, Mytholmroyd, Hebden Bridge, West Yorkshire, HX7 5HR, Jungtinė Karalystė.
+\n\n
+2. GPX išduodamas nemokamai ir pateikiamas „toks, koks yra“ su visais gedimais, trūkumais ir klaidomis bei be jokios garantijos.
+\n\n
+3. Maršruto tikslumas nėra garantuojamas, taip pat nėra garantuojamos ir GPS koordinatės.
+\n\n
+4. „Trans Euro Trail®“ yra ne kryptis, o pasiūlymas.
+\n\n
+5. „Trans Euro Trail®“ bendruomenės interesų bendrovė neatstovauja ir negarantuoja, kad svetainėje ar paslaugose esanti medžiaga yra tiksli, išsami, patikima, naujausia ar be klaidų.
+\n\n
+6. „Trans Euro Trail®“ bendruomenės interesų bendrovė negali patvirtinti ar garantuoti, kad svetainėje ar jos serveriuose nėra virusų ar kitų kenksmingų komponentų.
+\n\n
+7. Jūs įsipareigojate nedalinti šio GPX jokiame elektroniniame failų mainų įrenginyje ar serveryje.
+\n\n
+8. Atsisiųskite naujausią savo kelionės šalies GPX prieš pat išvykdami į kelionę, o keliaudami atnaujinkite maršrutą jei tai aktualu.
+\n\n
+9. Jei nuklydote į privačią žemę, atsiprašykite ir grįžkite į kelią ar kitą taką.
+\n\n
+10. Pagal vietinius įstatymus šie takai/maršruto dalys gali būti laikinai arba visam laikui uždaryti.
+\n\n
+11. Nekeliaukite maršrutu kuris yra per sunkus jums. Jei nesate tikras, nulipkite nuo motociklo ir pasitikrinkite įtartiną vietą. Būkite visada pasiruošęs apsisukti ir susirasti alternatyvų maršrutą.
+\n\n
+12. Važiuoti vienam takais/maršrutais, ypač tais, kurių dar nežinote, yra tikrai neprotinga.
+\n\n
+13. Daugelis šalies takų/maršrutų yra prižiūrimi retai. Juose galite rasti provėžų, skylių, potvynių, klastingų paviršių ir retkarčiais pasitaikančių spąstų motociklininkams, kuriuos sąmoningai paspendžia žmonės, nemėgstantys motociklų, naudojančių šiuos takus/maršrutus.
+\n\n
+14. Kai naudojatės maršruto takais ir ir viešo naudojimo keliais, esate vienas. Jūs vertinate savo įgūdžius ir savo navigacinius sugebėjimus. Visa „Trans Euro Trail®“ bendruomenės interesų bendrovė gali jums parodyti, kur yra šie takai, tačiau jų teisėtumas ir panaudojimas motociklizmo tikslais nėra patvirtinti ir gali akimirksniu pasikeisti.
+\n\n
+15. Jūs įsipareigojate gerbti kelio ženklus, užtvaras ir vietinius įstatymus bei jų laikytis. Jūs esate visiškai atsakingas už kelią kurį pasirinksite ir jūs sutinkate, kad esate visiškai atsakingas už savo veiksmus ar įstatymų pažeidimus.
+\n\n
+16. „Trans Euro Trail®“ bendruomenės interesų bendrovė neprisiima jokios atsakomybės už GPX naudojimą, tiesiogiai ar netiesiogiai kylančią dėl jo naudojimo ar bet kokiu būdu susijusi su bet kokiais ieškiniais, pareikštais kitoje jurisdikcijoje, išskyrus Jungtinę Karalystę, Meno salą ar Kanalo salos.
+\n\n
+17. Motociklas kelia riziką. Nuotykių motociklai papildo šiuos dalykus:\n
+a. Mobiliojo telefono ryšys gali būti trukinėjantis arba jo visai nebūti, todėl prisišaukti pagalbą gali būti sunku arba neįmanoma. Jei pagalba pavyks išsikviesti, jai gali būti sunku susisiekti su jumis ir jos iškvietimas gali turėti didelius kaštus jums. Maršrutas driekiasi neasfaltuotais takeliai kurie gali būti nuo žvyro iki suskilinėjusio asfalto, smėlio, akmens, akmenų ar/ir žolės. Kiekvienas iš jų turi savo sukibimo, stabilumo ir nenuspėjamumo iššūkius, kurie labai skiriasi priklausomai nuo oro sąlygų, kurios greitai gali keistis, ypač kalnų vietovėse.\n
+b. Negalima nuvertinti fizinių galimybių važiavimo motociklu, pakrautu ar nepakrautu motociklu bekele. Jei nuvirsite, jį pakelti gali būti sunku ir atkelti jį nuo kalvos šlaito, upės ar purvo duobės, į kurią jis įkrito, gali būti itini sudėtinga. Pridėkite į kintamą klimatą Europoje - nuo -30 iki +30 ar daugiau. Karštis, šaltis ir dehidratacija gali pabloginti jūsų pajėgumą ir padaryti pavojingą kokteilį, sumaišytą su važavimo bekele ir nepalankiomis oro sąlygomis.\n
+c. Navigavimas gali būti sudėtingas, ypač nesinaudojantiems GPS ar naudojantis žemėlapiais judant, atsidūrus „neteisingoje“ kelio pusėje arba esant kelio ženklams su nepažįstamais šriftais.\n
+d. Mechaninės problemos, lengvai išspręstos nuosavame garaže ar gimtajame mieste, gali tapti daug didesniu iššūkiu toli nuo namų, vietovėje, kur prastos infrastruktūros ar pardavėjų/atstovų žinios.\n
+e. Vietiniai suaugusieji ir vaikai (ir gyvūnai!) gali būti nepratę prie motociklų ar jų galimybių ir neteisingai įvertinti situacijas. Vairavimo standartai ir drausmė labai skiriasi ir dažnai suvokimas gali būti toks „didesnis pirmesnis“, kuomet mažai atsižvelgiama į mažą motociklininką.\n
+f. Vietos laukiniai gyvūnai, tiek naminiai, tiek laukiniai, gali kelti pavojų. Vienose vietose yra lokių ir vilkų, kitose - gyvačių, tolimoje šiaurėje - laukiniai elniai, o visur - galvijai ir šunys.\n
+g. Visame žemyne įstatymai ir norminiai aktai kurie nuolat keičiasi, todėl maršrutai, kurie, buvo sudaryti ir sudarytojų manymu, buvo teisėti, dabar gali būti ne tokie. Tai gali sukelti konfliktą su valdžios institucijomis, bendruomenėmis, žemės savininkais ar kitais vartotojais - nuo žvilgsnio, šauksmo ar pagrumojimo iki arešto, baudžiamojo persekiojimo, bylinėjimosi, motociklo konfiskavimo, baudos ar vairuotojo pažymėjimo ar laisvės praradimo.\n
+h. Sanitarijos ir higienos normos ir praktika labai skiriasi, o medicinos įstaigos gali būti menkos, nepakankamai įrengtos ar toli.\n
+i. Blogoji žmonijos pusė taip pat gali paveikti jus - vagyste, užpuolimu ar sukčiavimu.\n
+j. Atminkite, kad kai kurios Rytų Europos sritys taip pat atdižiau stebi migruojančius žmones dėl pabėgėlių antplūdžio atvėjo, todėl galite susidurti su labai vargingais žmonėmis ar atsargia valdžia.\n
+k. Bosnijoje, Kroatijoje ir kitose vietose karo detritas vis dar egzistuoja tokioje formoje kaip neišvalyti minų laukai. Sniegas, vanduo ir nuolat šliaužiantis dirvožemis, gali nunešti minas. Nuklysti nuo nusistovėjusių gerai įrengtų takų gali būti pavojinga ir, savaime suprantama, kvaila.
+\n\n
+18. Visi takai ir keliai reikalauja, kad jūs ir jūsų motociklas turėtų visus privalomus draudimus, vairuotojo pažymėjimą kurie leistu jums naudotis keliais.
+\n\n
+19. Jūs turėtumėte užtikrinti, kad jūsų dokumentai būtų tvarkingi, nesvarbu, ar tai būtų motociklo gedimo draudimas, ar medicininis / repatriacijos draudimas, licencijos ar pasai.
+\n\n
+20. Turėtumėte šiek tiek pasimokyti, kad padidintumėte savo pasitikėjimą ir kompetenciją (bei pagarbą sau ir savo motociklui).
+\n\n
+21. Turėtumėte įsitikinti, kad esate tinkamai pasiruošęs - tinkamomis padangomis, atsarginėmis dalimis, apsauga, pirmosios pagalbos rinkiniu, ryšių priemonėmis (ir baterijomis!), lagaminu ir stovyklavimo įranga.
+\n\n
+22. Važiuokite žinodami reljefą, paviršių ir tikėdamiesi netikėtų pavojų.
+\n\n
+23. Stebėkite savo greitį.
+\n\n
+24. Pasirūpinkite motociklo techniniu stoviu. Jei turite sveikatos sutrikimų, gerai pagalvokite ar pasitarkite su gydytoju.
+\n\n
+25. Pradėkite kelionę su kelionei paruoštu motociklu. Susipažinkite su juo, kokius kasdienius patikrinimus reikia atlikti ir kaip išspręsti su juo susijusias problemas.
+\n\n
+26. Imkitės atsargumo priemonių, naudodamiesi savo turtu ir savimi.
+\n\n
+27. Jūs sutinkate laikytis „Trans Euro Trail®“ Elgesio kodekso ir būti atsakingu motociklų ambasadoriumi.
+\n\n
+28. Supraskite, kad jūs esate savo likimo, saugos, sveikatos ir saugumo šeimininkas ar šeimininkė. Jūs prisiimate atsakomybę už tai, kas jums nutiks ar atsitiks.</string>
+
+    <!--NOTIFICATION SERVICE-->
+    <string name="notification_trackupdate_title">Yra naujas GPX maršruto atnaujinimas</string>
+    <string name="notification_trackupdate_message1">Čia yra</string>
+    <string name="notification_trackupdate_message2">Maršrutų atnaujinimų</string>
+
+</resources>
