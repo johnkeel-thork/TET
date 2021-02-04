@@ -1,0 +1,288 @@
+<resources>
+    <!--COMMON TO ALL VIEWS-->
+    <string name="app_name">TET</string>
+    <string name="tet_logo_description">TET LOGO</string>
+    <string name="top_message_text">Respect for the Trails. Respect for the Environment. Respect for the Communities we travel through.</string>
+    <string name="footer_tet_website">Website</string>
+    <string name="footer_tet_contribute">Contribute</string>
+    <string name="ok">OK</string>
+    <string name="Wrong_Activity_Key">Wrong key for this activity!</string>
+    <string name="Null_Key">No key to validate this activity!</string>
+    <string name="No_Bundle_Extras">No bundle extras for this activity!</string>
+    <string name="cancel">Cancel</string>
+    <string name="Camera">Camera</string>
+    <string name="Local_Gallery_File">Gallery</string>
+    <string name="yes">Yes</string>
+    <string name="later">Later</string>
+
+    <!--MAIN VIEW-->
+    <string name="pending_notification">0</string>
+    <!--Button: TET Tracks Browser-->
+    <string name="browser_tet_tracks_title">TET Tracks</string>
+    <string name="browser_button_text">BROWSE</string>
+    <string name="browser_image_description">Browse TET Tracks</string>
+    <!--Button: Report Route Problems-->
+    <string name="report_route_problem_title">Route Problem</string>
+    <string name="report_button_text">REPORT</string>
+    <string name="report_route_image_description">Report Route Problems</string>
+    <!--Button: POIs-->
+    <string name="poi_title">Coming Soon</string>
+    <string name="poi_button">SOON</string>
+    <string name="poi_image_description">Points of Interest</string>
+    <!--Button: Community / Share-->
+    <string name="join_title">Community</string>
+    <string name="join_button_text">ENGAGE</string>
+    <string name="join_community_image_description">Online Community</string>
+    <!--Splash Message-->
+    <string name="tet_splash_message">Europe\'s Epic Motorcycle Adventure</string>
+    <string name="touch_to_continue">Tap to Continue</string>
+    <!--END OF MAIN VIEW-->
+
+    <!--COMMUNITY VIEW-->
+    <!--Button: Facebook Group-->
+    <string name="facebook_tet_group_title">Facebook TET Group</string>
+    <string name="facebook_icon_image_description">TET Facebook Image Icon</string>
+    <string name="facebook_description">Meet other TET members and share your experiences</string>
+    <!--Button: Online Forum Page-->
+    <string name="tet_forum_title">TET Online Forum</string>
+    <string name="tet_forum_description">The place for guides, reports and healthy discussions</string>
+    <string name="tet_forum_icon_image_description">The official TET online forum</string>
+    <string name="tet_contribute_image_description">TET Contribution</string>
+    <!--Button: Code of Conduct-->
+    <string name="tet_code_icon_description">Code of Conduct</string>
+    <string name="tet_code_title">Code of Conduct</string>
+    <string name="tet_code_description">Read about the TET Code of Conduct in the website</string>
+    <!--Button: Integrations-->
+    <string name="tet_integration_title">TET Integrated Apps</string>
+    <string name="tet_integration_description">Android Apps that integrate the TET App features</string>
+
+    <!--Integration VIEW-->
+    <string name="integration_title">Apps that Integrate the TET App</string>
+    <string name="integration_description">When a app integrates with the TET App API the user experience improves. It´s simple, fast, seamlessly!</string>
+    <string name="integration_example_video">EXAMPLE VIDEO</string>
+    <string name="integration_contact">CONTACT US</string>
+    <string name="integration_add_yours">Do you develop Apps for navigation or otherwise relevant to the TET? Would you like to integrate our API? Touch contact us and tell us about it! Also check the example video.</string>
+    <string name="download">DOWNLOAD</string>
+    <string name="drivemode_title">Drive Mode Dashboard</string>
+    <string name="drivemode_description">A highly customizable dashboard for your motorcycle! Create trip logs, navigate GPX files with offline maps, record GPX files, save and view locations, get detailed weather information and much, much more.\n\nDeveloped by the creator of the TET app, it aims to become the ultimate TET solution!</string>
+
+    <!--CONTRIBUTE VIEW-->
+    <string name="contribute_title">Make your first fuel stop right here&#8230;</string>
+    <string name="contribute_subtitle">The Trans Euro Trail® is fuelled by passion, maintained by riders and supported by YOU. Best of all, it’s free of charge and intends to stay that way!</string>
+    <string name="contribute_text_button">READ MORE</string>
+    <string name="contribute_buy_merch">BUY MERCH</string>
+    <string name="contribute_app_developer">CONTRIBUTE APP</string>
+    <string name="contribute_options_text">These are the ways you can help the TET Project:</string>
+    <!--Merch SubView-->
+    <string name="merch_title">Official TET Merchandising</string>
+    <string name="merch_subtitle">Spread the TET vibes with our Ts and heavy duty bike stickers, or splash out on the ADV Spec Linesman trail riding jacket, developed especially for the TET.</string>
+    <string name="t_shirt_image_description">The Official TET Tshirt</string>
+    <string name="t_shirt_title">Trans Euro Trail® T-shirt</string>
+    <string name="t_shirt_description">Show your love by wearing our logo! \n\n£24.90 + postage</string>
+    <string name="Buy_Tshirt_button_text">BUY</string>
+    <string name="sticker_title">Trans Euro Trail® Sticker</string>
+    <string name="sticker_description">Your motorcycle needs this so much! \n\n£2.40 + postage</string>
+    <string name="sticker_image_description">The official TET Sticker</string>
+    <string name="jacket_title">ADV Spec Linesman Jacket</string>
+    <string name="jacket_image_description">The official ADV Linesman Jacket</string>
+    <string name="jacket_description">Windproof/breathable with Du Pont™ Kevlar® \n\n£249 + postage</string>
+
+    <!--REPORT TRACK PROBLEM VIEW-->
+    <string name="title_activity_maps">Map</string>
+    <string name="marker_report_location">Report This Location</string>
+    <string name="map_instructions">Touch and hold anywhere on the map to place a marker in that location. Click the crosshair icon on the top right corner to jump to your current location. If you are in offline mode, please make sure you are physically located at the problem location and have a valid GPS signal.</string>
+    <string name="error_fetching_countryname_title">Error fetching country name</string>
+    <string name="error_fetching_countryname_message">We are unable to fetch your country name, please manually select the country on the next step.</string>
+    <string name="report_second_step_next">NEXT STEP</string>
+    <string name="report_step2_title">Report Track Problem</string>
+    <string name="report_location_text">Coordinates:</string>
+    <string name="report_finish_next">NEXT STEP</string>
+    <string name="linesman_name">Linesman:</string>
+    <string name="linesman_email">e-mail</string>
+    <string name="problem_input_description">Touch here to, write a small description about the problem</string>
+    <string name="problem_input_box_title">Report Description</string>
+    <string name="Track_Country_Text">TET Track Country:</string>
+    <string name="Track_Problem_Text">TET Track Problem Type:</string>
+    <string name="Error_Starting_Report">Error starting Report</string>
+    <string name="ConfirmCountry">Please confirm the country name</string>
+    <string name="Manually_Select_Country">Unable to automatically detect the country name. Please manually select the country for the TET Track you are reporting!</string>
+    <string name="submit_title_text">Submit Track Problem Report</string>
+    <string name="report_resume_text">Selected Track:</string>
+    <string name="the_problem_is">Problem Type:</string>
+    <string name="problem_at">Problem Coordinates:</string>
+    <string name="report_submit">SUBMIT</string>
+    <string name="Add_Photo_Title">Add Photo to Report:</string>
+    <string name="No_Camera_Permission_Title">Camera Permission Required</string>
+    <string name="No_Camera_Permission_Message">To use your camera you need to accept the camera permission request!</string>
+    <string name="camera_request_again">Request Again</string>
+    <string name="no_camera_available_title">No Camera Available</string>
+    <string name="no_camera_available_message">Either your device does not have a camera or you have no camera app installed!</string>
+    <string name="photo_to_be_submited">Photo to Send:</string>
+    <string name="photo_source">Select Photo Source</string>
+    <string name="photo_source_message">Take a photo using your camera or select a local file from your gallery?</string>
+    <string name="report_submited_success_title">Your report was delivered!</string>
+    <string name="report_submited_success_message">Thank you for submitting your track problem report, we will take action as soon as possible.</string>
+    <string name="Photo_Upload_Progress">Photo Upload</string>
+    <string name="error_restart_title">Something went wrong!</string>
+    <string name="error_restart_message">Please try creating a report again!</string>
+    <string name="error_upload_later_title">Could not connect to server</string>
+    <string name="error_upload_later_message">This log will be saved and it will be submitted when it´s possible to connect to the server.</string>
+    <string name="No_Internet_title">Offline Report Mode</string>
+    <string name="No_Internet_message">There is no Internet connection, but It´s fine, the map may not properly be displayed but your location will still be captured. The log will also be saved as a Pending Report which will be sent when you have Internet access.</string>
+    <string name="pending_report_title_1">You have</string>
+    <string name="pending_report_title_2">pending reports</string>
+    <string name="pending_report_message">Do you want to submit them now?</string>
+    <string name="pending_success_title">Pending reports sent!</string>
+    <string name="pending_success_message">You have successfully submitted all your pending reports, thank you.</string>
+    <string name="pending_error_title">Error submitting report!</string>
+    <string name="pending_error_message">Something went wrong while trying to submit your report, please try again later.</string>
+    <string name="storage_permissions_title">Storage Permission Required</string>
+    <string name="storage_permissions_message">To save a photo for report you need to accept the storage permission request!</string>
+    <string name="map_style_description">Select the Map Style</string>
+    <string name="map_style_dialog_title">Select Map Style</string>
+    <string name="using_sats">Using</string>
+    <string name="satas_out_of">satellites of</string>
+    <string name="available_in_view">available in view</string>
+    <string name="gps_accuracy">GPS Accuracy</string>
+    <string name="gps_accuracy_message_wait">Please wait for better GPS accuracy to report using your location!</string>
+    <string name="gps_accuracy_message_not_bad">GPS accuracy should be enough for reporting using your location.</string>
+    <string name="gps_accuracy_message_good">GPS accuracy is good you can use your current location to report!</string>
+    <string name="no_location_selected_title">No Location Selected</string>
+    <string name="no_location_selected_message">Touch and hold anywhere on the map to mark the report location or click the crosshair button in the top right corner to select your current location.</string>
+    <string name="no_message_no_photo_title">No Description and no Photo!</string>
+    <string name="no_message_no_photo_message">You did not write any description and you did not add any photo, this makes it very hard for us to identify the problem, please consider writing something or adding a photo!</string>
+    <string name="track_length">Track length:</string>
+
+
+    <!--TRACK BROWSER-->
+    <string name="filter">Filter</string>
+    <string name="track_section">Track Section</string>
+    <string name="section">Section</string>
+    <string name="options">Options</string>
+    <string name="dialog_remove_section">Remove this section or make it the only visible?</string>
+    <string name="remove">Remove</string>
+    <string name="only_visible">Only Visible</string>
+    <string name="rebuilding_waypoints">Rebuilding Waypoints</string>
+    <string name="rebuild_waypoints">Rebuild Waypoints</string>
+    <string name="remove_waypoints_dialog_title">Remove Waypoints Outside the Visible Sections?</string>
+    <string name="remove_waypoints_dialog_message">This will clean up all the waypoints, removing any that no longer is close to the visible sections</string>
+    <string name="no">No</string>
+    <string name="export_edited_gpx">Exporting Edited GPX file</string>
+    <string name="track_browser_title">Track Browser</string>
+    <string name="track_browser_subtitle">Select country to view information about and download the GPX file.</string>
+    <string name="tracks_view_subtitle">Track Information</string>
+    <string name="open_track">OPEN TRACK</string>
+    <string name="generating_list">Generating List</string>
+    <string name="delete_local_file">DELETE FILE</string>
+    <string name="gpx_open_dialog">Loading GPX File</string>
+    <string name="fetching_country_list">Fetching Countries List</string>
+    <string name="track_download_progress">Downloading Track</string>
+    <string name="track_browser_noInternet_title">No Connection - Offline Mode</string>
+    <string name="track_browser_noInternet_message">There is no Internet access or there was a problem connecting to the server. You are only able to view your previous downloaded tracks (local files).</string>
+    <string name="track_download_offline_title">Downloaded Tracks</string>
+    <string name="track_download_offline_subtitle">Browsing previously downloaded files in offline mode.</string>
+    <string name="track_last_updated">Track last updated on</string>
+    <string name="no_offline_files">No GPX Tracks found!</string>
+    <string name="track_updates_available_title">There are track updates available!</string>
+    <string name="track_updates_available_message">Do you want to update them now?</string>
+    <string name="updating_tracks">Updating your local GPX Tracks</string>
+    <string name="track_updated_success_title">GPX Tracks Updated</string>
+    <string name="track_updated_success_message">Local GPX file(s) updated for: </string>
+    <string name="track_updated_error_title">GPX Track Update Failed</string>
+    <string name="track_updated_error_message">There was an error updating your tracks, please try again later.</string>
+    <string name="track_view_start_error_title">Error Starting Activity</string>
+    <string name="track_view_start_error_message">There was an error starting this activity, please try again!</string>
+    <string name="track_delete_success_title">Local GPX file deleted</string>
+    <string name="track_delete_success_message">The local GPX file for this country was deleted, you can always download it again later!</string>
+    <string name="track_delete_error_title">Local GPX file delete error</string>
+    <string name="track_delete_error_message">There was a problem deleting your local file, please try again!</string>
+    <string name="track_download_error_title">File Download Error</string>
+    <string name="track_download_error_message">There was an error downloading the GPX file, please try again later.</string>
+    <string name="gpx_parse_error_title">Error Opening GPX File</string>
+    <string name="gpx_parse_error_message">There seems to be a problem reading the GPX file. Please try to open it again!</string>
+    <string name="gpx_open_noapp_title">No Compatible App Installed</string>
+    <string name="gpx_open_noapp_message">There is no app capable of handling GPX files, please install one from the Play Store.</string>
+    <string name="disclaimer_DontShowAgain">Do not show again</string>
+    <string name="no_permissions_title">No GPS Permission</string>
+    <string name="no_permissions_message">This will not work without GPS permission. FYI we do not collect ANY user data!</string>
+    <string name="disclaimer_title">Before downloading read this</string>
+    <string name="disclaimer_agree">Agree</string>
+    <string name="disclaimer_agree_dontshow">Agree &amp; never show</string>
+    <string name="disclaimer_refuse">Refuse</string>
+    <string name="zoom_mode_enabled">Zoom Mode Enabled</string>
+    <string name="pan_mode_enabled">Pan Mode Enabled</string>
+    <string name="disclaimer_message">By continuing to the download and in using the Trans Euro Trail® files, you are accepting and agree to everything below.
+\n\n
+1. The GPX is issued by the Trans Euro Trail® Community Interest Company, Company No. 11371199, Address: Unit 3, Cragg Road, Mytholmroyd, Hebden Bridge, West Yorkshire, HX7 5HR, United Kingdom.
+\n\n
+2. The GPX is issued free of charge and is provided "as is," with all faults, defects and errors, and without warranty of any kind.
+\n\n
+3. The accuracy of the trail is not guaranteed, nor are the GPS co-ordinates.
+\n\n
+4. The Trans Euro Trail® is a suggestion not a direction.
+\n\n
+5. The Trans Euro Trail® Community Interest Company does not represent or warrant that materials in the site or the services are accurate, complete, reliable, current or error-free.
+\n\n
+6. The Trans Euro Trail® Community Interest Company cannot represent or warrant that the site or its servers are free of viruses or other harmful components.
+\n\n
+7. You undertake not to share this GPX on any electronic file sharing device or server.
+\n\n
+8. You will download the most recent GPX for your country of travel just before you require it and download updates, if relevant, while travelling.
+\n\n
+9. If you stray onto private land, apologise and get back onto the road or trail.
+\n\n
+10. These trails can be temporarily or permanently closed at short notice under local law.
+\n\n
+11. Do not ride trails beyond your capability. If unsure, get off your bike and walk the trail first. Be prepared to turn round and find an alternative route.
+\n\n
+12. Trail riding alone, especially on trails you do not know, is really unwise.
+\n\n
+13. Many country trails are rarely maintained. You will find ruts, holes, floods, treacherous surfaces and the occasional booby trap hazard deliberately placed by people who do not like motorcycles using trails.
+\n\n
+14. When you use the trails and roads, you are on your own. You exercise your judgement in your own skills and your own navigation. All the Trans Euro Trail® Community Interest Company can do is show you where some of the trails are, but their legality and viability are not confirmed and can change at a moment\'s notice.
+\n\n
+15. You undertake to respect and adhere to road signs, barriers and local laws. The decision to use a road or trail is entirely yours and you accept that you bear full responsibility for your action or any infringements of the law.
+\n\n
+16. The Trans Euro Trail® Community Interest Company shall not have any liability for use of the GPX, directly or indirectly arising out of its use or in any way involving any Claim which is brought in any jurisdiction other than the United Kingdom, Isle of Man or Channel Islands.
+\n\n
+17. Motorcycling carries risks. Adventure motorcycling adds to these:\n
+a. Mobile phone coverage may be patchy or non-existent so summoning help may be limited. If help is summoned it may struggle to reach you and you may incur high costs. Unpaved tracks vary from gravel to broken tar to sand to stone to boulder to grass. Each carries its own challenges of grip, stability and unpredictability all of which vary immensely with weather conditions which can change quickly especially in mountain areas.\n
+b. The physical demands of riding a motorcycle, laden or otherwise, off road are not to be underestimated. If you drop it, picking it up can be hard work and recovering it from a hillside, river or mud hole where it has slipped can be exhausting. Add into the mix the variable climate in Europe - subzero to high 30s and above - and heat, cold and dehydration can impair performance and make a dangerous cocktail when mixed with the complex task of off pavement riding.\n
+c. Navigation can be challenging, especially without practicing using GPS or maps on the move, on the “wrong" side of the road or with signposts in an unfamiliar script.\n
+d. Mechanical issues easily sorted out in one's own garage or home city can become much more of a challenge away from home in an area with poor infrastructure or dealer knowledge. \n
+e. Local adults and children (and animals!) may be unfamiliar with motorcycles or their capabilities and misjudge situations. Driving standards and discipline vary hugely and often the perception is “might is right” with scant regard being paid to the little guy on a motorbike. \n
+f. Local wildlife both domestic and wild can pose risks. Bears and wolves are present in some areas, snakes in others, wild roaming reindeer in the far north and cattle and dogs are all over. \n
+g. Laws and regulations are always changing across the continent, so a trail that contributors thought was legal, may not now be so. This may lead to conflict with the authorities, communities, landowners or other users - anything from a glance, a shout or a waved fist to arrest, prosecution, litigation, bike confiscation, fine or loss of licence or liberty.\n
+h. Concepts and practice of sanitation and hygiene vary immensely and medical facilities can be scarce, suboptimal or distant.\n
+i. The seedier side of humanity can also impact on you through theft, assault or fraud.\n
+j. Be aware that some areas of eastern Europe also have heightened awareness of mobile populations following the influx of refugees so you may come across desperately poor people or wary authorities.\n
+k. In Bosnia, Croatia and other locations the detritus of war still exists in the form of uncleared mine-fields. Snow, water and soil creep all shift these so that straying from established well used trails can be dangerous and, needless to say, stupid.
+\n\n
+18. All trails and roads require you and your motorcycle to be fully insured, licensed and road-worthy.
+\n\n
+19. You should ensure that your paperwork is in order whether it be bike, breakdown or medical/repatriation insurance, licences or passports.
+\n\n
+20. You should get some practice in to build confidence and competence (and respect for your own limits and those of your bike).
+\n\n
+21. You should ensure you are properly equipped with the right tyres, spares, protection, first aid kit, communications devices (and batteries!), luggage and camping gear.
+\n\n
+22. Ride with an awareness of the terrain, surface and in anticipation of unexpected hazards.
+\n\n
+23. Moderate your speed.
+\n\n
+24. Get bike fit. If you’ve got a medical condition then think carefully and take some medical advice.
+\n\n
+25. Start the trip with a travel ready bike. Get familiar with your bike, what daily checks to make and how to fix issues with it.
+\n\n
+26. Take security precautions with your possessions and self.
+\n\n
+27. You agree to adhere to the Trans Euro Trail® Code of Conduct and be an ambassador of responsible motorcycling.
+\n\n
+28. Accept that you are master or mistress of your own destiny, safety, health and security. You take responsibility for whatever happens.</string>
+
+    <!--NOTIFICATION SERVICE-->
+    <string name="notification_trackupdate_title">GPX Track Update Available</string>
+    <string name="notification_trackupdate_message1">There is</string>
+    <string name="notification_trackupdate_message2">track update(s) available.</string>
+
+</resources>
