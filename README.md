@@ -2,15 +2,28 @@
 TET- Trans Euro Trail (Android app)
 
 EUROPE'S DIRT ROAD ADVENTURE
+
 A 51,000km GPX route from the edge of Africa to the Arctic Circle.
 Created by our community.
 Provided for free.
 
 
-### Help Translate the Android App:
-Please Submit for the Android App Translation:
+=====================
 
-https://github.com/johnkeel-thork/TET/blob/master/Android%20App/values-pt/strings.xml
+
+### Help Translate:
+
+Please Submit for the Android App Translation!
+
+https://github.com/johnkeel-thork/DMD2/tree/main/app/src/main/res
+
+
+Following the Android schemas:
+
+**Each language should be put inside a folder named like "values-TWO_LETTER_COUNTRY_CODE"**
+
+- Example for Portuguese translation folder: "values-pt"
+- Example for Spanish translation folder: "values-es"
 
 
 
