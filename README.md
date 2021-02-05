@@ -1,5 +1,5 @@
 # TET
-TET- Trans Euro Trail (Android app)
+TET- Trans Euro Trail (Android / iOS apps)
 
 EUROPE'S DIRT ROAD ADVENTURE
 
