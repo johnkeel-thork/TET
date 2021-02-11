@@ -1,4 +1,11 @@
 <resources>
+    
+    <!-- NEW UNTRANSLATED -->
+    <string name="choose_app">Choose App</string>
+    <!-- END OF UNTRANSLATED -->
+    
+    
+    
     <!--COMMON TO ALL VIEWS-->
     <string name="app_name">TET</string>
     <string name="tet_logo_description">TET LOGO</string>
