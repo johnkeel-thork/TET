@@ -1,5 +1,5 @@
 <resources>
-    
+
     <!-- NEW UNTRANSLATED -->
     <string name="choose_app">Choose App</string>
     <!-- END OF UNTRANSLATED -->
@@ -140,7 +140,7 @@
     <string name="problem_at">Problème sur position:</string>
     <string name="report_submit">ENVOYER</string>
     <string name="Add_Photo_Title">Ajouter une photo au rapport: </string>
-    <string name="No_Camera_Permission_Title">Permission d'accès à la Caméra requise</string>
+    <string name="No_Camera_Permission_Title">Permission d\'accès à la Caméra requise</string>
     <string name="No_Camera_Permission_Message"> Pour utiliser votre appareil photo, vous devez accepter la demande d\'autorisation de l\'appareil photo!</string>
     <string name="camera_request_again">Répéter la demande</string>
     <string name="no_camera_available_title">Aucun appareil photo disponible</string>
