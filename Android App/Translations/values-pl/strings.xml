@@ -1,19 +1,12 @@
 <resources>
+    
+    <!-- NEW UNTRANSLATED -->
+    <string name="choose_app">Choose App</string>
+    <!-- END OF UNTRANSLATED -->
+    
+    
 
-    <string name="filter">Filter</string>
-    <string name="track_section">Odcinek trasy</string>
-    <string name="section">Odcinek</string>
-    <string name="options">Opcje</string>
-    <string name="dialog_remove_section">Ukryć ten odcinek lub pozostawić jako jedyny widoczny?</string>
-    <string name="remove">Ukryj</string>
-    <string name="only_visible">Jedyny widoczny</string>
-    <string name="rebuilding_waypoints">Odbudowa punktów orientacyjnych</string>
-    <string name="rebuild_waypoints">Odbuduj punty orientacyjne</string>
-    <string name="remove_waypoints_dialog_title">Usunąć punkty orientacyjne poza widocznym odcinkiem?</string>
-    <string name="remove_waypoints_dialog_message">Ta czynność usunie wszystkie punkty orientacyjne, które nie znajdują się w pobliżu widocznego odcinka.</string>
-    <string name="no">Nie</string>
-    <string name="export_edited_gpx">Export edytowanego pliku GPX</string>
-
+    
 
     <!--COMMON TO ALL VIEWS-->
     <string name="app_name">TET</string>
@@ -214,6 +207,19 @@
     <string name="disclaimer_refuse">Odmowa</string>
     <string name="zoom_mode_enabled">Uruchomiono tryb przybliżenia</string>
     <string name="pan_mode_enabled">Uruchomiono tryb obrotu</string>
+    <string name="filter">Filter</string>
+    <string name="track_section">Odcinek trasy</string>
+    <string name="section">Odcinek</string>
+    <string name="options">Opcje</string>
+    <string name="dialog_remove_section">Ukryć ten odcinek lub pozostawić jako jedyny widoczny?</string>
+    <string name="remove">Ukryj</string>
+    <string name="only_visible">Jedyny widoczny</string>
+    <string name="rebuilding_waypoints">Odbudowa punktów orientacyjnych</string>
+    <string name="rebuild_waypoints">Odbuduj punty orientacyjne</string>
+    <string name="remove_waypoints_dialog_title">Usunąć punkty orientacyjne poza widocznym odcinkiem?</string>
+    <string name="remove_waypoints_dialog_message">Ta czynność usunie wszystkie punkty orientacyjne, które nie znajdują się w pobliżu widocznego odcinka.</string>
+    <string name="no">Nie</string>
+    <string name="export_edited_gpx">Export edytowanego pliku GPX</string>
     <string name="disclaimer_message">Poprzez pobranie i używanie plików Trans Euro Trail® wyrażasz zgodę na wszystkie punkty wyszczególnione poniżej.
 \n\n
 1. Pliki GPX udostępnione są przez Trans Euro Trail® Community Interest Company, Company No. 11371199, Address: Unit 3, Cragg Road, Mytholmroyd, Hebden Bridge, West Yorkshire, HX7 5HR, United Kingdom.
