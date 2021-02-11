@@ -5,13 +5,13 @@
     <string name="track_section">Section de trace</string>
     <string name="section">Section</string>
     <string name="options">Options</string>
-    <string name="dialog_remove_section">Retirer cette section ou la rendre visible uniquement?</string>
+    <string name="dialog_remove_section">Retirer cette section ou la rendre seule visible?</string>
     <string name="remove">Retirer</string>
-    <string name="only_visible">Visible uniquement</string>
+    <string name="only_visible">Seule trace visible</string>
     <string name="rebuilding_waypoints">Reconstruction des Waypoints</string>
     <string name="rebuild_waypoints"> Reconstruction des Waypoints </string>
-    <string name="remove_waypoints_dialog_title">Retirer des Waypoints en dehors de la Section Visible?</string>
-    <string name="remove_waypoints_dialog_message">Nettoyer tous les waypoints, retirer ceux qui sont éloignés de la section affichée</string>
+    <string name="remove_waypoints_dialog_title">Retirer les Waypoints en dehors de la Section Visible?</string>
+    <string name="remove_waypoints_dialog_message">Nettoyer tous les waypoints, cela va retirer tous ceux qui sont éloignés de la section affichée</string>
     <string name="no">Non</string>
     <string name="export_edited_gpx">Export du fichier GPX</string>
 
@@ -42,10 +42,10 @@
     <!--Button: Report Route Problems-->
     <string name="report_route_problem_title"> Problème sur la Trace</string>
     <string name="report_button_text">SIGNALER</string>
-    <string name="report_route_image_description">Signaler une problème sur la trace</string>
+    <string name="report_route_image_description">Signaler un problème sur la trace</string>
 
     <!--Button: POIs-->
-    <string name="poi_title">A venir</string>
+    <string name="poi_title">À venir</string>
     <string name="poi_button"> BIENTÔT</string>
     <string name="poi_image_description"> Points d’intérêt</string>
 
@@ -54,7 +54,7 @@
     <string name="join_button_text">PARTICIPER</string>
     <string name="join_community_image_description">Communauté en ligne</string>
     <!--Splash Message-->
-    <string name="tet_splash_message">Épique Aventure Moto en Europe</string>
+    <string name="tet_splash_message"> Aventure Moto Épique en Europe</string>
     <string name="touch_to_continue">Appuyer pour continuer</string>
     <!--END OF MAIN VIEW-->
 
@@ -66,12 +66,12 @@
 
     <!--Button: Online Forum Page-->
     <string name="tet_forum_title">Forum de discussion TET</string>
-    <string name="tet_forum_description">Le lieu d’échanges entre les guides, les rapports et les discussion intéressantes!</string>
+    <string name="tet_forum_description">Le lieu d’échanges entre les guides, comptes rendus et des discussion intéressantes!</string>
     <string name="tet_forum_icon_image_description">Le forum officiel de la TET</string>
     <string name="tet_contribute_image_description"> Contribution au TET </string>
 
     <!--Button: Code of Conduct-->
-    <string name="tet_code_icon_description">Code de Conduite</string>
+    <string name="tet_code_icon_description">Code de bonne Conduite</string>
     <string name="tet_code_title"> Code de bonne Conduite </string>
     <string name="tet_code_description">Lire le code de bonne Conduite sur le site web</string>
 
@@ -84,16 +84,16 @@
     <string name="integration_description"> Lorsque l’application intègre l’API de la TET, l’expérience de l’utilisateur est améliorée, c’est simple rapide et transparent!</string>
     <string name="integration_example_video">EXEMPLE VIDÉO</string>
     <string name="integration_contact">CONTACTEZ NOUS</string>
-    <string name="integration_add_yours"> Êtes-vous développeur d’applications de navigation qui seraient pertinentes à la TET? Aimeriez-vous intégrer notre API? Si oui, contactez-nous en appuyant le bouton pour nous parler! Regardez aussi notre vidéo de démonstration. </string>
+    <string name="integration_add_yours"> Êtes-vous développeur d’applications de navigation qui seraient pertinentes pour la TET? Aimeriez-vous intégrer notre API? Si oui, contactez-nous en appuyant le bouton pour nous parler! Regardez aussi notre vidéo de démonstration. </string>
     <string name="download">TÉLÉCHARGER</string>
     <string name="drivemode_title"> Drive Mode Dashboard </string>
     <string name="drivemode_description"> Drive Mode Dashboard  est un tableau de bord personnalisable pour votre moto! Créez des journaux de voyage. Naviguez avec des fichiers .GPX sur des cartes hors-ligne, visionnez et sauvegardez des POI, vérifier la météo et bien plus! \n\n Développé par les créateurs de l’application de la TET, il vise à devenir la solution TET ultime. </string>
 
     <!--CONTRIBUTE VIEW-->
     <string name="contribute_title"> Faites votre premier plein d’essence ici&#8230;</string>
-    <string name="contribute_subtitle"> La Trans Euro Trail® carbure à la passion! Elle est entretenue par les utilisateurs et elle est soutenue par VOUS; le meilleur dans tout ça, c’est tout à fait gratuit et on a bien l’intention que ça le reste! </string>
+    <string name="contribute_subtitle"> La Trans Euro Trail® carbure à la passion! Elle est entretenue par les utilisateurs et elle est soutenue par VOUS; le meilleur dans tout ça, c’est gratuit et on a bien l’intention que ça le reste! </string>
     <string name="contribute_text_button">LIRE LA SUITE</string>
-    <string name="contribute_buy_merch">ACHETER ARTICLES</string>
+    <string name="contribute_buy_merch">ACHETER DES PRODUITS</string>
     <string name="contribute_app_developer">CONTRIBUEZ</string>
     <string name="contribute_options_text"> Vous pouvez aider le projet de la TET de plusieurs façons:</string>
 
@@ -114,11 +114,11 @@
     <!--REPORT TRACK PROBLEM VIEW-->
     <string name="title_activity_maps">Carte</string>
     <string name="marker_report_location">Signaler cet emplacement</string>
-    <string name="map_instructions"> Appuyez et maintenez n\'importe où sur la carte pour marquer l\'emplacement du rapport ou cliquez sur le bouton en forme de croix dans le coin supérieur droit pour sélectionner votre emplacement actuel. </string>
-    <string name="error_fetching_countryname_title">Erreur de localisation du nom de pays</string>
-    <string name="error_fetching_countryname_message"> Nous sommes incapables de localiser le nom de votre pays pour le moment, svp le choisir manuellement à la prochaine étape. </string>
+    <string name="map_instructions"> Appuyez et maintenez n\'importe où sur la carte pour marquer l\'emplacement du rapport ou cliquez sur le bouton en forme de croix dans le coin supérieur droit pour sélectionner votre emplacement actuel.  </string>
+    <string name="error_fetching_countryname_title">Impossible de récupérer le nom du pays</string>
+    <string name="error_fetching_countryname_message"> Nous sommes incapables de localiser le nom de votre pays pour le moment, veuillez le choisir manuellement à la prochaine étape. </string>
     <string name="report_second_step_next"> PROCHAINE ÉTAPE </string>
-    <string name="report_step2_title">Signaler problème de Trace </string>
+    <string name="report_step2_title">Signaler un problème sur la Trace </string>
     <string name="report_location_text">Coordonnées:</string>
     <string name="report_finish_next">ÉTAPE SUIVANTE</string>
     <string name="linesman_name"> Linesman:</string>
@@ -126,7 +126,7 @@
     <string name="problem_input_description"> Cliquer ici, pour rédiger une courte description du problème </string>
     <string name="problem_input_box_title">Signaler description</string>
     <string name="Track_Country_Text">Tracé TET Pays:</string>
-    <string name="Track_Problem_Text">Type de problème trace TET:</string>
+    <string name="Track_Problem_Text">Type de problème sur la trace TET:</string>
     <string name="Error_Starting_Report">Erreur lors de l’émission du rappport</string>
     <string name="ConfirmCountry">SVP confirmer le nom du pays</string>
     <string name="Manually_Select_Country"> Nous éprouvons des difficultés à détecter le nom du pays. Veuillez sélectionner manuellement le pays pour la Trace TET que vous signalez! </string>
@@ -136,14 +136,14 @@
     <string name="problem_at">Problème sur position:</string>
     <string name="report_submit">ENVOYER</string>
     <string name="Add_Photo_Title">Ajouter une photo au rapport: </string>
-    <string name="No_Camera_Permission_Title">Permission de la Caméra requise</string>
+    <string name="No_Camera_Permission_Title">Permission d'accès à la Caméra requise</string>
     <string name="No_Camera_Permission_Message"> Pour utiliser votre appareil photo, vous devez accepter la demande d\'autorisation de l\'appareil photo!</string>
     <string name="camera_request_again">Répéter la demande</string>
     <string name="no_camera_available_title">Aucun appareil photo disponible</string>
     <string name="no_camera_available_message">Votre appareil n’a pas de camera ou il n’y a pas d’application de photographie d’installée!</string>
     <string name="photo_to_be_submited"> Photo à envoyer:</string>
     <string name="photo_source">Choisir Source Photo</string>
-    <string name="photo_source_message">Prendre une photo avec votre camera ou utiliser un fichier de la galerie?</string>
+    <string name="photo_source_message">Prendre une photo avec votre camera ou utiliser un fichier de la galerie photo?</string>
     <string name="report_submited_success_title">Votre rapport a été envoyé!</string>
     <string name="report_submited_success_message"> Merci d\'avoir envoyé votre rapport de problème de Trace, nous traitons la demande dès que possible.</string>
     <string name="Photo_Upload_Progress"> Téléchargement de photos </string>
@@ -165,7 +165,7 @@
     <string name="map_style_description"> Sélectionnez le style de carte</string>
     <string name="map_style_dialog_title"> Sélectionnez le style de carte </string>
     <string name="using_sats">Utilisation de</string>
-    <string name="satas_out_of">satellites sur</string>
+    <string name="satas_out_of">satellite(s) sur</string>
     <string name="available_in_view">disponibles</string>
     <string name="gps_accuracy">Précision du GPS</string>
     <string name="gps_accuracy_message_wait">Veuillez attendre une meilleure précision GPS pour signaler votre position!</string>
@@ -182,7 +182,7 @@
     <string name="track_browser_title">Explorateur de Traces</string>
     <string name="track_browser_subtitle"> Sélectionnez le pays pour afficher des informations et télécharger le fichier GPX.</string>
     <string name="tracks_view_subtitle">Informations sur la Trace </string>
-    <string name="open_track">TRACE OUVERT</string>
+    <string name="open_track">OUVRIR TRACE</string>
     <string name="generating_list">Génération d’une liste</string>
     <string name="delete_local_file">SUPPRIMER LE FICHIER</string>
     <string name="gpx_open_dialog">Chargement de fichier GPX</string>
@@ -190,7 +190,7 @@
     <string name="track_download_progress">Téléchargement de la Trace</string>
     <string name="track_browser_noInternet_title">Aucune Connection – Mode Hors Ligne</string>
     <string name="track_browser_noInternet_message"> Il n\'y a pas d\'accès Internet ou il y a eu un problème de connexion au serveur. Vous ne pouvez voir que les Traces téléchargées précédemment (fichiers locaux).</string>
-    <string name="track_download_offline_title">Télécharger traces</string>
+    <string name="track_download_offline_title">Traces téléchargées</string>
     <string name="track_download_offline_subtitle"> Parcourir les fichiers précédemment téléchargés en mode hors ligne.</string>
     <string name="track_last_updated"> Trace mis à jour le: </string>
     <string name="no_offline_files">Aucune trace GPX trouvé!</string>
@@ -211,7 +211,7 @@
     <string name="track_download_error_message"> Une erreur s\'est produite lors du téléchargement du fichier GPX, veuillez réessayer plus tard.</string>
     <string name="gpx_parse_error_title">Erreur d’ouverture de fichier GPX</string>
     <string name="gpx_parse_error_message"> Il semble y avoir un problème de lecture du fichier .GPX, SVP tenter de l’ouvrir à nouveau! </string>
-    <string name="gpx_open_noapp_title">Aucune application compatible d’installée</string>
+    <string name="gpx_open_noapp_title">Aucune application compatible installée</string>
     <string name="gpx_open_noapp_message">Il n’y a aucune application en mesure de gérer les fichiers .GPX, SVP en installer une depuis le Play Store.</string>
     <string name="disclaimer_DontShowAgain">Ne plus afficher</string>
     <string name="no_permissions_title">Pas de permission GPS</string>
@@ -270,6 +270,6 @@ k. En Bosnie, en Croatie et ailleurs, les détritus de guerre existent toujours 
     <!--NOTIFICATION SERVICE-->
     <string name="notification_trackupdate_title"> Mise à jour trace GPX disponible</string>
     <string name="notification_trackupdate_message1">Il y a </string>
-    <string name="notification_trackupdate_message2">Mise à jour de trace disponibles.</string>
+    <string name="notification_trackupdate_message2">Mise(s) à jour de trace disponibles.</string>
 
 </resources>
