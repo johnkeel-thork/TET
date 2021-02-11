@@ -1,8 +1,8 @@
 <resources>
     
-    <!-- NEW UNSTRANSLATED -->
+    <!-- NEW UNTRANSLATED -->
     <string name="choose_app">Choose App</string>
-    <!-- END OF UNSTRANSLATED -->
+    <!-- END OF UNTRANSLATED -->
 
 
     <string name="filter">Filtre</string>
