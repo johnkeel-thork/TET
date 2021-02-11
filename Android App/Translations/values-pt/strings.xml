@@ -1,20 +1,5 @@
 <resources>
-
-    <string name="filter">Filtro</string>
-    <string name="track_section">Secção do Percurso</string>
-    <string name="section">Secção</string>
-    <string name="options">Opções</string>
-    <string name="dialog_remove_section">Remover esta secção ou colocar apenas esta secção visivel?</string>
-    <string name="remove">Remover</string>
-    <string name="only_visible">Única Visível</string>
-    <string name="rebuilding_waypoints">Reconstruindo Waypoints</string>
-    <string name="rebuild_waypoints">Limpar Waypoints</string>
-    <string name="remove_waypoints_dialog_title">Remover Waypoints Fora das Secções Visiveis?</string>
-    <string name="remove_waypoints_dialog_message">Isto removerá todos os Waypoints que já não estão perto de secções visiveis</string>
-    <string name="no">Não</string>
-    <string name="export_edited_gpx">A Exportar Ficheiro GPX Editado</string>
-
-
+    
 
     <!--COMMON TO ALL VIEWS-->
     <string name="app_name">TET</string>
@@ -216,6 +201,20 @@
     <string name="disclaimer_refuse">Recusar</string>
     <string name="zoom_mode_enabled">Modo Zoom Ligado</string>
     <string name="pan_mode_enabled">Modo Panorâmico Ligado</string>
+    <string name="filter">Filtro</string>
+    <string name="track_section">Secção do Percurso</string>
+    <string name="section">Secção</string>
+    <string name="options">Opções</string>
+    <string name="dialog_remove_section">Remover esta secção ou colocar apenas esta secção visivel?</string>
+    <string name="remove">Remover</string>
+    <string name="only_visible">Única Visível</string>
+    <string name="rebuilding_waypoints">Reconstruindo Waypoints</string>
+    <string name="rebuild_waypoints">Limpar Waypoints</string>
+    <string name="remove_waypoints_dialog_title">Remover Waypoints Fora das Secções Visiveis?</string>
+    <string name="remove_waypoints_dialog_message">Isto removerá todos os Waypoints que já não estão perto de secções visiveis</string>
+    <string name="no">Não</string>
+    <string name="export_edited_gpx">A Exportar Ficheiro GPX Editado</string>
+    <string name="choose_app">Escolher App</string>
     <string name="disclaimer_message"> Ao continuar com o descarregamento e utilização dos ficheiros Trans Euro Trail®, estás a aceitar e concordar com tudo abaixo descrito.
 \n\n
 1. O ficheiro GPX é emitido por Trans Euro Trail® Community Interest Company, Company No. 11371199, Morada: Unit 3, Cragg Road, Mytholmroyd, Hebden Bridge, West Yorkshire, HX7 5HR, United Kingdom.
