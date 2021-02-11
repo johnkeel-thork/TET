@@ -169,7 +169,7 @@
     <string name="no">No</string>
     <string name="export_edited_gpx">Exporting Edited GPX file</string>
     <string name="track_browser_title">Track Browser</string>
-    <string name="track_browser_subtitle">Select country to view information about and download the GPX file.</string>
+    <string name="track_browser_subtitle">Select a country to view and download the GPX file.</string>
     <string name="tracks_view_subtitle">Track Information</string>
     <string name="open_track">OPEN TRACK</string>
     <string name="generating_list">Generating List</string>
@@ -211,6 +211,7 @@
     <string name="disclaimer_refuse">Refuse</string>
     <string name="zoom_mode_enabled">Zoom Mode Enabled</string>
     <string name="pan_mode_enabled">Pan Mode Enabled</string>
+    <string name="choose_app">Choose App</string>
     <string name="disclaimer_message">By continuing to the download and in using the Trans Euro Trail® files, you are accepting and agree to everything below.
 \n\n
 1. The GPX is issued by the Trans Euro Trail® Community Interest Company, Company No. 11371199, Address: Unit 3, Cragg Road, Mytholmroyd, Hebden Bridge, West Yorkshire, HX7 5HR, United Kingdom.
