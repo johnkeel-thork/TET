@@ -1,6 +1,6 @@
 <resources>
 
-     <!--NOT TRANSLATED YET-->
+    <!--NOT TRANSLATED YET-->
     <string name="filter">Filter</string>
     <string name="track_section">Track Section</string>
     <string name="section">Section</string>
@@ -14,7 +14,8 @@
     <string name="remove_waypoints_dialog_message">This will clean up all the waypoints, removing any that no longer is close to the visible sections</string>
     <string name="no">No</string>
     <string name="export_edited_gpx">Exporting Edited GPX file</string>
-     <!--END OF NOT TRANSLATED YET-->
+    <string name="choose_app">Choose App</string>
+    <!--END OF NOT TRANSLATED YET-->
     
     
 
