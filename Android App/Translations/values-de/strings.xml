@@ -1,4 +1,10 @@
 <resources>
+    
+    <!-- NEW UNTRANSLATED -->
+    <string name="choose_app">Choose App</string>
+    <!-- END OF UNTRANSLATED -->
+    
+    
 
     <string name="filter">Filter</string>
     <string name="track_section">Streckenabschnitt</string>
