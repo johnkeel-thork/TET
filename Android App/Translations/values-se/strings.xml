@@ -1,20 +1,20 @@
 <resources>
 
      <!--NOT TRANSLATED YET-->
-    <string name="filter">Filter</string>
-    <string name="track_section">Track Section</string>
-    <string name="section">Section</string>
-    <string name="options">Options</string>
-    <string name="dialog_remove_section">Remove this section or make it the only visible?</string>
-    <string name="remove">Remove</string>
-    <string name="only_visible">Only Visible</string>
-    <string name="rebuilding_waypoints">Rebuilding Waypoints</string>
-    <string name="rebuild_waypoints">Rebuild Waypoints</string>
-    <string name="remove_waypoints_dialog_title">Remove Waypoints Outside the Visible Sections?</string>
-    <string name="remove_waypoints_dialog_message">This will clean up all the waypoints, removing any that no longer is close to the visible sections</string>
-    <string name="no">No</string>
-    <string name="export_edited_gpx">Exporting Edited GPX file</string>
-    <string name="choose_app">Choose App</string>
+    <string name="filter">Filtrera</string>
+    <string name="track_section">Spårsektion</string>
+    <string name="section">Sektion</string>
+    <string name="options">Inställningar</string>
+    <string name="dialog_remove_section">Ta bort detta spår eller gör det till det enda synliga spåret?</string>
+    <string name="remove">Ta bort</string>
+    <string name="only_visible">Enda synliga</string>
+    <string name="rebuilding_waypoints">Bygger om waypoints</string>
+    <string name="rebuild_waypoints">Bygg om Waypoints</string>
+    <string name="remove_waypoints_dialog_title">Ta bort waypoints utanför synliga sektioner?</string>
+    <string name="remove_waypoints_dialog_message">Detta kommer att rensa alla waypoints och ta bort alla som inte längre är nära synliga sektioner</string>
+    <string name="no">Nej</string>
+    <string name="export_edited_gpx">Exporterar den redigerade GPX filen</string>
+    <string name="choose_app">Välj App</string>
     <!--END OF NOT TRANSLATED YET-->
      
 
