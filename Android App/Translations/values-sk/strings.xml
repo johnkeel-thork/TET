@@ -5,6 +5,7 @@
     <string name="update_track_button">UPDATE</string>
     <string name="preview_track_button">PREVIEW</string>
     <string name="github_page_button">GITHUB PAGE</string>
+    <string name="sending_report">Sending Report</string>
     <!--END OF NOT TRANSLATED-->
 
     <!--NEW CHANGED STRINGS-->
@@ -123,7 +124,6 @@
     <string name="photo_source_message">odfotit kamerou alebo zvolte fotografiu v galerii?</string>
     <string name="report_submited_success_title">vasa sprava bola odoslana!</string>
     <string name="report_submited_success_message">dakujeme za nahlasenie problemu. budeme sa snazit najst riesenie hned ako to bude mozne.</string>
-    <string name="Photo_Upload_Progress">nacitat fotografiu</string>
     <string name="error_restart_title">nieco sa pokazilo </string>
     <string name="error_restart_message">prosim vyskusajte vytvorit hlasenie znova</string>
     <string name="error_upload_later_title">nebolo mozne odoslat spravu do databazy</string>
