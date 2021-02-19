@@ -1,4 +1,21 @@
 <resources>
+
+    <!--NOT TRANSLATED-->
+    <string name="choose_app">Choose App</string>
+    <string name="update_track_button">UPDATE</string>
+    <string name="preview_track_button">PREVIEW</string>
+    <string name="github_page_button">GITHUB PAGE</string>
+    <string name="sending_report">Sending Report</string>
+    <!--END OF NOT TRANSLATED-->
+
+    <!--NEW CHANGED STRINGS-->
+    <string name="track_browser_subtitle">View and download tracks, by downloading you will be subscribed for update notifications</string>
+    <!--END OF NOT TRANSLATED-->
+
+
+
+
+
     <!--COMMON TO ALL VIEWS-->
     <string name="app_name">TET</string>
     <string name="tet_logo_description">TET LOGO</string>
@@ -73,19 +90,7 @@
     <string name="contribute_buy_merch">ĮSIGYTI ATRIBUTIKOS</string>
     <string name="contribute_app_developer">PAREMK PROGRAMĖLĘ</string>
     <string name="contribute_options_text">Būdai, kuriais galite padėti TET projektui:</string>
-    <!--Merch SubView-->
-    <string name="merch_title">Oficiali TET atributika</string>
-    <string name="merch_subtitle">Skleiskite TET nuotaiką su mūsų marškinėliais ir atspraiais motocikliniais lipdukais arba išlaidaukite įsigydami “ADV Spec” sukurta specialiai TET - “Linesman” striukę.</string>
-    <string name="t_shirt_image_description">Oficialūs TET marškinėliai</string>
-    <string name="t_shirt_title">Trans Euro Trail® marškinėliai</string>
-    <string name="t_shirt_description">Parodykite savo meilę nešiodami mūsų logotipą! \n\n£24.90 + siuntimas</string>
-    <string name="Buy_Tshirt_button_text">PIRKTI</string>
-    <string name="sticker_title">Trans Euro Trail® Lipdukas</string>
-    <string name="sticker_description">Tavo motociklui taip jo reikia! \n\n£2.40 + siuntimas</string>
-    <string name="sticker_image_description">Oficialus TET Lipdukas</string>
-    <string name="jacket_title">ADV Spec Linesman striukė</string>
-    <string name="jacket_image_description">Oficiali ADV Linesman striukė</string>
-    <string name="jacket_description">Neperpučiama/kvėpuojanti su Du Pont™ Kevlar® medžiaga \n\n£249 + siuntimas</string>
+
 
     <!--REPORT TRACK PROBLEM VIEW-->
     <string name="title_activity_maps">Žemėlapis</string>
@@ -122,7 +127,6 @@
     <string name="photo_source_message">Fotografuoti, ar pasirinkti esamą failą iš galerijos?</string>
     <string name="report_submited_success_title">Jūsų pranešimas išsiųstas!</string>
     <string name="report_submited_success_message">Dėkojame, kad pateikėte savo maršruto problemos pranešima, imsimės veiksmų kaip įmanoma greičiau problemoms pašalinti.</string>
-    <string name="Photo_Upload_Progress">Išsiųsti nuotrauką</string>
     <string name="error_restart_title">Kažkas negerai!</string>
     <string name="error_restart_message">Pabandyite dar kartą sukurti pranešimą!</string>
     <string name="error_upload_later_title">Nepavyko prisijungti prie serverio.</string>
@@ -169,7 +173,6 @@
     <string name="no">Ne</string>
     <string name="export_edited_gpx">Eksportuojamas redaguotas GPX failas</string>
     <string name="track_browser_title">Maršruto naršyklė</string>
-    <string name="track_browser_subtitle">Pasirinkite šalį, kad galėtumėte peržiūrėti informaciją apie GPX failą ir atsisiųsti jį.</string>
     <string name="tracks_view_subtitle">Maršruto informacija</string>
     <string name="open_track">Atidaryti maršrutą</string>
     <string name="generating_list">Kuriamas sąrašas</string>
