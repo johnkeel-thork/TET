@@ -11,21 +11,7 @@
     <!--END OF NOT TRANSLATED-->
 
 
-    <string name="filter">Filtre</string>
-    <string name="track_section">Section de trace</string>
-    <string name="section">Section</string>
-    <string name="options">Options</string>
-    <string name="dialog_remove_section">Retirer cette section ou la rendre seule visible?</string>
-    <string name="remove">Retirer</string>
-    <string name="only_visible">Seule trace visible</string>
-    <string name="rebuilding_waypoints">Reconstruction des Waypoints</string>
-    <string name="rebuild_waypoints"> Reconstruction des Waypoints </string>
-    <string name="remove_waypoints_dialog_title">Retirer les Waypoints en dehors de la Section Visible?</string>
-    <string name="remove_waypoints_dialog_message">Nettoyer tous les waypoints, cela va retirer tous ceux qui sont éloignés de la section affichée</string>
-    <string name="no">Non</string>
-    <string name="export_edited_gpx">Export du fichier GPX</string>
-
-
+    
     <!--COMMON TO ALL VIEWS-->
     <string name="app_name">TET</string>
     <string name="tet_logo_description">TET LOGO</string>
@@ -107,7 +93,7 @@
     <string name="contribute_app_developer">CONTRIBUEZ</string>
     <string name="contribute_options_text"> Vous pouvez aider le projet de la TET de plusieurs façons:</string>
 
-    
+
     <!--REPORT TRACK PROBLEM VIEW-->
     <string name="title_activity_maps">Carte</string>
     <string name="marker_report_location">Signaler cet emplacement</string>
@@ -176,7 +162,7 @@
 
 
     <!--TRACK BROWSER-->
-    <string name="track_browser_title">Explorateur de Traces</string>    
+    <string name="track_browser_title">Explorateur de Traces</string>
     <string name="tracks_view_subtitle">Informations sur la Trace </string>
     <string name="open_track">OUVRIR TRACE</string>
     <string name="generating_list">Génération d’une liste</string>
@@ -218,6 +204,19 @@
     <string name="disclaimer_refuse">Refuser</string>
     <string name="zoom_mode_enabled"> Mode Zoom Activé</string>
     <string name="pan_mode_enabled"> Mode Pan Activé </string>
+    <string name="filter">Filtre</string>
+    <string name="track_section">Section de trace</string>
+    <string name="section">Section</string>
+    <string name="options">Options</string>
+    <string name="dialog_remove_section">Retirer cette section ou la rendre seule visible?</string>
+    <string name="remove">Retirer</string>
+    <string name="only_visible">Seule trace visible</string>
+    <string name="rebuilding_waypoints">Reconstruction des Waypoints</string>
+    <string name="rebuild_waypoints"> Reconstruction des Waypoints </string>
+    <string name="remove_waypoints_dialog_title">Retirer les Waypoints en dehors de la Section Visible?</string>
+    <string name="remove_waypoints_dialog_message">Nettoyer tous les waypoints, cela va retirer tous ceux qui sont éloignés de la section affichée</string>
+    <string name="no">Non</string>
+    <string name="export_edited_gpx">Export du fichier GPX</string>
     <string name="disclaimer_message"> En téléchargeant (et utilisation) des fichiers de la Trans Euro Trail®, vous acceptez tous les conditions mentionnées ci-dessous \n\n
 1. Le GPX est fourni par la communauté de la Trans Euro Trail®, la société d’intérêt No. 11371199, Adresse: Unit 3, Cragg Road, Mytholmroyd, Hebden Bridge, West Yorkshire, HX7 5HR, Grande Bretagne.\n\n
 2. Le GPX est livré sans frais et dans un état "Tel Quel," avec tous les défauts et erreurs qui pourraient l’affliger, et sans aucune garantie de qualité de quelque sorte.\n\n
