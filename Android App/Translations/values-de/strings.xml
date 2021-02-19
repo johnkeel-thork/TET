@@ -100,7 +100,7 @@
     <string name="contribute_buy_merch">KAUFE FAN- ARTIKEL</string>
     <string name="contribute_app_developer">Unterstütze die APP</string>
     <string name="contribute_options_text">Dies sind die Möglichkeiten das TET Projekt zu unterstützen:</string>
-    
+
 
     <!--REPORT TRACK PROBLEM VIEW-->
     <string name="title_activity_maps">Karte</string>
@@ -170,8 +170,7 @@
 
 
     <!--TRACK BROWSER-->
-    <string name="track_browser_title">Track Browser</string>
-    <string name="track_browser_subtitle">Wählen Sie ein Land aus, um Informationen über die GPX- Datei anzuzeigen und herunterzuladen.</string>
+    <string name="track_browser_title">Track Browser</string>    
     <string name="tracks_view_subtitle">Track Information</string>
     <string name="open_track">TRACK ÖFFNEN</string>
     <string name="generating_list">Liste erzeugen</string>
@@ -286,3 +285,5 @@ k. In Bosnien, Kroatien und anderen Ländern gibt es noch immer Kriegshinterlass
     <string name="notification_trackupdate_message2">Track Aktualisierung(en) Verfügbar available.</string>
 
 </resources>
+
+
