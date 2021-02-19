@@ -5,6 +5,7 @@
     <string name="update_track_button">UPDATE</string>
     <string name="preview_track_button">PREVIEW</string>
     <string name="github_page_button">GITHUB PAGE</string>
+    <string name="sending_report">Sending Report</string>
     <!--END OF NOT TRANSLATED-->
 
     <!--NEW CHANGED STRINGS-->
@@ -125,7 +126,6 @@
     <string name="photo_source_message">Зробіть фотографію за допомогою камери або виберіть локальний файл із своєї галереї?</string>
     <string name="report_submited_success_title">Ваше повідомлення доставлено!</string>
     <string name="report_submited_success_message">Дякуємо, що надіслали повідомлення про проблему треку, ми будемо вживати заходів якомога швидше.</string>
-    <string name="Photo_Upload_Progress">Завантаження Фотографії</string>
     <string name="error_restart_title">Щось пішло не так!</string>
     <string name="error_restart_message">Будь-ласка, спробуйте створити повідомлення про проблему ще раз!</string>
     <string name="error_upload_later_title">Неможливо під\'єднатися до сервера</string>
