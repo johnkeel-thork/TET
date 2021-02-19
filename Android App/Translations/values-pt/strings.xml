@@ -87,7 +87,7 @@
     <string name="contribute_app_developer">CONTRIBUI PARA A APP</string>
     <string name="contribute_options_text">Estas são as formas com que podes apoiar o projeto TET:</string>
 
-    
+
     <!--REPORT TRACK PROBLEM VIEW-->
     <string name="title_activity_maps">Mapa</string>
     <string name="marker_report_location">Comunica Esta Localização</string>
@@ -123,7 +123,6 @@
     <string name="photo_source_message">Tira uma foto ou usa uma foto da tua galeria?</string>
     <string name="report_submited_success_title">A tua comunicação foi entrgue!</string>
     <string name="report_submited_success_message">Obrigado por comunicares o problema com a rota, nós vamos corrigir a rota o mais rápido possível.</string>
-    <string name="Photo_Upload_Progress">Carregar Foto</string>
     <string name="error_restart_title">Alguma coisa correu mal!</string>
     <string name="error_restart_message">Por favor tenta fazer a comunicação outra vez!</string>
     <string name="error_upload_later_title">Impossivel ligar ao servidor</string>
@@ -151,8 +150,8 @@
     <string name="no_location_selected_title">Nenhuma Localização Selecionada</string>
     <string name="no_location_selected_message">Mantém pressionado o mapa em qualquer lado para marcar a localização para a comunicação ou clica na mira no topo direito para selecionar a tua localização atual.</string>
     <string name="no_message_no_photo_title">Nenhuma Descrição e Nenhuma Foto!</string>
-    <string name="no_message_no_photo_message">Não escreveste uma descrição ou adicionaste uma foto, isto não nos permite identificar o problema com exatidão. por favor adiciona uma pequena descrição e/ou adicionar uma foto!</string>
-    <string name="track_length">Track length:</string>
+    <string name="no_message_no_photo_message">Não escreveste uma descrição ou adicionaste uma foto, isto não nos permite identificar o problema com exatidão. por favor adiciona uma pequena descrição e/ou adicionar uma foto!</string>    
+    <string name="sending_report">A Enviar Relatório</string>
 
 
     <!--TRACK BROWSER-->
@@ -212,6 +211,7 @@
     <string name="no">Não</string>
     <string name="export_edited_gpx">A Exportar Ficheiro GPX Editado</string>
     <string name="choose_app">Escolher App</string>
+    <string name="track_length">Track length:</string>
     <string name="disclaimer_message"> Ao continuar com o descarregamento e utilização dos ficheiros Trans Euro Trail®, estás a aceitar e concordar com tudo abaixo descrito.
 \n\n
 1. O ficheiro GPX é emitido por Trans Euro Trail® Community Interest Company, Company No. 11371199, Morada: Unit 3, Cragg Road, Mytholmroyd, Hebden Bridge, West Yorkshire, HX7 5HR, United Kingdom.
