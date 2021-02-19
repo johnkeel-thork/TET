@@ -1,6 +1,7 @@
 <resources>
 
     <!--NOT TRANSLATED-->
+    <string name="choose_app">Choose App</string>
     <string name="update_track_button">UPDATE</string>
     <string name="preview_track_button">PREVIEW</string>
     <string name="github_page_button">GITHUB PAGE</string>
