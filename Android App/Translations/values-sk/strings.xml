@@ -1,11 +1,16 @@
 <resources>
-        
-    <!-- NEW UNTRANSLATED -->
-    <string name="choose_app">Choose App</string>
-    <!-- END OF UNTRANSLATED -->
-    
-    
-    
+
+    <!--NOT TRANSLATED-->
+    <string name="update_track_button">UPDATE</string>
+    <string name="preview_track_button">PREVIEW</string>
+    <string name="github_page_button">GITHUB PAGE</string>
+    <!--END OF NOT TRANSLATED-->
+
+    <!--NEW CHANGED STRINGS-->
+    <string name="track_browser_subtitle">View and download tracks, by downloading you will be subscribed for update notifications</string>
+    <!--END OF NOT TRANSLATED-->
+
+
     <!--COMMON TO ALL VIEWS-->
     <string name="app_name">TET</string>
     <string name="tet_logo_description">TET LOGO</string>
@@ -80,19 +85,7 @@
     <string name="contribute_buy_merch">obchod z vecami TET</string>
     <string name="contribute_app_developer">prispiet APP</string>
     <string name="contribute_options_text">takto sa da podporit projekt TET:</string>
-    <!--Merch SubView-->
-    <string name="merch_title">offcialne TET produkty </string>
-    <string name="merch_subtitle">oblecte si tricko TET , nalepte si kvalitne nalepky TET alebo si oblecte ADV SPEC LINESMAN offroadovu bundu,ktora bola specialne vyrobena pre jazdenie na trase TET a naladte sa na atmosferu TET.</string>
-    <string name="t_shirt_image_description">oficialne tricko TET</string>
-    <string name="t_shirt_title">Trans Euro Trail® tricko</string>
-    <string name="t_shirt_description">oblecte si nase logo a ukazte ze milujete TET  ! \n\n£24.90 + postage</string>
-    <string name="Buy_Tshirt_button_text">KUPIT</string>
-    <string name="sticker_title">Trans Euro Trail® nalepka</string>
-    <string name="sticker_description">vasa motorka to che ! \n\n£2.40 + postage</string>
-    <string name="sticker_image_description">oficialna nalepka TET</string>
-    <string name="jacket_title">ADV Spec Linesman bunda</string>
-    <string name="jacket_image_description">oficialna ADV Linesman bunda</string>
-    <string name="jacket_description">vetru vzdorna /priedusna Du Pont™ Kevlar® \n\n£249 + postovne </string>
+    
 
     <!--REPORT TRACK PROBLEM VIEW-->
     <string name="title_activity_maps">Mapa</string>
@@ -176,7 +169,6 @@
     <string name="no">No</string>
     <string name="export_edited_gpx">odosielam upraveny subor gpx</string>
     <string name="track_browser_title">prehliadac usekov</string>
-    <string name="track_browser_subtitle">vyberte si krajinu .</string>
     <string name="tracks_view_subtitle">informacie o trati </string>
     <string name="open_track">otvorit trat </string>
     <string name="generating_list">vytvaram list </string>
