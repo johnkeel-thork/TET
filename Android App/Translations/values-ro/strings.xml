@@ -1,11 +1,18 @@
 <resources>
-    
-    <!-- NEW UNTRANSLATED -->
-    <string name="choose_app">Choose App</string>
-    <!-- END OF UNTRANSLATED -->
-    
-    
-    
+
+    <!--NOT TRANSLATED-->
+    <string name="update_track_button">UPDATE</string>
+    <string name="preview_track_button">PREVIEW</string>
+    <string name="github_page_button">GITHUB PAGE</string>
+    <!--END OF NOT TRANSLATED-->
+
+    <!--NEW CHANGED STRINGS-->
+    <string name="track_browser_subtitle">View and download tracks, by downloading you will be subscribed for update notifications</string>
+    <!--END OF NOT TRANSLATED-->
+
+
+
+
     <!--COMMON TO ALL VIEWS-->
     <string name="app_name">TET</string>
     <string name="tet_logo_description">TET LOGO</string>
@@ -80,19 +87,7 @@
     <string name="contribute_buy_merch">MAGAZIN</string>
     <string name="contribute_app_developer">CONTRIBUTE APP</string>
     <string name="contribute_options_text">Acestea sunt modalitățile prin care puteți ajuta proiectul TET:</string>
-    <!--Merch SubView-->
-    <string name="merch_title">Magazinul oficial TET</string>
-    <string name="merch_subtitle">Răspândiți sentimentul TET îmbrăcând tricourile TET sau lipind pe motociclete abțibildurile noastre, sau chiar purtând jacheta ADV Spec Linesman, croită special pentru TET.</string>
-    <string name="t_shirt_image_description">Tricoul oficial TET</string>
-    <string name="t_shirt_title">Trans Euro Trail® T-shirt</string>
-    <string name="t_shirt_description">Arată-ți aprecierea purtând emblema noastră! \n\n£24.90 + expediere</string>
-    <string name="Buy_Tshirt_button_text">CUMPĂRĂ</string>
-    <string name="sticker_title">Abțibild Trans Euro Trail®</string>
-    <string name="sticker_description">Motocicleta ta chiar are nevoie de asta! \n\n£2.40 + expediere</string>
-    <string name="sticker_image_description">Abțibild oficial TET</string>
-    <string name="jacket_title">Jacheta ADV Spec Linesman</string>
-    <string name="jacket_image_description">Jacheta oficială ADV Linesman</string>
-    <string name="jacket_description">Material anti vânt si respirabil cu Du Pont™ Kevlar® \n\n£249 + expediere</string>
+
 
     <!--REPORT TRACK PROBLEM VIEW-->
     <string name="title_activity_maps">Harta</string>
@@ -176,7 +171,6 @@
     <string name="no">Nu</string>
     <string name="export_edited_gpx">Export fisier GPX Exporting Edited GPX file</string>
     <string name="track_browser_title">Explorator trasee Track Browser</string>
-    <string name="track_browser_subtitle">Selectați țara pentru a afla informații și descărca fișierul GPX.</string>
     <string name="tracks_view_subtitle">Informații traseu</string>
     <string name="open_track">DESCHDEȚI TRASEU</string>
     <string name="generating_list">Generare listă</string>
