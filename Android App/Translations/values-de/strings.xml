@@ -1,10 +1,14 @@
 <resources>
-    
-    <!-- NEW UNTRANSLATED -->
-    <string name="choose_app">Choose App</string>
-    <!-- END OF UNTRANSLATED -->
-    
-    
+
+    <!--NEW NOT TRANSLATED-->
+    <string name="update_track_button">UPDATE</string>
+    <string name="preview_track_button">PREVIEW</string>
+    <string name="github_page_button">GITHUB PAGE</string>
+    <!--END OF NOT TRANSLATED-->
+
+    <!--NEW CHANGED STRINGS-->
+    <string name="track_browser_subtitle">View and download tracks, by downloading you will be subscribed for update notifications</string>
+    <!--END OF NOT TRANSLATED-->
 
     <string name="filter">Filter</string>
     <string name="track_section">Streckenabschnitt</string>
@@ -19,6 +23,7 @@
     <string name="remove_waypoints_dialog_message">Hierdurch werden alle Wegpunkte bereinigt, wobei alle entfernt werden, die sich nicht mehr in der Nähe der sichtbaren Abschnitte befinden.</string>
     <string name="no">Nein</string>
     <string name="export_edited_gpx">Exportieren der bearbeiteten GPX- Datei</string>
+
 
     <!--COMMON TO ALL VIEWS-->
     <string name="app_name">TET</string>
@@ -95,19 +100,7 @@
     <string name="contribute_buy_merch">KAUFE FAN- ARTIKEL</string>
     <string name="contribute_app_developer">Unterstütze die APP</string>
     <string name="contribute_options_text">Dies sind die Möglichkeiten das TET Projekt zu unterstützen:</string>
-    <!--Merch SubView-->
-    <string name="merch_title">Offizielle TET Fan- Artikel</string>
-    <string name="merch_subtitle">Verbreite das TET-Feeling mit unseren T- Shirts- und Aufklebern oder trage die von ADV Spec speziell für das TET entwickelte Linesman Trail- Jacke.</string>
-    <string name="t_shirt_image_description">Das offizielle TET- Shirt</string>
-    <string name="t_shirt_title">Trans Euro Trail® T- Shirt</string>
-    <string name="t_shirt_description">Zeige Deine Begeisterung durch das Tragen unseres Shirt´s mit TET- Logo! \n\n£24.90 zzgl. Versand</string>
-    <string name="Buy_Tshirt_button_text">KAUFEN</string>
-    <string name="sticker_title">Trans Euro Trail® Aufkleber</string>
-    <string name="sticker_description">Dein Motorrad braucht dieses..! \n\n£2.40 zzgl. Versand</string>
-    <string name="sticker_image_description">Der offizielle TET Aufkleber</string>
-    <string name="jacket_title">ADV Spec Linesman Jacke</string>
-    <string name="jacket_image_description">Die offizielle ADV Linesman Jacke</string>
-    <string name="jacket_description">Winddicht und Atmungsaktiv, mit Verstärkungen aus Du Pont™ Kevlar® Gewebe \n\n£249 zzgl. Versand</string>
+    
 
     <!--REPORT TRACK PROBLEM VIEW-->
     <string name="title_activity_maps">Karte</string>
@@ -293,5 +286,3 @@ k. In Bosnien, Kroatien und anderen Ländern gibt es noch immer Kriegshinterlass
     <string name="notification_trackupdate_message2">Track Aktualisierung(en) Verfügbar available.</string>
 
 </resources>
-
-
