@@ -1,5 +1,16 @@
 <resources>
-    
+
+    <!--NOT TRANSLATED-->
+    <string name="update_track_button">UPDATE</string>
+    <string name="preview_track_button">PREVIEW</string>
+    <string name="github_page_button">GITHUB PAGE</string>
+    <!--END OF NOT TRANSLATED-->
+
+    <!--NEW CHANGED STRINGS-->
+    <string name="track_browser_subtitle">View and download tracks, by downloading you will be subscribed for update notifications</string>
+    <!--END OF NOT TRANSLATED-->
+
+
 
     <!--COMMON TO ALL VIEWS-->
     <string name="app_name">TET</string>
@@ -76,20 +87,7 @@
     <string name="contribute_app_developer">CONTRIBUI PARA A APP</string>
     <string name="contribute_options_text">Estas são as formas com que podes apoiar o projeto TET:</string>
 
-    <!--Merch SubView-->
-    <string name="merch_title">Merchandising Oficial do TET</string>
-    <string name="merch_subtitle">Espalha as boas vibrações do TET com a nossa T-shirt, com os autocolantes super resistentes para a tua mota ou com o casaco ADV Spec Linesman, desenvolvido especialmente para o TET.</string>
-    <string name="t_shirt_image_description">A Tshirt Oficial do TET</string>
-    <string name="t_shirt_title">Trans Euro Trail® T-shirt</string>
-    <string name="t_shirt_description">Mostra o teu carinho usando o nosso logo! \n\n£24.90 + envio</string>
-    <string name="Buy_Tshirt_button_text">COMPRAR</string>
-    <string name="sticker_title">Trans Euro Trail® Sticker</string>
-    <string name="sticker_description">A tua mota precisa disto! \n\n£2.40 + envio</string>
-    <string name="sticker_image_description">The official TET Sticker</string>
-    <string name="jacket_title">Casaco ADV Spec Linesman</string>
-    <string name="jacket_image_description">O casaco oficiall ADV Linesman</string>
-    <string name="jacket_description">À prova de vento/respirável com Du Pont™ Kevlar® \n\n£249 + envio</string>
-
+    
     <!--REPORT TRACK PROBLEM VIEW-->
     <string name="title_activity_maps">Mapa</string>
     <string name="marker_report_location">Comunica Esta Localização</string>
@@ -159,7 +157,6 @@
 
     <!--TRACK BROWSER-->
     <string name="track_browser_title">Navegador Rota</string>
-    <string name="track_browser_subtitle">Seleciona o país para veres a informação e descarregar o ficheiro GPX.</string>
     <string name="tracks_view_subtitle">Informação Rota</string>
     <string name="open_track">ABRIR ROTA</string>
     <string name="generating_list">Gerar Lista</string>
@@ -290,6 +287,3 @@ k. In Bosnia, Croatia and other locations the detritus of war still exists in th
     <string name="notification_trackupdate_message2">atualização de rota disponível.</string>
 
 </resources>
-
-
-
