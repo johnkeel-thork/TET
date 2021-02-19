@@ -1,12 +1,21 @@
 <resources>
-    
-    <!-- NEW UNTRANSLATED -->
-    <string name="choose_app">Choose App</string>
-    <!-- END OF UNTRANSLATED -->
-    
-    
 
-    
+    <!--NOT TRANSLATED-->
+    <string name="choose_app">Choose App</string>
+    <string name="filter">Filter</string>
+    <string name="update_track_button">UPDATE</string>
+    <string name="preview_track_button">PREVIEW</string>
+    <string name="github_page_button">GITHUB PAGE</string>
+    <!--END OF NOT TRANSLATED-->
+
+    <!--NEW CHANGED STRINGS-->
+    <string name="track_browser_subtitle">View and download tracks, by downloading you will be subscribed for update notifications</string>
+    <!--END OF NOT TRANSLATED-->
+
+
+
+
+
 
     <!--COMMON TO ALL VIEWS-->
     <string name="app_name">TET</string>
@@ -82,19 +91,7 @@
     <string name="contribute_buy_merch">KUP GADŻETY</string>
     <string name="contribute_app_developer">WSPOMÓŻ APLIKACJĘ</string>
     <string name="contribute_options_text">Możesz wesprzeć TET w następujący sposób:</string>
-    <!--Merch SubView-->
-    <string name="merch_title">Oficjalne gadżety TET</string>
-    <string name="merch_subtitle">Reklamuj ducha TET poprzez koszulki i wytrzymałe naklejki na motocykl. Możesz też kupić kurtkę ADV Spec Linesman zaprojektowaną z myślą o TET.</string>
-    <string name="t_shirt_image_description">Oficjalne koszulki TET</string>
-    <string name="t_shirt_title">T-shirt Trans Euro Trail®</string>
-    <string name="t_shirt_description">Pokaż zaangażowanie przez noszenie naszego logo! \n\n£24.90 + koszty wysyłki</string>
-    <string name="Buy_Tshirt_button_text">KUP</string>
-    <string name="sticker_title">Naklejka Trans Euro Trail®</string>
-    <string name="sticker_description">Twój motocykl nie może się bez tego obejść!\n\n£2.40 + koszty wysyłki</string>
-    <string name="sticker_image_description">Oficjalna naklejka TET</string>
-    <string name="jacket_title">Kurtka ADV Spec Linesman</string>
-    <string name="jacket_image_description">Oficjalna kurtka ADV Linesman</string>
-    <string name="jacket_description">Wiatroodporna/oddychająca kurtka zawierająca Du Pont™ Kevlar® \n\n£249 + koszty wysyłki</string>
+
 
     <!--REPORT TRACK PROBLEM VIEW-->
     <string name="title_activity_maps">Mapa</string>
@@ -165,7 +162,6 @@
 
     <!--TRACK BROWSER-->
     <string name="track_browser_title">Przeglądarka tras</string>
-    <string name="track_browser_subtitle">Wybierz kraj aby zobaczyć szczegóły i ściągnąć plik GPX.</string>
     <string name="tracks_view_subtitle">Informacje o trasie</string>
     <string name="open_track">OTWÓRZ TRASĘ</string>
     <string name="generating_list">Tworzenie listy</string>
@@ -207,7 +203,6 @@
     <string name="disclaimer_refuse">Odmowa</string>
     <string name="zoom_mode_enabled">Uruchomiono tryb przybliżenia</string>
     <string name="pan_mode_enabled">Uruchomiono tryb obrotu</string>
-    <string name="filter">Filter</string>
     <string name="track_section">Odcinek trasy</string>
     <string name="section">Odcinek</string>
     <string name="options">Opcje</string>
