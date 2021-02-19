@@ -1,8 +1,14 @@
 <resources>
 
-    <!-- NEW UNTRANSLATED -->
-    <string name="choose_app">Choose App</string>
-    <!-- END OF UNTRANSLATED -->
+    <!--NEW NOT TRANSLATED-->
+    <string name="update_track_button">UPDATE</string>
+    <string name="preview_track_button">PREVIEW</string>
+    <string name="github_page_button">GITHUB PAGE</string>
+    <!--END OF NOT TRANSLATED-->
+
+    <!--NEW CHANGED STRINGS-->
+    <string name="track_browser_subtitle">View and download tracks, by downloading you will be subscribed for update notifications</string>
+    <!--END OF NOT TRANSLATED-->
 
 
     <string name="filter">Filtre</string>
@@ -101,20 +107,7 @@
     <string name="contribute_app_developer">CONTRIBUEZ</string>
     <string name="contribute_options_text"> Vous pouvez aider le projet de la TET de plusieurs façons:</string>
 
-    <!--Merch SubView-->
-    <string name="merch_title"> Site officiel d’articles en ligne</string>
-    <string name="merch_subtitle"> Propagez l’esprit TET avec les T-shirt, autocollants et manteaux développés spécialement pour la TET</string>
-    <string name="t_shirt_image_description">T-shirt, officiel TET</string>
-    <string name="t_shirt_title">T-shirt, Trans Euro Trail® </string>
-    <string name="t_shirt_description">Montrez votre amour en arborant notre logo! \n\n£2.40 + frais de poste</string>
-    <string name="Buy_Tshirt_button_text">ACHETER</string>
-    <string name="sticker_title">Autocollant Trans Euro Trail® </string>
-    <string name="sticker_description">Votre moto a besoin de ceci! \n\n£2.40 + frais de poste </string>
-    <string name="sticker_image_description">Autocollant TET officiel</string>
-    <string name="jacket_title">Veste Officielle ADV Spec Linesman</string>
-    <string name="jacket_image_description">La veste officielle ADV Spec Linesman</string>
-    <string name="jacket_description">Matériaux coupe-vent et respirant avec Kevlar® Du Pont™,  \n\n£249 + frais de poste</string>
-
+    
     <!--REPORT TRACK PROBLEM VIEW-->
     <string name="title_activity_maps">Carte</string>
     <string name="marker_report_location">Signaler cet emplacement</string>
@@ -183,8 +176,7 @@
 
 
     <!--TRACK BROWSER-->
-    <string name="track_browser_title">Explorateur de Traces</string>
-    <string name="track_browser_subtitle"> Sélectionnez le pays pour afficher des informations et télécharger le fichier GPX.</string>
+    <string name="track_browser_title">Explorateur de Traces</string>    
     <string name="tracks_view_subtitle">Informations sur la Trace </string>
     <string name="open_track">OUVRIR TRACE</string>
     <string name="generating_list">Génération d’une liste</string>
