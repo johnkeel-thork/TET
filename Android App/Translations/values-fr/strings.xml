@@ -5,6 +5,7 @@
     <string name="update_track_button">UPDATE</string>
     <string name="preview_track_button">PREVIEW</string>
     <string name="github_page_button">GITHUB PAGE</string>
+    <string name="sending_report">Sending Report</string>
     <!--END OF NOT TRANSLATED-->
 
     <!--NEW CHANGED STRINGS-->
@@ -130,7 +131,6 @@
     <string name="photo_source_message">Prendre une photo avec votre camera ou utiliser un fichier de la galerie photo?</string>
     <string name="report_submited_success_title">Votre rapport a été envoyé!</string>
     <string name="report_submited_success_message"> Merci d\'avoir envoyé votre rapport de problème de Trace, nous traitons la demande dès que possible.</string>
-    <string name="Photo_Upload_Progress"> Téléchargement de photos </string>
     <string name="error_restart_title">Il y a eu un problème!</string>
     <string name="error_restart_message"> Veuillez réessayer de créer un rapport!</string>
     <string name="error_upload_later_title"> Connection au serveur impossible </string>
