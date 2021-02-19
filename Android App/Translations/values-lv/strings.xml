@@ -1,11 +1,19 @@
 <resources>
-    
-    <!-- NEW UNTRANSLATED -->
+
+    <!--NOT TRANSLATED-->
     <string name="choose_app">Choose App</string>
-    <!-- END OF UNTRANSLATED -->
+    <string name="update_track_button">UPDATE</string>
+    <string name="preview_track_button">PREVIEW</string>
+    <string name="github_page_button">GITHUB PAGE</string>
+    <!--END OF NOT TRANSLATED-->
+
+    <!--NEW CHANGED STRINGS-->
+    <string name="track_browser_subtitle">View and download tracks, by downloading you will be subscribed for update notifications</string>
+    <!--END OF NOT TRANSLATED-->
     
     
-    
+
+
     <!--COMMON TO ALL VIEWS-->
     <string name="app_name">TET</string>
     <string name="tet_logo_description">TET LOGO</string>
@@ -80,19 +88,7 @@
     <string name="contribute_buy_merch">PIRKT TET PRECES</string>
     <string name="contribute_app_developer">DOT SAVU IEGULDĪJUMU APLIKĀCIJĀ</string>
     <string name="contribute_options_text">Šie ir veidi, kā Tu vari palīdzēt TET aplikācijai:</string>
-    <!--Merch SubView-->
-    <string name="merch_title">Oficiālās TET Preces</string>
-    <string name="merch_subtitle">Izplati TET garu ar mūsu T krekliem, uzlīmēm vai ieguldies ADV Spec Linesman taku braucēja jakā, kas ir speciāli izveidota TET vajadzībām.</string>
-    <string name="t_shirt_image_description">Oficiālais TET T-krekls</string>
-    <string name="t_shirt_title">Trans Euro Trail® T-krekls</string>
-    <string name="t_shirt_description">Nodemonstrē savu mīlestību, valkājot mūsu logo! \n\n£24.90 + pasta izdevumi</string>
-    <string name="Buy_Tshirt_button_text">PIRKT</string>
-    <string name="sticker_title">Trans Euro Trail® uzlīme</string>
-    <string name="sticker_description">Tavam motociklam to ļoti vajag! \n\n£2.40 + pasta izdevuim</string>
-    <string name="sticker_image_description">Oficiālā TET uzlīme</string>
-    <string name="jacket_title">ADV Spec Linesman jaka</string>
-    <string name="jacket_image_description">Oficiālā ADV Linesman jaka</string>
-    <string name="jacket_description">Vējizturīga/elpojoša ar Du Pont™ Kevlar® \n\n£249 + pasta izdevumi</string>
+    
 
     <!--REPORT TRACK PROBLEM VIEW-->
     <string name="title_activity_maps">Karte</string>
@@ -175,8 +171,7 @@
     <string name="remove_waypoints_dialog_message">Šis attīrīs visus ceļa punktus, noņemot tos, kas nav tuvu redzamajām sekcijām</string>
     <string name="no">Nē</string>
     <string name="export_edited_gpx">Ekspoortē rediģēto GPX datni</string>
-    <string name="track_browser_title">Taku pārlūks</string>
-    <string name="track_browser_subtitle">Izvēlieties valsti, lai apskatītu informāciju par to un lejupielādētu GPX datni.</string>
+    <string name="track_browser_title">Taku pārlūks</string>    
     <string name="tracks_view_subtitle">Taku informācija</string>
     <string name="open_track">ATVĒRT TAKU</string>
     <string name="generating_list">Veido sarakstu</string>
