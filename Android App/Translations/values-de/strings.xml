@@ -5,6 +5,7 @@
     <string name="update_track_button">UPDATE</string>
     <string name="preview_track_button">PREVIEW</string>
     <string name="github_page_button">GITHUB PAGE</string>
+    <string name="sending_report">Sending Report</string>
     <!--END OF NOT TRANSLATED-->
 
     <!--NEW CHANGED STRINGS-->
@@ -126,7 +127,6 @@
     <string name="photo_source_message">Ein Foto mit der Kamera aufnehmen oder ein vorhandenes Foto aus der Galerie verwenden?</string>
     <string name="report_submited_success_title">Der Bericht wurde gesendet!</string>
     <string name="report_submited_success_message">Vielen Dank für das Senden des Track- Problemberichts, wir kümmern uns schnellstmöglich darum.</string>
-    <string name="Photo_Upload_Progress">Foto Upload</string>
     <string name="error_restart_title">Etwas ist Schiefgegangen!</string>
     <string name="error_restart_message">Bitte versuche einen neuen Bericht zu erzeugen!</string>
     <string name="error_upload_later_title">Kann nicht mit dem Server verbinden</string>
