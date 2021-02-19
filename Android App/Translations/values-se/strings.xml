@@ -5,6 +5,7 @@
     <string name="update_track_button">UPDATE</string>
     <string name="preview_track_button">PREVIEW</string>
     <string name="github_page_button">GITHUB PAGE</string>
+    <string name="sending_report">Sending Report</string>
     <!--END OF NOT TRANSLATED-->
 
     <!--NEW CHANGED STRINGS-->
@@ -88,7 +89,7 @@ Utvecklad av skaparen av TET-appen, syftar till att bli den ultimata TET-lösnin
     <string name="contribute_buy_merch">KÖP MERCH</string>
     <string name="contribute_app_developer">BIDRA TILL APPEN</string>
     <string name="contribute_options_text">Det här är sätten du kan hjälpa TET-projektet på:</string>
-    
+
 
     <!--REPORT TRACK PROBLEM VIEW-->
     <string name="title_activity_maps">Karta</string>
@@ -125,7 +126,6 @@ Utvecklad av skaparen av TET-appen, syftar till att bli den ultimata TET-lösnin
     <string name="photo_source_message">Ta ett foto med din kamera eller välj en lokal fil från ditt galleri?</string>
     <string name="report_submited_success_title">Din rapport levererades!</string>
     <string name="report_submited_success_message">Tack för att du skickat in din spårproblemrapport, vi kommer att vidta åtgärder så snart som möjligt.</string>
-    <string name="Photo_Upload_Progress">Fotoöverföring</string>
     <string name="error_restart_title">Något gick fel!</string>
     <string name="error_restart_message">Försök skapa en rapport igen!</string>
     <string name="error_upload_later_title">Kunde inte ansluta till servern</string>
