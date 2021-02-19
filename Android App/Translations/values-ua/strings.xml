@@ -1,11 +1,18 @@
 <resources>
-    
-    <!-- NEW UNTRANSLATED -->
-    <string name="choose_app">Choose App</string>
-    <!-- END OF UNTRANSLATED -->
-    
-    
-    
+
+    <!--NOT TRANSLATED-->
+    <string name="update_track_button">UPDATE</string>
+    <string name="preview_track_button">PREVIEW</string>
+    <string name="github_page_button">GITHUB PAGE</string>
+    <!--END OF NOT TRANSLATED-->
+
+    <!--NEW CHANGED STRINGS-->
+    <string name="track_browser_subtitle">View and download tracks, by downloading you will be subscribed for update notifications</string>
+    <!--END OF NOT TRANSLATED-->
+
+
+
+
     <!--COMMON TO ALL VIEWS-->
     <string name="app_name">TET</string>
     <string name="tet_logo_description">Логотип ТЕТ</string>
@@ -80,19 +87,7 @@
     <string name="contribute_buy_merch">КУПИТИ МЕРЧ</string>
     <string name="contribute_app_developer">ПІДТРИМАТИ ДОДАТОК</string>
     <string name="contribute_options_text">Існують такі можливості допомогти проекту ТЕТ:</string>
-    <!--Merch SubView-->
-    <string name="merch_title">Офіційний Мерч ТЕТ</string>
-    <string name="merch_subtitle">Поширюй ідею ТЕТ нашими футболками та надміцними наклейками для мотоциклів, або купи собі ADV Spec Linesman куртку, яка була створена спеціально для їзди по ТЕТ.</string>
-    <string name="t_shirt_image_description">Офіційна футболка ТЕТ</string>
-    <string name="t_shirt_title">Trans Euro Trail® Футболкаt</string>
-    <string name="t_shirt_description">Покажи свою любов, надягаючи наш логотип! \n\n£24.90 + доставка</string>
-    <string name="Buy_Tshirt_button_text">КУПИТИ</string>
-    <string name="sticker_title">Trans Euro Trail® Наклейка</string>
-    <string name="sticker_description">Ваш мотоцикл дуже потребує її! \n\n£2.40 + доставка</string>
-    <string name="sticker_image_description">Офіційні TET Наклейки</string>
-    <string name="jacket_title">ADV Spec Linesman Куртки</string>
-    <string name="jacket_image_description">Офіційна ADV Linesman Куртка</string>
-    <string name="jacket_description">Вітрозахисна/дихаюча з Du Pont™ Kevlar® \n\n£249 + доставка</string>
+    
 
     <!--REPORT TRACK PROBLEM VIEW-->
     <string name="title_activity_maps">Мапа</string>
@@ -176,7 +171,6 @@
     <string name="no">Ні</string>
     <string name="export_edited_gpx">Експорт відредагованого файлу GPX</string>
     <string name="track_browser_title">Браузер Треку</string>
-    <string name="track_browser_subtitle">Оберіть країну для відображення інформації та завантажити GPX файл.</string>
     <string name="tracks_view_subtitle">Інформація Треку</string>
     <string name="open_track">ВІДКРИТИ ТРЕК</string>
     <string name="generating_list">Генерація Списку</string>
