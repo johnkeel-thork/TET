@@ -5,13 +5,14 @@
     <string name="update_track_button">UPDATE</string>
     <string name="preview_track_button">PREVIEW</string>
     <string name="github_page_button">GITHUB PAGE</string>
+    <string name="sending_report">Sending Report</string>
     <!--END OF NOT TRANSLATED-->
 
     <!--NEW CHANGED STRINGS-->
     <string name="track_browser_subtitle">View and download tracks, by downloading you will be subscribed for update notifications</string>
     <!--END OF NOT TRANSLATED-->
-    
-    
+
+
 
 
     <!--COMMON TO ALL VIEWS-->
@@ -88,7 +89,7 @@
     <string name="contribute_buy_merch">PIRKT TET PRECES</string>
     <string name="contribute_app_developer">DOT SAVU IEGULDĪJUMU APLIKĀCIJĀ</string>
     <string name="contribute_options_text">Šie ir veidi, kā Tu vari palīdzēt TET aplikācijai:</string>
-    
+
 
     <!--REPORT TRACK PROBLEM VIEW-->
     <string name="title_activity_maps">Karte</string>
@@ -125,7 +126,6 @@
     <string name="photo_source_message">Uzņemiet attēlu izmantojot Jūsu kameru, vai izvēlieties datni no Jūsu foto galerijas?</string>
     <string name="report_submited_success_title">Jūsu ziņojums ir piegādāts!</string>
     <string name="report_submited_success_message">Paldies par iesniegto ziņojumu par taku. Mēs to izskatīsim un pēc iespējas ātrāk mēģināsim reaģēt.</string>
-    <string name="Photo_Upload_Progress">Attēla augšupielāde</string>
     <string name="error_restart_title">Kaut kas nesanāca!</string>
     <string name="error_restart_message">Lūdzu mēģiniet izveidot Ziņojumu vēlreiz!</string>
     <string name="error_upload_later_title">Nevarēja pieslēgties serveerim</string>
@@ -171,7 +171,7 @@
     <string name="remove_waypoints_dialog_message">Šis attīrīs visus ceļa punktus, noņemot tos, kas nav tuvu redzamajām sekcijām</string>
     <string name="no">Nē</string>
     <string name="export_edited_gpx">Ekspoortē rediģēto GPX datni</string>
-    <string name="track_browser_title">Taku pārlūks</string>    
+    <string name="track_browser_title">Taku pārlūks</string>
     <string name="tracks_view_subtitle">Taku informācija</string>
     <string name="open_track">ATVĒRT TAKU</string>
     <string name="generating_list">Veido sarakstu</string>
