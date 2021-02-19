@@ -1,6 +1,7 @@
 <resources>
 
     <!--NOT TRANSLATED-->
+    <string name="choose_app">Choose App</string>
     <string name="update_track_button">UPDATE</string>
     <string name="preview_track_button">PREVIEW</string>
     <string name="github_page_button">GITHUB PAGE</string>
@@ -87,7 +88,7 @@
     <string name="contribute_buy_merch">КУПИТИ МЕРЧ</string>
     <string name="contribute_app_developer">ПІДТРИМАТИ ДОДАТОК</string>
     <string name="contribute_options_text">Існують такі можливості допомогти проекту ТЕТ:</string>
-    
+
 
     <!--REPORT TRACK PROBLEM VIEW-->
     <string name="title_activity_maps">Мапа</string>
