@@ -5,6 +5,7 @@
     <string name="update_track_button">UPDATE</string>
     <string name="preview_track_button">PREVIEW</string>
     <string name="github_page_button">GITHUB PAGE</string>
+    <string name="sending_report">Sending Report</string>
     <!--END OF NOT TRANSLATED-->
 
     <!--NEW CHANGED STRINGS-->
@@ -125,7 +126,6 @@
     <string name="photo_source_message">Faceți o fotografie folosind camera foto sau selectați una din memoria dispozitivului?</string>
     <string name="report_submited_success_title">Raportul a fost livrat!</string>
     <string name="report_submited_success_message">Mulțumim pentru semnalarea problemei la traseu, o vom rezolva în cel mai scurt timp posibil.</string>
-    <string name="Photo_Upload_Progress">Încărcare fotografie</string>
     <string name="error_restart_title">Ceva nu a funcționat bine!</string>
     <string name="error_restart_message">Vă rugăm să refaceți raportul!</string>
     <string name="error_upload_later_title">Conectarea la server nu a reușit</string>
