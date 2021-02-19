@@ -1,4 +1,18 @@
 <resources>
+
+
+    <!--NEW NOT TRANSLATED-->
+    <string name="update_track_button">UPDATE</string>
+    <string name="preview_track_button">PREVIEW</string>
+    <string name="github_page_button">GITHUB PAGE</string>
+    <!--END OF NOT TRANSLATED-->
+
+    <!--NEW CHANGED STRINGS-->
+    <string name="track_browser_subtitle">View and download tracks, by downloading you will be subscribed for update notifications</string>
+    <!--END OF NOT TRANSLATED-->
+
+
+
     <!--COMMON TO ALL VIEWS-->
     <string name="app_name">TET</string>
     <string name="tet_logo_description">TET LOGO</string>
@@ -73,19 +87,7 @@
     <string name="contribute_buy_merch">BUY MERCH</string>
     <string name="contribute_app_developer">CONTRIBUTE APP</string>
     <string name="contribute_options_text">These are the ways you can help the TET Project:</string>
-    <!--Merch SubView-->
-    <string name="merch_title">Official TET Merchandising</string>
-    <string name="merch_subtitle">Spread the TET vibes with our Ts and heavy duty bike stickers, or splash out on the ADV Spec Linesman trail riding jacket, developed especially for the TET.</string>
-    <string name="t_shirt_image_description">The Official TET Tshirt</string>
-    <string name="t_shirt_title">Trans Euro Trail® T-shirt</string>
-    <string name="t_shirt_description">Show your love by wearing our logo! \n\n£24.90 + postage</string>
-    <string name="Buy_Tshirt_button_text">BUY</string>
-    <string name="sticker_title">Trans Euro Trail® Sticker</string>
-    <string name="sticker_description">Your motorcycle needs this so much! \n\n£2.40 + postage</string>
-    <string name="sticker_image_description">The official TET Sticker</string>
-    <string name="jacket_title">ADV Spec Linesman Jacket</string>
-    <string name="jacket_image_description">The official ADV Linesman Jacket</string>
-    <string name="jacket_description">Windproof/breathable with Du Pont™ Kevlar® \n\n£249 + postage</string>
+
 
     <!--REPORT TRACK PROBLEM VIEW-->
     <string name="title_activity_maps">Map</string>
@@ -169,7 +171,6 @@
     <string name="no">No</string>
     <string name="export_edited_gpx">Exporting Edited GPX file</string>
     <string name="track_browser_title">Track Browser</string>
-    <string name="track_browser_subtitle">Select a country to view and download the GPX file.</string>
     <string name="tracks_view_subtitle">Track Information</string>
     <string name="open_track">OPEN TRACK</string>
     <string name="generating_list">Generating List</string>
