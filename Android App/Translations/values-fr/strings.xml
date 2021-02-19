@@ -1,6 +1,7 @@
 <resources>
 
     <!--NEW NOT TRANSLATED-->
+    <string name="choose_app">Choose App</string>
     <string name="update_track_button">UPDATE</string>
     <string name="preview_track_button">PREVIEW</string>
     <string name="github_page_button">GITHUB PAGE</string>
@@ -11,7 +12,7 @@
     <!--END OF NOT TRANSLATED-->
 
 
-    
+
     <!--COMMON TO ALL VIEWS-->
     <string name="app_name">TET</string>
     <string name="tet_logo_description">TET LOGO</string>
