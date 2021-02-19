@@ -1,5 +1,18 @@
 <resources>
 
+
+    <!--NOT TRANSLATED-->
+    <string name="update_track_button">UPDATE</string>
+    <string name="preview_track_button">PREVIEW</string>
+    <string name="github_page_button">GITHUB PAGE</string>
+    <!--END OF NOT TRANSLATED-->
+
+    <!--NEW CHANGED STRINGS-->
+    <string name="track_browser_subtitle">View and download tracks, by downloading you will be subscribed for update notifications</string>
+    <!--END OF NOT TRANSLATED-->
+
+
+
     <!--COMMON TO ALL VIEWS-->
     <string name="app_name">TET</string>
     <string name="tet_logo_description">TET LOGGA</string>
@@ -65,7 +78,7 @@
     <string name="integration_add_yours">Utvecklar du Appar för navigering eller liknande som är relevant för TET? Skulle du vilja integrera med vårt API? Tryck på “Kontakta Oss” och berätta mer! Titta gärna också på exempelvideon. </string>
     <string name="download">NEDLADDNING</string>
     <string name="drivemode_title">Drive Mode Dashboard</string>
-    <string name="drivemode_description">En mycket anpassningsbar instrumentbräda för din motorcykel! Skapa reseloggar, navigera i GPX-filer med offline-kartor, spela in GPX-filer, spara och visa platser, få detaljerad väderinformation och mycket, mycket mer. 
+    <string name="drivemode_description">En mycket anpassningsbar instrumentbräda för din motorcykel! Skapa reseloggar, navigera i GPX-filer med offline-kartor, spela in GPX-filer, spara och visa platser, få detaljerad väderinformation och mycket, mycket mer.
 Utvecklad av skaparen av TET-appen, syftar till att bli den ultimata TET-lösningen!</string>
 
     <!--CONTRIBUTE VIEW-->
@@ -75,19 +88,7 @@ Utvecklad av skaparen av TET-appen, syftar till att bli den ultimata TET-lösnin
     <string name="contribute_buy_merch">KÖP MERCH</string>
     <string name="contribute_app_developer">BIDRA TILL APPEN</string>
     <string name="contribute_options_text">Det här är sätten du kan hjälpa TET-projektet på:</string>
-    <!--Merch SubView-->
-    <string name="merch_title">Officielll TET Merchandise</string>
-    <string name="merch_subtitle">Sprid TET-vibbar med våra tröjor och klistermärken eller varför inte en ADV Spec Linesman trail jacka, utvecklad speciellt för TET.</string>
-    <string name="t_shirt_image_description">Den Officiella TET-tröjan</string>
-    <string name="t_shirt_title">Trans Euro Trail® T-shirt</string>
-    <string name="t_shirt_description">Visa din kärlek genom att bära vår logga! \n\n£24.90 + frakt</string>
-    <string name="Buy_Tshirt_button_text">KÖP</string>
-    <string name="sticker_title">Trans Euro Trail® Klistermärke</string>
-    <string name="sticker_description">Din motorcykel behöver verkligen detta!! \n\n£2.40 + frakt</string>
-    <string name="sticker_image_description">Det officiella TET-klistermärket</string>
-    <string name="jacket_title">ADV Spec Linesman Jacka</string>
-    <string name="jacket_image_description">Den officiella ADV Linesman Jackan</string>
-    <string name="jacket_description">Vindtät med Du Pont™ Kevlar® \n\n£249 + frakt</string>
+    
 
     <!--REPORT TRACK PROBLEM VIEW-->
     <string name="title_activity_maps">Karta</string>
@@ -158,7 +159,6 @@ Utvecklad av skaparen av TET-appen, syftar till att bli den ultimata TET-lösnin
 
     <!--TRACK BROWSER-->
     <string name="track_browser_title">Spårutforskare</string>
-    <string name="track_browser_subtitle">Välj land för att se information om och ladda ner GPX-filen.</string>
     <string name="tracks_view_subtitle">Spårinformation</string>
     <string name="open_track">ÖPPNA SPÅR</string>
     <string name="generating_list">Genererar Lista</string>
@@ -289,5 +289,3 @@ k. I Bosnien, Kroatien och andra platser finns spår av i kriget fortfarande kva
     <string name="notification_trackupdate_message2">spåruppdatering(-ar) tillgänglig (-a).</string>
 
 </resources>
-
-
