@@ -1,6 +1,7 @@
 <resources>
 
-     <!--NOT TRANSLATED YET-->
+    <!--NOT TRANSLATED-->
+    <string name="choose_app">Choose App</string>
     <string name="filter">Filter</string>
     <string name="track_section">Track Section</string>
     <string name="section">Section</string>
@@ -14,10 +15,16 @@
     <string name="remove_waypoints_dialog_message">This will clean up all the waypoints, removing any that no longer is close to the visible sections</string>
     <string name="no">No</string>
     <string name="export_edited_gpx">Exporting Edited GPX file</string>
-    <string name="choose_app">Choose App</string>
-     <!--END OF NOT TRANSLATED YET-->
-    
-    
+    <string name="update_track_button">UPDATE</string>
+    <string name="preview_track_button">PREVIEW</string>
+    <string name="github_page_button">GITHUB PAGE</string>
+    <!--END OF NOT TRANSLATED-->
+
+    <!--NEW CHANGED STRINGS-->
+    <string name="track_browser_subtitle">View and download tracks, by downloading you will be subscribed for update notifications</string>
+    <!--END OF NOT TRANSLATED-->
+
+
 
 
     <!--COMMON TO ALL VIEWS-->
@@ -94,19 +101,7 @@
     <string name="contribute_buy_merch">COMPRA MERCE</string>
     <string name="contribute_app_developer">CONTRIBUISCI ALL\' APP</string>
     <string name="contribute_options_text">Questi sono i modi con cui puoi aiutare il progetto TET:</string>
-    <!--Merch SubView-->
-    <string name="merch_title">Merchandising ufficiale TET</string>
-    <string name="merch_subtitle">Diffondi vibrazioni TET  con la nostra maglietta e i nostri resistenti stickers da moto, oppure fai una pazzia con la giacca tecnica trail ADV Spec Linesman, sviluppata appositamente per TET.</string>
-    <string name="t_shirt_image_description">La maglietta ufficiale TET</string>
-    <string name="t_shirt_title">Maglietta Trans Euro Trail®</string>
-    <string name="t_shirt_description">Mostra il tuo amore indossando il nostro logo! \n\n£24.90 + spedizione</string>
-    <string name="Buy_Tshirt_button_text">ACQUISTA</string>
-    <string name="sticker_title">Trans Euro Trail® Sticker</string>
-    <string name="sticker_description">La tua moto ne ha così tanto bisogno! \n\n£2.40 + spedizione</string>
-    <string name="sticker_image_description">Lo sticker ufficiale TET</string>
-    <string name="jacket_title">Giacca ADV Spec Linesman</string>
-    <string name="jacket_image_description">La giacca ufficiale ADV Linesman</string>
-    <string name="jacket_description">Antivento\traspirante con Du Pont™ Kevlar® \n\n£249 + spedizione</string>
+
 
     <!--REPORT TRACK PROBLEM VIEW-->
     <string name="title_activity_maps">Mappa</string>
@@ -177,7 +172,6 @@
 
     <!--TRACK BROWSER-->
     <string name="track_browser_title">Sfoglia traccie</string>
-    <string name="track_browser_subtitle">Seleziona il paese per vederne le informazioni e scaricare il file GPX.</string>
     <string name="tracks_view_subtitle">Informazioni traccia</string>
     <string name="open_track">APRI TRACCIA</string>
     <string name="generating_list">Creazione lista</string>
