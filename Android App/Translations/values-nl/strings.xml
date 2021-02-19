@@ -1,6 +1,8 @@
 <resources>
 
-    <!--NOT TRANSLATED YET-->
+
+    <!--NOT TRANSLATED-->
+    <string name="choose_app">Choose App</string>
     <string name="filter">Filter</string>
     <string name="track_section">Track Section</string>
     <string name="section">Section</string>
@@ -14,10 +16,16 @@
     <string name="remove_waypoints_dialog_message">This will clean up all the waypoints, removing any that no longer is close to the visible sections</string>
     <string name="no">No</string>
     <string name="export_edited_gpx">Exporting Edited GPX file</string>
-    <string name="choose_app">Choose App</string>
-    <!--END OF NOT TRANSLATED YET-->
-    
-    
+    <string name="update_track_button">UPDATE</string>
+    <string name="preview_track_button">PREVIEW</string>
+    <string name="github_page_button">GITHUB PAGE</string>
+    <!--END OF NOT TRANSLATED-->
+
+    <!--NEW CHANGED STRINGS-->
+    <string name="track_browser_subtitle">View and download tracks, by downloading you will be subscribed for update notifications</string>
+    <!--END OF NOT TRANSLATED-->
+
+
 
 
     <!--COMMON TO ALL VIEWS-->
@@ -94,19 +102,7 @@
     <string name="contribute_buy_merch">KOOP</string>
     <string name="contribute_app_developer">LEVER EEN BIJDRAGE AAN DE APP</string>
     <string name="contribute_options_text">Dit zijn de manieren waarop u het TET-project kunt helpen:</string>
-    <!--Merch SubView-->
-    <string name="merch_title">Officiële TET Handelswaar</string>
-    <string name="merch_subtitle">Verspreid de TET-vibes met onze T-shirts en heavy duty zelfklevers, of met de ADV Spec Linesman trail vest, speciaal ontwikkeld voor de TET.</string>
-    <string name="t_shirt_image_description">Het officiële TET T-shirt</string>
-    <string name="t_shirt_title">Trans Euro Trail® T-shirt</string>
-    <string name="t_shirt_description">Toon uw liefde door ons logo te dragen! \n\n£24.90 + portkosten</string>
-    <string name="Buy_Tshirt_button_text">KOOP</string>
-    <string name="sticker_title">Trans Euro Trail® Zelfklever</string>
-    <string name="sticker_description">Je motorfiets heeft dit zo hard nodig! \n\n£2.40 + portkosten</string>
-    <string name="sticker_image_description">De officiële TET Zelfklever</string>
-    <string name="jacket_title">ADV Spec Linesman Jacket</string>
-    <string name="jacket_image_description">Het officiële ADV Linesman Jacket</string>
-    <string name="jacket_description">Winddicht/ademend met Du Pont™ Kevlar® \n\n£249 + portkosten</string>
+
 
     <!--REPORT TRACK PROBLEM VIEW-->
     <string name="title_activity_maps">Kaart</string>
@@ -177,7 +173,6 @@
 
     <!--TRACK BROWSER-->
     <string name="track_browser_title">Track Browser</string>
-    <string name="track_browser_subtitle">Selecteer land om informatie over te bekijken en het GPX-bestand te downloaden.</string>
     <string name="tracks_view_subtitle">Track Informatie</string>
     <string name="open_track">OPEN DE TRACK</string>
     <string name="generating_list">Lijst genereren</string>
