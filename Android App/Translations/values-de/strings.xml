@@ -10,19 +10,7 @@
     <string name="track_browser_subtitle">View and download tracks, by downloading you will be subscribed for update notifications</string>
     <!--END OF NOT TRANSLATED-->
 
-    <string name="filter">Filter</string>
-    <string name="track_section">Streckenabschnitt</string>
-    <string name="section">Abschnitt</string>
-    <string name="options">Optionen</string>
-    <string name="dialog_remove_section">Entfernen diesen Abschnitt oder mache ihn zum einzig sichtbaren.</string>
-    <string name="remove">Entfernen</string>
-    <string name="only_visible">Einzig Sichtbar</string>
-    <string name="rebuilding_waypoints">Wiederherstellen von Wegpunkten</string>
-    <string name="rebuild_waypoints">Wegpunkte Wiederhergestellt</string>
-    <string name="remove_waypoints_dialog_title">Wegpunkte außerhalb der sichtbaren Abschnitte entfernen?</string>
-    <string name="remove_waypoints_dialog_message">Hierdurch werden alle Wegpunkte bereinigt, wobei alle entfernt werden, die sich nicht mehr in der Nähe der sichtbaren Abschnitte befinden.</string>
-    <string name="no">Nein</string>
-    <string name="export_edited_gpx">Exportieren der bearbeiteten GPX- Datei</string>
+    
 
 
     <!--COMMON TO ALL VIEWS-->
@@ -170,7 +158,7 @@
 
 
     <!--TRACK BROWSER-->
-    <string name="track_browser_title">Track Browser</string>    
+    <string name="track_browser_title">Track Browser</string>
     <string name="tracks_view_subtitle">Track Information</string>
     <string name="open_track">TRACK ÖFFNEN</string>
     <string name="generating_list">Liste erzeugen</string>
@@ -212,6 +200,19 @@
     <string name="disclaimer_refuse">Ablehnen</string>
     <string name="zoom_mode_enabled">Zoom- Modus Aktiviert</string>
     <string name="pan_mode_enabled">Schwenk- Modus Aktiviert</string>
+    <string name="filter">Filter</string>
+    <string name="track_section">Streckenabschnitt</string>
+    <string name="section">Abschnitt</string>
+    <string name="options">Optionen</string>
+    <string name="dialog_remove_section">Entfernen diesen Abschnitt oder mache ihn zum einzig sichtbaren.</string>
+    <string name="remove">Entfernen</string>
+    <string name="only_visible">Einzig Sichtbar</string>
+    <string name="rebuilding_waypoints">Wiederherstellen von Wegpunkten</string>
+    <string name="rebuild_waypoints">Wegpunkte Wiederhergestellt</string>
+    <string name="remove_waypoints_dialog_title">Wegpunkte außerhalb der sichtbaren Abschnitte entfernen?</string>
+    <string name="remove_waypoints_dialog_message">Hierdurch werden alle Wegpunkte bereinigt, wobei alle entfernt werden, die sich nicht mehr in der Nähe der sichtbaren Abschnitte befinden.</string>
+    <string name="no">Nein</string>
+    <string name="export_edited_gpx">Exportieren der bearbeiteten GPX- Datei</string>
     <string name="disclaimer_message">Wenn Sie mit dem Herunterladen und der Nutzung der Trans Euro Trail®-Dateien fortfahren, akzeptieren Sie die folgenden Punkte:
 \n\n
 1. Die GPX Daten werden von der Trans Euro Trail® Community Interest Company herausgegeben., Company No. 11371199, Address: Unit 3, Cragg Road, Mytholmroyd, Hebden Bridge, West Yorkshire, HX7 5HR, United Kingdom.
