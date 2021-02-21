@@ -104,7 +104,7 @@
     <string name="map_instructions">Appuyez et maintenez n\'importe où sur la carte pour marquer l\'emplacement du rapport ou cliquez sur le bouton en forme de croix dans le coin supérieur droit pour sélectionner votre emplacement actuel.</string>
     <string name="error_fetching_countryname_title">Erreur de localisation du nom de pays</string>
     <string name="error_fetching_countryname_message">Impossible de localiser le nom de votre pays pour le moment, svp le choisir manuellement à la prochaine étape.</string>
-    <string name="report_second_step_next"> PROCHAINE ÉTAPE </string>
+    <string name="report_second_step_next">ÉTAPE SUIVANTE</string>
     <string name="report_step2_title">Signaler problème de Trace </string>
     <string name="report_location_text">Coordonnées:</string>
     <string name="report_finish_next">ÉTAPE SUIVANTE</string>
