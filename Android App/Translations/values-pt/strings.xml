@@ -4,11 +4,22 @@
     <string name="update_track_button">UPDATE</string>
     <string name="preview_track_button">PREVIEW</string>
     <string name="github_page_button">GITHUB PAGE</string>
+    <!--News Feed-->
+    <string name="news_feed_title">News Feed</string>
+    <string name="news_feed_button_text">READ</string>
+    <string name="news_img_description">TET NEWS</string>
+    <string name="news_feed_description">Stay in the loop with the latest official TET news.</string>
+    <string name="news_feed_notification_title">New unread TET news</string>
+    <string name="news_feed_notification_message1">You have</string>
+    <string name="news_feed_notification_message2">unread news</string>
+    <string name="this_news_has_no_link">This news has no link!</string>
     <!--END OF NOT TRANSLATED-->
 
     <!--NEW CHANGED STRINGS-->
     <string name="track_browser_subtitle">View and download tracks, by downloading you will be subscribed for update notifications</string>
     <!--END OF NOT TRANSLATED-->
+    
+    
 
 
 
@@ -38,10 +49,6 @@
     <string name="report_route_problem_title">Problema Percurso</string>
     <string name="report_button_text">REPORTAR</string>
     <string name="report_route_image_description">Reportar Problema Percurso</string>
-    <!--Button: POIs-->
-    <string name="poi_title">Brevemente</string>
-    <string name="poi_button">BREVEMENTE</string>
-    <string name="poi_image_description">Pontos de Interesse</string>
     <!--Button: Community / Share-->
     <string name="join_title">Comunidade</string>
     <string name="join_button_text">JUNTA-TE</string>
@@ -150,7 +157,7 @@
     <string name="no_location_selected_title">Nenhuma Localização Selecionada</string>
     <string name="no_location_selected_message">Mantém pressionado o mapa em qualquer lado para marcar a localização para a comunicação ou clica na mira no topo direito para selecionar a tua localização atual.</string>
     <string name="no_message_no_photo_title">Nenhuma Descrição e Nenhuma Foto!</string>
-    <string name="no_message_no_photo_message">Não escreveste uma descrição ou adicionaste uma foto, isto não nos permite identificar o problema com exatidão. por favor adiciona uma pequena descrição e/ou adicionar uma foto!</string>    
+    <string name="no_message_no_photo_message">Não escreveste uma descrição ou adicionaste uma foto, isto não nos permite identificar o problema com exatidão. por favor adiciona uma pequena descrição e/ou adicionar uma foto!</string>
     <string name="sending_report">A Enviar Relatório</string>
 
 
