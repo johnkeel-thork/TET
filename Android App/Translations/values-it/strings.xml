@@ -35,6 +35,8 @@
     <string name="track_browser_subtitle">View and download tracks, by downloading you will be subscribed for update notifications</string>
     <!--END OF NOT TRANSLATED-->
 
+    
+
 
 
 
@@ -64,10 +66,6 @@
     <string name="report_route_problem_title">Problema percorso</string>
     <string name="report_button_text">SEGNALA</string>
     <string name="report_route_image_description">Segnala problema percorso</string>
-    <!--Button: POIs-->
-    <string name="poi_title">Prossimamente</string>
-    <string name="poi_button">A BREVE</string>
-    <string name="poi_image_description">Punto di interesse</string>
     <!--Button: Community / Share-->
     <string name="join_title">Community</string>
     <string name="join_button_text">UNISCITI</string>
@@ -190,7 +188,7 @@
     <string name="fetching_country_list">Recupero lista paesi</string>
     <string name="track_download_progress">Scaricamento traccia</string>
     <string name="track_browser_noInternet_title">Nessuna connessione - Modo Offline</string>
-    <string name="track_browser_noInternet_message">Non si dispone di accesso Internet o si è verificato un problema di connessione al server. É possibile visualizzare solamente le tracce scaricate precedentemente (files locali).</string>
+    <string name="track_browser_noInternet_message">Non si dispone di accesso Internet o si è verificato un problema di connessione al server. È possibile visualizzare solamente le tracce scaricate precedentemente (files locali).</string>
     <string name="track_download_offline_title">Tracce scaricate</string>
     <string name="track_download_offline_subtitle">Consulta in modo offline tracce scaricate precedentemente.</string>
     <string name="track_last_updated">Ultima traccia aggiornata</string>
