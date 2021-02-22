@@ -6,6 +6,17 @@
     <string name="preview_track_button">PREVIEW</string>
     <string name="github_page_button">GITHUB PAGE</string>
     <string name="sending_report">Sending Report</string>
+
+    <!--News Feed-->
+    <string name="news_feed_title">News Feed</string>
+    <string name="news_feed_button_text">READ</string>
+    <string name="news_img_description">TET NEWS</string>
+    <string name="news_feed_description">Stay in the loop with the latest official TET news.</string>
+    <string name="news_feed_notification_title">New unread TET news</string>
+    <string name="news_feed_notification_message1">You have</string>
+    <string name="news_feed_notification_message2">unread news</string>
+    <string name="this_news_has_no_link">This news has no link!</string>
+    
     <!--END OF NOT TRANSLATED-->
 
     <!--NEW CHANGED STRINGS-->
@@ -41,10 +52,6 @@
     <string name="report_route_problem_title">Routen Problem</string>
     <string name="report_button_text">BERICHT</string>
     <string name="report_route_image_description">Berichte von Routen Problemen</string>
-    <!--Button: POIs-->
-    <string name="poi_title">Erscheint bald</string>
-    <string name="poi_button">BALD</string>
-    <string name="poi_image_description">Sehenswürdigkeiten POI</string>
     <!--Button: Community / Share-->
     <string name="join_title">Gemeinschaft</string>
     <string name="join_button_text">ENGAGIEREN</string>
@@ -287,5 +294,3 @@ k. In Bosnien, Kroatien und anderen Ländern gibt es noch immer Kriegshinterlass
     <string name="notification_trackupdate_message2">Track Aktualisierung(en) Verfügbar available.</string>
 
 </resources>
-
-
