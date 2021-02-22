@@ -6,6 +6,15 @@
     <string name="preview_track_button">PREVIEW</string>
     <string name="github_page_button">GITHUB PAGE</string>
     <string name="sending_report">Sending Report</string>
+    <!--News Feed-->
+    <string name="news_feed_title">News Feed</string>
+    <string name="news_feed_button_text">READ</string>
+    <string name="news_img_description">TET NEWS</string>
+    <string name="news_feed_description">Stay in the loop with the latest official TET news.</string>
+    <string name="news_feed_notification_title">New unread TET news</string>
+    <string name="news_feed_notification_message1">You have</string>
+    <string name="news_feed_notification_message2">unread news</string>
+    <string name="this_news_has_no_link">This news has no link!</string>
     <!--END OF NOT TRANSLATED-->
 
     <!--NEW CHANGED STRINGS-->
@@ -41,10 +50,6 @@
     <string name="report_route_problem_title">Problemă la traseu</string>
     <string name="report_button_text">RAPORTARE</string>
     <string name="report_route_image_description">Raportați probleme la traseu</string>
-    <!--Button: POIs-->
-    <string name="poi_title">Urmează curând</string>
-    <string name="poi_button">În curând</string>
-    <string name="poi_image_description">Puncte de interes (POI)</string>
     <!--Button: Community / Share-->
     <string name="join_title">Comunitate</string>
     <string name="join_button_text">ACCESARE</string>
