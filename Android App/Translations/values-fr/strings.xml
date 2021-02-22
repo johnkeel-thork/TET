@@ -1,6 +1,20 @@
 <resources>
 
 
+    <!--NEW NOT TRANSLATED-->
+    <!--News Feed-->
+    <string name="news_feed_title">News Feed</string>
+    <string name="news_feed_button_text">READ</string>
+    <string name="news_img_description">TET NEWS</string>
+    <string name="news_feed_description">Stay in the loop with the latest official TET news.</string>
+    <string name="news_feed_notification_title">New unread TET news</string>
+    <string name="news_feed_notification_message1">You have</string>
+    <string name="news_feed_notification_message2">unread news</string>
+    <string name="this_news_has_no_link">This news has no link!</string>
+    <!--END OF NOT TRANSLATED-->
+
+
+
     <!--COMMON TO ALL VIEWS-->
     <string name="app_name">TET</string>
     <string name="tet_logo_description">TET LOGO</string>
@@ -19,7 +33,6 @@
     <string name="no">Non</string>
 
 
-
     <!--MAIN VIEW-->
     <string name="pending_notification">0</string>
 
@@ -33,10 +46,6 @@
     <string name="report_button_text">SIGNALER</string>
     <string name="report_route_image_description">Signaler une problème sur la trace</string>
 
-    <!--Button: POIs-->
-    <string name="poi_title">A venir</string>
-    <string name="poi_button">BIENTÔT</string>
-    <string name="poi_image_description">Points d’intérêt</string>
 
     <!--Button: Community / Share-->
     <string name="join_title">Communauté</string>
