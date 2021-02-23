@@ -1,4 +1,4 @@
-# TET
+## TET
 TET- Trans Euro Trail (Android / iOS apps)
 
 EUROPE'S DIRT ROAD ADVENTURE
@@ -11,7 +11,7 @@ Provided for free.
 =====================
 
 
-### Help Translate:
+## Help Translate:
 
 Please Submit for the Android App Translation!
 
@@ -29,14 +29,15 @@ Following the Android schemas:
 
 =====================
 
-
-### TET Website URL:
+## TET Links
+* TET Website URL:
+* TET Website URL:
 https://www.transeurotrail.org/
 
 
-### Android App URL:
+* Android App URL:
 https://play.google.com/store/apps/details?id=com.obsidianpc.tet
 
     
-### Privacy Policy:
+* Privacy Policy:
 https://github.com/johnkeel-thork/TET/blob/master/Privacy.md
