@@ -2,7 +2,7 @@
 
 **EUROPE'S DIRT ROAD ADVENTURE**
 
-![TET LOGO](TET-Logo.png)
+![TET LOGO](TETLogo.png)
 
 A 51,000km GPX route from the edge of Africa to the Arctic Circle.
 Created by our community.
