@@ -1,14 +1,12 @@
-## TET
-TET- Trans Euro Trail (Android / iOS apps)
+## TET- Trans Euro Trail (Android / iOS apps)
 
-EUROPE'S DIRT ROAD ADVENTURE
+** EUROPE'S DIRT ROAD ADVENTURE
 
 A 51,000km GPX route from the edge of Africa to the Arctic Circle.
 Created by our community.
 Provided for free.
 
 
-=====================
 
 
 ## Help Translate:
@@ -27,7 +25,6 @@ Following the Android schemas:
 
 
 
-=====================
 
 ## TET Links
 * TET Website URL:
