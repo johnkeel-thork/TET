@@ -30,7 +30,6 @@ Following the Android schemas:
 
 ## TET Links
 * TET Website URL:
-* TET Website URL:
 https://www.transeurotrail.org/
 
 
