@@ -8,6 +8,8 @@ A 51,000km GPX route from the edge of Africa to the Arctic Circle.
 Created by our community.
 Provided for free.
 
+**This repository is maintained by a private developer. The TET App is a free app developed by a TET community member. The Trans Euro Trail Community Interest Company is in no way reponsible for the content found on this repository**
+
 
 
 
