@@ -8,7 +8,7 @@ Provided for free.
 
 **EUROPE'S DIRT ROAD ADVENTURE**
 
-This repository is maintained by a private TET community developer. The Trans Euro Trail Community Interest Company is in not reponsible for the content found on this repository.
+This repository is maintained by a private TET community developer. The Trans Euro Trail Community Interest Company is in not responsible for the content found on this repository.
 
 
 
