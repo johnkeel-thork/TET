@@ -45,6 +45,7 @@ https://github.com/johnkeel-thork/TET/blob/master/Privacy.md
 
 
 ## Acknowledgements
+* [raschaa](https://github.com/nezgrath) : For being my Sponsor
 * [raschaa](https://github.com/raschaa) : For being my Sponsor
 * [Freepik](https://www.freepik.com) : for the Country Flags - from www.flaticon.com
 * [Drive Mode Dashboard](https://www.drivemodedashboard.com) : For the GPX Parser, Waypoint Icons, Track Filter, Waypoint Cleanup
