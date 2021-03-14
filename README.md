@@ -45,6 +45,7 @@ https://github.com/johnkeel-thork/TET/blob/master/Privacy.md
 
 
 ## Acknowledgements
+* [KayDubbya](https://github.com/KayDubbya) : For being my Sponsor
 * [nezgrath](https://github.com/nezgrath) : For being my Sponsor
 * [raschaa](https://github.com/raschaa) : For being my Sponsor
 * [Freepik](https://www.freepik.com) : for the Country Flags - from www.flaticon.com
