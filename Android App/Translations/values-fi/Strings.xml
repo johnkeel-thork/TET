@@ -1,0 +1,288 @@
+<resources>
+
+    <!--COMMON TO ALL VIEWS-->
+    <string name="app_name">TET</string>
+    <string name="tet_logo_description">TET LOGO</string>
+    <string name="top_message_text">Kunnioita Polkuja. Kunnioita Ympäristöä. Kunnioita Yhteisöjä joiden läpi kuljemme.</string>
+    <string name="footer_tet_website">Verkkosivu</string>
+    <string name="footer_tet_contribute">Osallistu</string>
+    <string name="ok">OK</string>
+    <string name="Wrong_Activity_Key">Väärä avain tälle toiminnolle!</string>
+    <string name="Null_Key">Ei avainta tämän toiminnon vahvistamiseksi!</string>
+    <string name="No_Bundle_Extras">Ei tähän toimintoon liittyviä lisäosia!</string>
+    <string name="cancel">Peruuta</string>
+    <string name="Camera">Kamera</string>
+    <string name="Local_Gallery_File">Galleria</string>
+    <string name="yes">Kyllä</string>
+    <string name="later">Myöhemmin</string>
+
+    <!--MAIN VIEW-->
+    <string name="pending_notification">0</string>
+    <!--Button: TET Tracks Browser-->
+    <string name="browser_tet_tracks_title">TET Reitit</string>
+    <string name="browser_button_text">SELAA</string>
+    <string name="browser_image_description">Selaa TET Reittejä</string>
+    <!--Button: Report Route Problems-->
+    <string name="report_route_problem_title">Ongelma Reitissä</string>
+    <string name="report_button_text">ILMOITA</string>
+    <string name="report_route_image_description">Ilmoita ongelmasta Reitillä</string>
+    <!--Button: Community / Share-->
+    <string name="join_title">Yhteisö</string>
+    <string name="join_button_text">LIITY</string>
+    <string name="join_community_image_description">Yhteisö verkossa</string>
+    <!--Splash Message-->
+    <string name="tet_splash_message">Eeppinen Eurooppalainen MoottoripyöräSeikkailu</string>
+    <string name="touch_to_continue">Klikkaa jatkaaksesi</string>
+    <!--END OF MAIN VIEW-->
+
+    <!--COMMUNITY VIEW-->
+    <!--Button: Facebook Group-->
+    <string name="facebook_tet_group_title">TET ryhmä Facebookissa</string>
+    <string name="facebook_icon_image_description">TET Facebook kuvake</string>
+    <string name="facebook_description">Tutustu muihin TET-yhteisön jäseniin ja jaa kokemuksiasi</string>
+    <!--Button: Online Forum Page-->
+    <string name="tet_forum_title">TET Foorumi</string>
+    <string name="tet_forum_description">Paikka ohjeille, matkakertomuksille ja fiksulle keskustelulle</string>
+    <string name="tet_forum_icon_image_description">Virallinen TET-keskustelufoorumi</string>
+    <string name="tet_contribute_image_description">Osallistu TET:iin</string>
+    <!--Button: Code of Conduct-->
+    <string name="tet_code_icon_description">Eettinen ohjeisto</string>
+    <string name="tet_code_title">Eettinen ohjeisto</string>
+    <string name="tet_code_description">Lue eettinen ohjeisto TET-verkkosivulla</string>
+    <!--Button: Integrations-->
+    <string name="tet_integration_title">TET integroidut sovellukset</string>
+    <string name="tet_integration_description">Android sovellukset joihin integroitu TET-sovellus</string>
+
+    <!--Integration VIEW-->
+    <string name="integration_title">Sovellukset joihin integroitu TET-sovellus</string>
+    <string name="integration_description">Sovelluksen käyttäjäkokemus paranee integroimalla TET-sovelluksen. Helposti. Nopeasti. Saumattomasti!</string>
+    <string name="integration_example_video">VIDEOESIMERKKI</string>
+    <string name="integration_contact">OTA YHTEYTTÄ</string>
+    <string name="integration_add_yours">Kehitätkö navigointiin tai muuten TET:iin liittyviä sovelluksia? Haluaisitko integroitua meidän rajapintamme avulla? Klikkaa Ota yhteyttä ja kerro siitä meille! Katso myös Videoesimerkki.</string>
+    <string name="download">LATAA</string>
+    <string name="drivemode_title">Drive Mode Dashboard</string>
+    <string name="drivemode_description">Muokattava moottoripyörän kojetaulu Luo reissulogeja, navigoi GPX-reittejä/jälkiä offline-kartoilla, tallenna GPX-jälkiä, tallenna ja näytä sijainteja, näytä säätietoja ja tee paljon paljon muuta.\n\nKehitetty TET-sovelluksen kehittäjän toimesta, tavoitteena luoda ylivertainen TET-ratkaisu!</string>
+
+    <!--CONTRIBUTE VIEW-->
+    <string name="contribute_title">Tee ensimmäinen varikkopysähdyksesi täällä.&#8230;</string>
+    <string name="contribute_subtitle">Trans Euro Trail® on syntynyt intohimosta, sitä ylläpidetään kurapyöräilijöiden ja tuetaan SINUN toimestasi. Mikä parasta, se on ilmainen ja tulee myös pysymään sellaisena!</string>
+    <string name="contribute_text_button">LUE LISÄÄ</string>
+    <string name="contribute_buy_merch">OSTA TUOTTEITA</string>
+    <string name="contribute_app_developer">OSALLISTU (SOVELLUS)</string>
+    <string name="contribute_options_text">Näin voit auttaa TET-projektia:</string>
+
+
+    <!--REPORT TRACK PROBLEM VIEW-->
+    <string name="title_activity_maps">Kartta</string>
+    <string name="marker_report_location">Ilmoita tämä sijainti</string>
+    <string name="map_instructions">Kosketa pitkään missä tahansa kohdassa kartalla luodaksesi merkin siihen kohtaan tai klikkaa tähtäin-kuvaketta oikeassa ylänurkassa siirtääksesi kartan nykyiseen sijaintiisi. Jos olet offline-tilassa, varmista että olet fyysisesti ongelmapaikassa ja laitteesi GPS-signaali toimii.</string>
+    <string name="error_fetching_countryname_title">Virhe haettaessa maan nimeä</string>
+    <string name="error_fetching_countryname_message">Maan hakeminen ei onnistunut, valitse maa seuraavassa vaiheessa manuaalisesti.</string>
+    <string name="report_second_step_next">SEURAAVA</string>
+    <string name="report_step2_title">Ilmoita ongelma reitissä</string>
+    <string name="report_location_text">Koordinaatit:</string>
+    <string name="report_finish_next">SEURAAVA</string>
+    <string name="linesman_name">Linesman:</string>
+    <string name="linesman_email">e-mail</string>
+    <string name="problem_input_description">Kosketa tässä lisätäksesi lyhyen kuvauksen reitin ongelmasta</string>
+    <string name="problem_input_box_title">Kuvaus</string>
+    <string name="Track_Country_Text">TET-reitin maa:</string>
+    <string name="Track_Problem_Text">TET-reitin ongelman tyyppi:</string>
+    <string name="Error_Starting_Report">Virhe ilmoituksen luomisessa</string>
+    <string name="ConfirmCountry">Varmista maan nimi</string>
+    <string name="Manually_Select_Country">Maan hakeminen automaattisesti ei onnistunut, valitse maa jonka TET-reittiä ongelma koskee!</string>
+    <string name="submit_title_text">Lähetä ongelmailmoitus</string>
+    <string name="report_resume_text">Valittu reitti:</string>
+    <string name="the_problem_is">Ongelman tyyppi:</string>
+    <string name="problem_at">Ongelman sijainti (koordinaatit):</string>
+    <string name="report_submit">LÄHETÄ</string>
+    <string name="Add_Photo_Title">Liitä ilmoitukseen valokuva:</string>
+    <string name="No_Camera_Permission_Title">Kameran käyttöoikeus vaaditaan</string>
+    <string name="No_Camera_Permission_Message">Sovellus tarvitsee käyttöoikeuden käyttääkseen laitteesi kameraa, hyväksy käyttöoikeuspyyntö.</string>
+    <string name="camera_request_again">Pyydä uudelleen</string>
+    <string name="no_camera_available_title">Ei kameraa käytettävissä</string>
+    <string name="no_camera_available_message">Laitteessasi ei joko ole kameraa tai kamerasovellusta!</string>
+    <string name="photo_to_be_submited">Lähetettävä valokuva:</string>
+    <string name="photo_source">Valitse valokuvan lähde</string>
+    <string name="photo_source_message">Ota valokuva kamerallasi tai valitse valokuva galleriasta</string>
+    <string name="report_submited_success_title">Ilmoituksesi on lähetetty!</string>
+    <string name="report_submited_success_message">Kiitos reitin ongelman ilmoittamisesta, ryhdymme toimenpiteisiin niin pian kuin mahdollista.</string>
+    <string name="error_restart_title">Jotain meni pieleen!</string>
+    <string name="error_restart_message">Kokeile luoda ilmoitus uudelleen!</string>
+    <string name="error_upload_later_title">Yhteyttä palvelimeen ei saatu muodostettua</string>
+    <string name="error_upload_later_message">Tämä ilmoitus tallennetaan ja lähetetään kun yhteys palvelimeen on muodostettu.</string>
+    <string name="No_Internet_title">Ilmoitus Offline-tilassa</string>
+    <string name="No_Internet_message">Verkkoyhteyttä ei ole, mutta ei hätää: Kartta ei välttämättä näy mutta sijaintisi saadaan silti tallennettua. Ilmoitus tallentuu Odottavana ilmoituksena ja lähetään kun verkkoyhteys on jälleen käytettävissä.</string>
+    <string name="pending_report_title_1">Sinulla on</string>
+    <string name="pending_report_title_2">odottavaa ilmoitusta</string>
+    <string name="pending_report_message">Haluatko lähettää ne nyt?</string>
+    <string name="pending_success_title">Odottavat ilmoitukset lähetetty!</string>
+    <string name="pending_success_message">Odottavat ilmoitukset on nyt onnistuneesti lähetetty. Kiitos!</string>
+    <string name="pending_error_title">Ongelma ilmoituksen lähettämisessä!</string>
+    <string name="pending_error_message">Jotain meni pieleen lähetettäessä ilmoitustasi. Yritä uudelleen myöhemmin.</string>
+    <string name="storage_permissions_title">Tallennustilan käyttöoikeus vaaditaan</string>
+    <string name="storage_permissions_message">Valokuvan tallentamista varten sovellus tarvitsee oikeuden käyttää tallennustilaa, hyväksy käyttöoikeuspyyntö.</string>
+    <string name="map_style_description">Valitse kartan tyyli</string>
+    <string name="map_style_dialog_title">Valitse kartan tyyli</string>
+    <string name="using_sats">Käytössä</string>
+    <string name="satas_out_of">satelliittia</string>
+    <string name="available_in_view">käytettävissä olevasta</string>
+    <string name="gps_accuracy">GPS-tarkkuus</string>
+    <string name="gps_accuracy_message_wait">Odota parempaa GPS-tarkkuutta käyttääksesi sijaintia ilmoituksessa!</string>
+    <string name="gps_accuracy_message_not_bad">GPS-tarkkuus vaikuttaa riittävältä jotta sijaintiasi voidaan käyttää.</string>
+    <string name="gps_accuracy_message_good">GPS-tarkkuus on hyvä joten sijaintiasi voidaan käyttää.</string>
+    <string name="no_location_selected_title">Ei valittua sijaintia</string>
+    <string name="no_location_selected_message">Kosketa pitkään missä tahansa kohdassa kartalla luodaksesi merkin siihen kohtaan tai klikkaa tähtäin-kuvaketta oikeassa ylänurkassa siirtääksesi kartan nykyiseen sijaintiisi.</string>
+    <string name="no_message_no_photo_title">Kuvaus ja valokuva puuttuu!</string>
+    <string name="no_message_no_photo_message">Ilman kuvausta ja valokuvaa meidän on erittäin vaikea ymmärtää ongelmaa, harkitse kuvauksen kirjoittamista tai valokuvan liittämistä ilmoitukseen!</string>
+    <string name="track_length">Reitin pituus:</string>
+
+
+    <!--News Feed-->
+    <string name="news_feed_title">Uutissyöte</string>
+    <string name="news_feed_button_text">LUE</string>
+    <string name="news_img_description">TET UUTISET</string>
+    <string name="news_feed_description">Pysy kartalla viimeisimmistä virallisista TET-uutisista.</string>
+    <string name="news_feed_notification_title">Uusi lukematon TET-uutinen</string>
+    <string name="news_feed_notification_message1">Sinulla on</string>
+    <string name="news_feed_notification_message2">lukematonta uutista</string>
+    <string name="this_news_has_no_link">Tässä uutisessa ei ole linkkiä!</string>
+    
+    
+    <!--TRACK BROWSER-->
+    <string name="filter">Rajaukset</string>
+    <string name="track_section">Reitit-osio</string>
+    <string name="section">Osio</string>
+    <string name="options">Valinnat</string>
+    <string name="dialog_remove_section">Poista tämä osio tai tee siitä ainoa näytettävä osio?</string>
+    <string name="remove">Poista</string>
+    <string name="only_visible">Ainoa näytettävä</string>
+    <string name="rebuilding_waypoints">Luodaan reittipisteitä uudelleen</string>
+    <string name="rebuild_waypoints">Luo reittipisteitä</string>
+    <string name="remove_waypoints_dialog_title">Poista reittipisteet näkyvien osioiden ulkopuolelta?</string>
+    <string name="remove_waypoints_dialog_message">Tämä poistaa kaikki reittipisteet, poistaan kaikki jotka eivät ole näkyvien osioiden lähettyvillä</string>
+    <string name="no">Ei</string>
+    <string name="export_edited_gpx">Editoidun GPX-tiedoston vienti</string>
+    <string name="track_browser_title">Reittiselain</string>
+    <string name="tracks_view_subtitle">Reitin tiedot</string>
+    <string name="open_track">AVAA REITTI</string>
+    <string name="generating_list">Luodaan listaa</string>
+    <string name="delete_local_file">POISTA TIEDOSTO</string>
+    <string name="gpx_open_dialog">Ladataan GPX-tiedostoa</string>
+    <string name="fetching_country_list">Haetaan Maa-listaa</string>
+    <string name="track_download_progress">Latadataan reittiä</string>
+    <string name="track_browser_noInternet_title">Ei verkkoyhteyttä - Offline-tila</string>
+    <string name="track_browser_noInternet_message">Ei verkkoyhteyttä tai yhteydenmuodostuksessa palvelimeen on ongelma. Käytettävissä ainoastaan aiemmin ladatut reitit (paikalliset tiedostot).</string>
+    <string name="track_download_offline_title">Ladatut reitit</string>
+    <string name="track_download_offline_subtitle">Selaa aiemmin ladattuja reittejä offline-tilassa.</string>
+    <string name="track_last_updated">Reittiä päivitetty viimeksi</string>
+    <string name="no_offline_files">GPX-reittejä ei löytynyt!</string>
+    <string name="track_updates_available_title">Reittipäivityksiä saatavilla!</string>
+    <string name="track_updates_available_message">Haluatko päivittää ne nyt?</string>
+    <string name="updating_tracks">Päivitetään paikallisia GPX-tiedostoja</string>
+    <string name="track_updated_success_title">GPX-tiedostot päivitetty</string>
+    <string name="track_updated_success_message">Paikalliset GPX-tiedostot päivitetty: </string>
+    <string name="track_updated_error_title">GPX-tiedostojen päivitys epäonnistui</string>
+    <string name="track_updated_error_message">Reittien päivitys epäonnistui, yritä myöhemmin uudelleen.</string>
+    <string name="track_view_start_error_title">Virhe aloitettaessa toimintoa</string>
+    <string name="track_view_start_error_message">Toimintoa aloitettaessa aiheutui virhe, yritä uudelleen.</string>
+    <string name="track_delete_success_title">Paikallinen GPX-tiedosto poistettu</string>
+    <string name="track_delete_success_message">Paikallinen GPX-tiedosto tähän maahan poistettiin, voit aina ladata sen uudelleen myöhemmin!</string>
+    <string name="track_delete_error_title">Virhe poistettaessa paikallista GPX-tiedostoa</string>
+    <string name="track_delete_error_message">Poistettaessa paikallista GPX-tiedostoa aiheutui virhe, yritä uudelleen.</string>
+    <string name="track_download_error_title">Virhe tiedoston latauksessa</string>
+    <string name="track_download_error_message">GPX-tiedostoa ladattaessa aiheutui virhe, yritä myöhemmin uudelleen.</string>
+    <string name="gpx_parse_error_title">Virhe GPX-tiedostoa avattaessa</string>
+    <string name="gpx_parse_error_message">GPX-tiedostoa avattaessa aiheutui virhe, yritä myöhemmin uudelleen.</string>
+    <string name="gpx_open_noapp_title">Ei sopivaa sovellusta asennettuna</string>
+    <string name="gpx_open_noapp_message">Laitteellesi ei ole asennettu GPX-tiedostojen käsittelyyn sopivaa sovellusta. Asenna sopiva sovellus Play Storesta.</string>
+    <string name="disclaimer_DontShowAgain">Älä näytä uudelleen</string>
+    <string name="no_permissions_title">Ei GPS-sijainnin käyttöoikeutta</string>
+    <string name="no_permissions_message">Tämä sovellus ei toimi ilman GPS-sijainnin käyttöoikeutta. HUOM! Emme tallenna MITÄÄN käyttäjätietoja!</string>
+    <string name="disclaimer_title">Ennen lataamista lue tämä</string>
+    <string name="disclaimer_agree">Hyväksy</string>
+    <string name="disclaimer_agree_dontshow">Hyväksyn, &amp; älä koskaan näytä</string>
+    <string name="disclaimer_refuse">Kieltäydy</string>
+    <string name="zoom_mode_enabled">Zoomaus-tila käytössä</string>
+    <string name="pan_mode_enabled">Panerointi-tila Enabled</string>
+    <string name="choose_app">Valitse sovellus</string>
+    <string name="update_track_button">PÄIVITÄ</string>
+    <string name="preview_track_button">ESIKATSELU</string>
+    <string name="github_page_button">GITHUB-SIVU</string>
+    <string name="sending_report">Lähetä raportti</string>
+    <string name="track_browser_subtitle">Katsele ja lataa reittejä. Lataamalla tilaat ilmoitukset päivityksistä</string>
+    <string name="disclaimer_message">By continuing to the download and in using the Trans Euro Trail® files, you are accepting and agree to everything below.
+\n\n
+1. The GPX is issued by the Trans Euro Trail® Community Interest Company, Company No. 11371199, Address: Unit 3, Cragg Road, Mytholmroyd, Hebden Bridge, West Yorkshire, HX7 5HR, United Kingdom.
+\n\n
+2. The GPX is issued free of charge and is provided "as is," with all faults, defects and errors, and without warranty of any kind.
+\n\n
+3. The accuracy of the trail is not guaranteed, nor are the GPS co-ordinates.
+\n\n
+4. The Trans Euro Trail® is a suggestion not a direction.
+\n\n
+5. The Trans Euro Trail® Community Interest Company does not represent or warrant that materials in the site or the services are accurate, complete, reliable, current or error-free.
+\n\n
+6. The Trans Euro Trail® Community Interest Company cannot represent or warrant that the site or its servers are free of viruses or other harmful components.
+\n\n
+7. You undertake not to share this GPX on any electronic file sharing device or server.
+\n\n
+8. You will download the most recent GPX for your country of travel just before you require it and download updates, if relevant, while travelling.
+\n\n
+9. If you stray onto private land, apologise and get back onto the road or trail.
+\n\n
+10. These trails can be temporarily or permanently closed at short notice under local law.
+\n\n
+11. Do not ride trails beyond your capability. If unsure, get off your bike and walk the trail first. Be prepared to turn round and find an alternative route.
+\n\n
+12. Trail riding alone, especially on trails you do not know, is really unwise.
+\n\n
+13. Many country trails are rarely maintained. You will find ruts, holes, floods, treacherous surfaces and the occasional booby trap hazard deliberately placed by people who do not like motorcycles using trails.
+\n\n
+14. When you use the trails and roads, you are on your own. You exercise your judgement in your own skills and your own navigation. All the Trans Euro Trail® Community Interest Company can do is show you where some of the trails are, but their legality and viability are not confirmed and can change at a moment\'s notice.
+\n\n
+15. You undertake to respect and adhere to road signs, barriers and local laws. The decision to use a road or trail is entirely yours and you accept that you bear full responsibility for your action or any infringements of the law.
+\n\n
+16. The Trans Euro Trail® Community Interest Company shall not have any liability for use of the GPX, directly or indirectly arising out of its use or in any way involving any Claim which is brought in any jurisdiction other than the United Kingdom, Isle of Man or Channel Islands.
+\n\n
+17. Motorcycling carries risks. Adventure motorcycling adds to these:\n
+a. Mobile phone coverage may be patchy or non-existent so summoning help may be limited. If help is summoned it may struggle to reach you and you may incur high costs. Unpaved tracks vary from gravel to broken tar to sand to stone to boulder to grass. Each carries its own challenges of grip, stability and unpredictability all of which vary immensely with weather conditions which can change quickly especially in mountain areas.\n
+b. The physical demands of riding a motorcycle, laden or otherwise, off road are not to be underestimated. If you drop it, picking it up can be hard work and recovering it from a hillside, river or mud hole where it has slipped can be exhausting. Add into the mix the variable climate in Europe - subzero to high 30s and above - and heat, cold and dehydration can impair performance and make a dangerous cocktail when mixed with the complex task of off pavement riding.\n
+c. Navigation can be challenging, especially without practicing using GPS or maps on the move, on the “wrong" side of the road or with signposts in an unfamiliar script.\n
+d. Mechanical issues easily sorted out in one's own garage or home city can become much more of a challenge away from home in an area with poor infrastructure or dealer knowledge. \n
+e. Local adults and children (and animals!) may be unfamiliar with motorcycles or their capabilities and misjudge situations. Driving standards and discipline vary hugely and often the perception is “might is right” with scant regard being paid to the little guy on a motorbike. \n
+f. Local wildlife both domestic and wild can pose risks. Bears and wolves are present in some areas, snakes in others, wild roaming reindeer in the far north and cattle and dogs are all over. \n
+g. Laws and regulations are always changing across the continent, so a trail that contributors thought was legal, may not now be so. This may lead to conflict with the authorities, communities, landowners or other users - anything from a glance, a shout or a waved fist to arrest, prosecution, litigation, bike confiscation, fine or loss of licence or liberty.\n
+h. Concepts and practice of sanitation and hygiene vary immensely and medical facilities can be scarce, suboptimal or distant.\n
+i. The seedier side of humanity can also impact on you through theft, assault or fraud.\n
+j. Be aware that some areas of eastern Europe also have heightened awareness of mobile populations following the influx of refugees so you may come across desperately poor people or wary authorities.\n
+k. In Bosnia, Croatia and other locations the detritus of war still exists in the form of uncleared mine-fields. Snow, water and soil creep all shift these so that straying from established well used trails can be dangerous and, needless to say, stupid.
+\n\n
+18. All trails and roads require you and your motorcycle to be fully insured, licensed and road-worthy.
+\n\n
+19. You should ensure that your paperwork is in order whether it be bike, breakdown or medical/repatriation insurance, licences or passports.
+\n\n
+20. You should get some practice in to build confidence and competence (and respect for your own limits and those of your bike).
+\n\n
+21. You should ensure you are properly equipped with the right tyres, spares, protection, first aid kit, communications devices (and batteries!), luggage and camping gear.
+\n\n
+22. Ride with an awareness of the terrain, surface and in anticipation of unexpected hazards.
+\n\n
+23. Moderate your speed.
+\n\n
+24. Get bike fit. If you’ve got a medical condition then think carefully and take some medical advice.
+\n\n
+25. Start the trip with a travel ready bike. Get familiar with your bike, what daily checks to make and how to fix issues with it.
+\n\n
+26. Take security precautions with your possessions and self.
+\n\n
+27. You agree to adhere to the Trans Euro Trail® Code of Conduct and be an ambassador of responsible motorcycling.
+\n\n
+28. Accept that you are master or mistress of your own destiny, safety, health and security. You take responsibility for whatever happens.</string>
+
+    <!--NOTIFICATION SERVICE-->
+    <string name="notification_trackupdate_title">GPX-Reitin uusi versio saatavilla</string>
+    <string name="notification_trackupdate_message1">Jäljellä on</string>
+    <string name="notification_trackupdate_message2">uutta reittiä.</string>
+
+</resources>
