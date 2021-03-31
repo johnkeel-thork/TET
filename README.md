@@ -45,6 +45,7 @@ https://github.com/johnkeel-thork/TET/blob/master/Privacy.md
 
 
 ## Acknowledgements
+* [CARPE ITER](https://carpe-iter.com) : For being my boss and at the same time sponsors my free-time projects
 * [KayDubbya](https://github.com/KayDubbya) : For being my Sponsor
 * [nezgrath](https://github.com/nezgrath) : For being my Sponsor
 * [raschaa](https://github.com/raschaa) : For being my Sponsor
@@ -53,3 +54,4 @@ https://github.com/johnkeel-thork/TET/blob/master/Privacy.md
 * [LongRideZone](https://www.facebook.com/longridezone) : For the beta testing and translations
 * [ncwp Nico](https://github.com/ncwp) : For translations
 * [antonin-a Antonin](https://github.com/antonin-a) : For translations
+* [samikokkonen](https://github.com/samikokkonen) : For translations
