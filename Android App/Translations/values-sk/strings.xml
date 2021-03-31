@@ -1,7 +1,7 @@
 <resources>
 
-
     <!--NOT TRANSLATED-->
+    <string name="choose_app">Choose App</string>
     <string name="update_track_button">UPDATE</string>
     <string name="preview_track_button">PREVIEW</string>
     <string name="github_page_button">GITHUB PAGE</string>
@@ -10,7 +10,7 @@
     <!--Track Browser-->
     <string name="download_progress">Progress:</string>
     <string name="download_connecting_to_server">Connecting to Server…</string>
-    
+
     <!--News Feed-->
     <string name="news_feed_title">News Feed</string>
     <string name="news_feed_button_text">READ</string>
@@ -27,275 +27,288 @@
     <!--END OF NOT TRANSLATED-->
 
 
-
     <!--COMMON TO ALL VIEWS-->
     <string name="app_name">TET</string>
-    <string name="tet_logo_description">TET LOGGA</string>
-    <string name="top_message_text">Respektera Spåren. Respektera Miljön. Respektera de Samhällen vi reser igenom.</string>
-    <string name="footer_tet_website">Webbsida</string>
-    <string name="footer_tet_contribute">Bidra</string>
+    <string name="tet_logo_description">TET LOGO</string>
+    <string name="top_message_text">Respektujte cestu . berte ohlad na zivotne prostredie . berte ohlad na  komunity cez ktore cestujeme .</string>
+    <string name="footer_tet_website">Webova stranka </string>
+    <string name="footer_tet_contribute">Prispiet </string>
     <string name="ok">OK</string>
-    <string name="Wrong_Activity_Key">Fel nyckel för den här aktiviteten!</string>
-    <string name="Null_Key">Ingen nyckel för att validera den här aktiviteten!</string>
-    <string name="No_Bundle_Extras">Inga paketextra för den här aktiviteten!</string>
-    <string name="cancel">Avbryt</string>
-    <string name="Camera">Kamera</string>
-    <string name="Local_Gallery_File">Galleri</string>
-    <string name="yes">Ja</string>
-    <string name="later">Senare</string>
+    <string name="Wrong_Activity_Key">Nespravne zadanie pre tuto cinnost !</string>
+    <string name="Null_Key">ziadne tlacitko na potvrdenie tejto cinnosti !</string>
+    <string name="No_Bundle_Extras">No bundle extras for this activity!</string>
+    <string name="cancel">storno</string>
+    <string name="Camera">kamera</string>
+    <string name="Local_Gallery_File">Galeria</string>
+    <string name="yes">Ano</string>
+    <string name="later">Neskor</string>
 
     <!--MAIN VIEW-->
     <string name="pending_notification">0</string>
     <!--Button: TET Tracks Browser-->
-    <string name="browser_tet_tracks_title">TET Spår</string>
-    <string name="browser_button_text">BLÄDDRA</string>
-    <string name="browser_image_description">Bläddra TET Spår</string>
+    <string name="browser_tet_tracks_title">Trasa TET</string>
+    <string name="browser_button_text">Priehliadnut</string>
+    <string name="browser_image_description">vyhladat  trasu TET</string>
     <!--Button: Report Route Problems-->
-    <string name="report_route_problem_title">Spårproblem</string>
-    <string name="report_button_text">RAPPORTERA</string>
-    <string name="report_route_image_description">Rapportera Problem med Spår</string>
+    <string name="report_route_problem_title">Problem na trase </string>
+    <string name="report_button_text">poslat spravu </string>
+    <string name="report_route_image_description">oznamit problem na trase </string>
     <!--Button: Community / Share-->
-    <string name="join_title">Gemenskap</string>
-    <string name="join_button_text">ENGAGERA DiG</string>
-    <string name="join_community_image_description">Gemenskap Online</string>
+    <string name="join_title">Komunita</string>
+    <string name="join_button_text">spustit</string>
+    <string name="join_community_image_description">webove forum</string>
     <!--Splash Message-->
-    <string name="tet_splash_message">Europas Storslagna Motorcykeläventyr</string>
-    <string name="touch_to_continue">Tryck för att fortsätta</string>
+    <string name="tet_splash_message">Nezabudnutelne dobrodruztvo na motocykli v europe </string>
+    <string name="touch_to_continue">pokracovat</string>
     <!--END OF MAIN VIEW-->
 
     <!--COMMUNITY VIEW-->
     <!--Button: Facebook Group-->
-    <string name="facebook_tet_group_title">Facebook TET Grupp</string>
-    <string name="facebook_icon_image_description">TET Facebook Bildikon</string>
-    <string name="facebook_description">Möt andra TET-medlemmar och dela upplevelser och erfarenheter</string>
+    <string name="facebook_tet_group_title">TET na facebooku </string>
+    <string name="facebook_icon_image_description">TET Facebook Image Icon</string>
+    <string name="facebook_description">stretni sa s clenmi TET a zdielaj svoje skusenosti </string>
     <!--Button: Online Forum Page-->
-    <string name="tet_forum_title">TET Online Forum</string>
-    <string name="tet_forum_description">Stället för guider, rapporter och diskussioner</string>
-    <string name="tet_forum_icon_image_description">Det officiella TET-forumet online</string>
-    <string name="tet_contribute_image_description">TET Bidrag</string>
+    <string name="tet_forum_title">webove forum TET</string>
+    <string name="tet_forum_description">Miesto pre sprievodcov , oznamy , a spravne debaty </string>
+    <string name="tet_forum_icon_image_description">officialne webove forum TET</string>
+    <string name="tet_contribute_image_description">Podporit TET</string>
     <!--Button: Code of Conduct-->
-    <string name="tet_code_icon_description">Uppförandekod</string>
-    <string name="tet_code_title">Uppförandekod</string>
-    <string name="tet_code_description">Läs om TET:s Uppförandekod på webbsidan</string>
+    <string name="tet_code_icon_description">Pravidla spravania na TET</string>
+    <string name="tet_code_title">Pravidla spravania na TET</string>
+    <string name="tet_code_description">precitajte si pravidla spravania na webovej stranke</string>
     <!--Button: Integrations-->
-    <string name="tet_integration_title">TET Inbyggda Appar</string>
-    <string name="tet_integration_description">Android Appar som integrerar TET Appfunktioner</string>
+    <string name="tet_integration_title">applikacie ktore podporuju TET</string>
+    <string name="tet_integration_description">applikacie ktore podporuju funkcie TET aplikacie </string>
 
     <!--Integration VIEW-->
-    <string name="integration_title">Appar som integrerar med TET Appen</string>
-    <string name="integration_description">När en App integrerar med TET Appens API ökar användarupplevelsen. Det är enkelt, snabbt och smidigt!</string>
-    <string name="integration_example_video">VIDEOEXEMPEL</string>
-    <string name="integration_contact">KONTAKTA OSS</string>
-    <string name="integration_add_yours">Utvecklar du Appar för navigering eller liknande som är relevant för TET? Skulle du vilja integrera med vårt API? Tryck på “Kontakta Oss” och berätta mer! Titta gärna också på exempelvideon. </string>
-    <string name="download">NEDLADDNING</string>
-    <string name="drivemode_title">Drive Mode Dashboard</string>
-    <string name="drivemode_description">En mycket anpassningsbar instrumentbräda för din motorcykel! Skapa reseloggar, navigera i GPX-filer med offline-kartor, spela in GPX-filer, spara och visa platser, få detaljerad väderinformation och mycket, mycket mer.
-Utvecklad av skaparen av TET-appen, syftar till att bli den ultimata TET-lösningen!</string>
+    <string name="integration_title">applikacie ktore podporuju funkcie applikacie TET </string>
+    <string name="integration_description">ked applikacia podpori  TET API, vylepsi sa zazitok uzivatiela , je to jednoduche , rychle , a bezproblemove   !</string>
+    <string name="integration_example_video">video na priklad </string>
+    <string name="integration_contact">kontaktujte nas</string>
+    <string name="integration_add_yours">ste developerom applikacie  na navigovanie alebo inak prislusnej applikacie ku applikacii TET ? chceli by ste integrovat nase API ? kontaktujte nas a povedzte nam o tom ! Pozrite si nase video !</string>
+    <string name="download">stiahnut</string>
+    <string name="drivemode_title">pristrojova doska v rezime jazdy </string>
+    <string name="drivemode_description">pristrojova doska z mnohymi nastaveniami pre vasu motorku . vytvorte si zaznam trasy , navigujte subory GPX bez internetu , nahrajte subory GPX , zaznamejte a pozrite si body polohy , prezrite si podrobne informacie o pocasi a ovela ovela viac . vybudovane tvorcom aplikacie TET , tato pristrojova doska sa snazi byt konecnym riesenim navigovania TET , </string>
 
     <!--CONTRIBUTE VIEW-->
-    <string name="contribute_title">Gör ditt första tankstopp här&#8230;</string>
-    <string name="contribute_subtitle">Trans Euro Trail® drivs av passion, underhålls av förare och stöds av DIG. Det bästa av allt är att det är gratis och avser att fortsätta vara så!</string>
-    <string name="contribute_text_button">LÄS MER</string>
-    <string name="contribute_buy_merch">KÖP MERCH</string>
-    <string name="contribute_app_developer">BIDRA TILL APPEN</string>
-    <string name="contribute_options_text">Det här är sätten du kan hjälpa TET-projektet på:</string>
+    <string name="contribute_title">pred jazdou natankujte tu &#8230;</string>
+    <string name="contribute_subtitle">Trans Euro Trail® jazdi na vasen , ktora je udrziavana jazdcami  a podporovana VAMI . najlepsie na tom je to ze je to zadarmo a malo by to tak zostat !</string>
+    <string name="contribute_text_button">precitajte si viac</string>
+    <string name="contribute_buy_merch">obchod z vecami TET</string>
+    <string name="contribute_app_developer">prispiet APP</string>
+    <string name="contribute_options_text">takto sa da podporit projekt TET:</string>
 
 
     <!--REPORT TRACK PROBLEM VIEW-->
-    <string name="title_activity_maps">Karta</string>
-    <string name="marker_report_location">Rapportera den här Platsen</string>
-    <string name="map_instructions">Tryck och håll ner var som helst på kartan för att placera en markör på den platsen. Klicka på korshårikonen i det övre högra hörnet för att hoppa till din nuvarande plats. Om du är i offline-läge, se till att du är fysiskt placerad på problemplatsen och har en giltig GPS-signal.</string>
-    <string name="error_fetching_countryname_title">Fel vid hämtning av landets namn</string>
-    <string name="error_fetching_countryname_message">Vi kan inte hämta ditt landsnamn. Välj land manuellt i nästa steg.</string>
-    <string name="report_second_step_next">NÄSTA STEG</string>
-    <string name="report_step2_title">Rapportera spårproblem</string>
-    <string name="report_location_text">Koordinater:</string>
-    <string name="report_finish_next">NÄSTA STEG</string>
+    <string name="title_activity_maps">Mapa</string>
+    <string name="marker_report_location">nahlasit problem v tomto mieste </string>
+    <string name="map_instructions">podržte hocikde na mape a označte miesto . aby ste skočili na miesto v ktorom momentalne ste , stlacte tercikovu ikonku hore vpravo . ak ste v rezime bez internetu offline , mali by ste byt presne v tom mieste problemu a skontolujte ci mate  dobry signal gps.</string>
+    <string name="error_fetching_countryname_title">chyba nacitania krajiny </string>
+    <string name="error_fetching_countryname_message">neni mozne nacitat krajinu , zvolte krajinu manualne v dalsom kroku.</string>
+    <string name="report_second_step_next">dalej</string>
+    <string name="report_step2_title">poslat spravu o probleme na trati </string>
+    <string name="report_location_text">suradnice:</string>
+    <string name="report_finish_next">dalej</string>
     <string name="linesman_name">Linesman:</string>
     <string name="linesman_email">e-mail</string>
-    <string name="problem_input_description">Tryck här för att skriva en liten beskrivning om problemet</string>
-    <string name="problem_input_box_title">Rapportbeskrivning</string>
-    <string name="Track_Country_Text">TET-spår Land:</string>
-    <string name="Track_Problem_Text">TET-spår Problemtyp:</string>
-    <string name="Error_Starting_Report">Fel vid start av rapport</string>
-    <string name="ConfirmCountry">Bekräfta landets namn</string>
-    <string name="Manually_Select_Country">Det går inte att upptäcka landets namn automatiskt. Välj land manuellt för det TET-spår du rapporterar!</string>
-    <string name="submit_title_text">Skicka in spårproblemrapport</string>
-    <string name="report_resume_text">Valt Spår:</string>
-    <string name="the_problem_is">Problemtyp:</string>
-    <string name="problem_at">Problemkoordinater:</string>
-    <string name="report_submit">SKICKA IN</string>
-    <string name="Add_Photo_Title">Lägg till Foto till Rapporten:</string>
-    <string name="No_Camera_Permission_Title">Tillstånd att använda kameran krävs</string>
-    <string name="No_Camera_Permission_Message">För att använda din kamera måste du acceptera begäran om kameratillstånd!</string>
-    <string name="camera_request_again">Begär igen</string>
-    <string name="no_camera_available_title">Ingen Kamera Tillgänglig</string>
-    <string name="no_camera_available_message">Antingen har din enhet ingen kamera eller så har du ingen kamera-app installerad!</string>
-    <string name="photo_to_be_submited">Foto att skicka:</string>
-    <string name="photo_source">Välj fotokälla</string>
-    <string name="photo_source_message">Ta ett foto med din kamera eller välj en lokal fil från ditt galleri?</string>
-    <string name="report_submited_success_title">Din rapport levererades!</string>
-    <string name="report_submited_success_message">Tack för att du skickat in din spårproblemrapport, vi kommer att vidta åtgärder så snart som möjligt.</string>
-    <string name="error_restart_title">Något gick fel!</string>
-    <string name="error_restart_message">Försök skapa en rapport igen!</string>
-    <string name="error_upload_later_title">Kunde inte ansluta till servern</string>
-    <string name="error_upload_later_message">Den här loggen sparas och skickas in när det är möjligt att ansluta till servern.</string>
-    <string name="No_Internet_title">Offline-rapportläge</string>
-    <string name="No_Internet_message">Det finns ingen internetuppkoppling, men det går bra, kartan visas kanske inte korrekt men din plats kommer fortfarande att sparas. Loggen sparas också som en väntande rapport och skickas när du har tillgång till Internet.</string>
-    <string name="pending_report_title_1">Du har</string>
-    <string name="pending_report_title_2">väntande rapporter</string>
-    <string name="pending_report_message">Vill du skicka in dem nu?</string>
-    <string name="pending_success_title">Väntande rapporter har skickats!</string>
-    <string name="pending_success_message">Du har skickat in alla dina väntande rapporter, tack.</string>
-    <string name="pending_error_title">Fel vid inskickande av rapport!</string>
-    <string name="pending_error_message">Något gick fel när du försökte skicka in din rapport, försök igen senare.</string>
-    <string name="storage_permissions_title">Lagringstillstånd krävs</string>
-    <string name="storage_permissions_message">För att spara ett foto till en rapport måste du acceptera begäran om lagringstillstånd!</string>
-    <string name="map_style_description">Välj kartstil</string>
-    <string name="map_style_dialog_title">Välj kartstil</string>
-    <string name="using_sats">Använder sig av</string>
-    <string name="satas_out_of">satelliter av</string>
-    <string name="available_in_view">tillgängligt i vyn</string>
-    <string name="gps_accuracy">GPS-noggrannhet</string>
-    <string name="gps_accuracy_message_wait">Vänligen vänta på bättre GPS-noggrannhet för att använda din plats i rapporten!</string>
-    <string name="gps_accuracy_message_not_bad">GPS-noggrannheten bör vara tillräcklig för att använda din plats i rapporten.</string>
-    <string name="gps_accuracy_message_good">GPS-noggrannheten är bra, du kan använda din plats i rapporten!</string>
-    <string name="no_location_selected_title">Ingen plats vald</string>
-    <string name="no_location_selected_message">Tryck och håll ner var som helst på kartan för att markera rapportplatsen eller klicka på korshårknappen i det övre högra hörnet för att välja din aktuella plats.</string>
-    <string name="no_message_no_photo_title">Ingen Beskrivning eller Foto!</string>
-    <string name="no_message_no_photo_message">Du skrev inte någon beskrivning och du lägger inte till något foto, det gör det mycket svårt för oss att identifiera problemet, överväg att skriva något eller lägga till ett foto!</string>
-    <string name="track_length">Spårlängd:</string>
+    <string name="problem_input_description">tu stlacte a strucne popiste problem </string>
+    <string name="problem_input_box_title">popis problemu </string>
+    <string name="Track_Country_Text">TET trat krajiny :</string>
+    <string name="Track_Problem_Text">TET kategoria problemu :</string>
+    <string name="Error_Starting_Report">stala sa chyba pri nacitani</string>
+    <string name="ConfirmCountry">prosim potvrdit krajinu</string>
+    <string name="Manually_Select_Country">Neni mozne nacitat krajinu , prosim zvolte krajinu trate TET,na ktorej je problem !</string>
+    <string name="submit_title_text">odoslat spravu o probleme</string>
+    <string name="report_resume_text">zobrazena trat:</string>
+    <string name="the_problem_is">kategoria problemu:</string>
+    <string name="problem_at">suradnice problemoveho bodu :</string>
+    <string name="report_submit">odoslat</string>
+    <string name="Add_Photo_Title">ku sprave pridat fotografiu</string>
+    <string name="No_Camera_Permission_Title">povolenie na pristup ku kamere</string>
+    <string name="No_Camera_Permission_Message">aby ste mohli pouzit kameru musite dat suhlas k pouzivaniu kamery !</string>
+    <string name="camera_request_again">vyziadat znovu</string>
+    <string name="no_camera_available_title">nenasla sa kamera</string>
+    <string name="no_camera_available_message">vase zariadenie nema kameru alebo nemate nainstalovanu applikaciu kamery !</string>
+    <string name="photo_to_be_submited">poslat fotografiu</string>
+    <string name="photo_source">vyberte si subor fotografii</string>
+    <string name="photo_source_message">odfotit kamerou alebo zvolte fotografiu v galerii?</string>
+    <string name="report_submited_success_title">vasa sprava bola odoslana!</string>
+    <string name="report_submited_success_message">dakujeme za nahlasenie problemu. budeme sa snazit najst riesenie hned ako to bude mozne.</string>
+    <string name="error_restart_title">nieco sa pokazilo </string>
+    <string name="error_restart_message">prosim vyskusajte vytvorit hlasenie znova</string>
+    <string name="error_upload_later_title">nebolo mozne odoslat spravu do databazy</string>
+    <string name="error_upload_later_message">tato sprava bude ulozena a odoslana do databazy hned ako bude mozne sa spojist z databazou</string>
+    <string name="No_Internet_title">rezim nahlasenia problemu bez internetu offline </string>
+    <string name="No_Internet_message">nenašlo sa pripojenie na internet, ale je to v poriadku , mapa nemusi byt dobre zobrazená , ale vase suradnice budu zaznamenane , vasa sprava bude zaznamenaná, a hned ako sa najde internetové pripojenie bude sprava odoslana .</string>
+    <string name="pending_report_title_1">mate</string>
+    <string name="pending_report_title_2">neodoslanych hlaseni</string>
+    <string name="pending_report_message">odoslat neodoslane hlasenia teraz ?</string>
+    <string name="pending_success_title">neodoslane hlasenia odoslane!</string>
+    <string name="pending_success_message">vsety neodoslane hlasenia boli uspesne poslane.</string>
+    <string name="pending_error_title">stala sa chyba </string>
+    <string name="pending_error_message">stala sa chyba pri odosielani hlasenia , prosim vyskusajte neskôr</string>
+    <string name="storage_permissions_title">povolenie na ulozenie</string>
+    <string name="storage_permissions_message">aby ste mohli ulozit fotografiu z hlasenia musite potvrdit poziadavku na ulozenie .</string>
+    <string name="map_style_description">vybrat styl mapy</string>
+    <string name="map_style_dialog_title">vybrat styl mapy</string>
+    <string name="using_sats">pouzivaju sa</string>
+    <string name="satas_out_of">satelity</string>
+    <string name="available_in_view">dostupne</string>
+    <string name="gps_accuracy">presnost GPS</string>
+    <string name="gps_accuracy_message_wait">prosim pockajte na lepsiu presnost GPS!</string>
+    <string name="gps_accuracy_message_not_bad">presnost GPS by mala byt dostacujuca na odoslanie hlasenia.</string>
+    <string name="gps_accuracy_message_good">presnost vasej polohy gps je dostacujuca , mozte pouzit vasu polohu na odoslanie!</string>
+    <string name="no_location_selected_title">nebola zvolena poloha</string>
+    <string name="no_location_selected_message">podržte hocikde na mape a označte miesto . aby a mapa presunula na miesto v ktorom momentalne ste , stlacte tercikovu ikonku hore vpravo .</string>
+    <string name="no_message_no_photo_title">chyba vas  popis a fotografia!</string>
+    <string name="no_message_no_photo_message">nenapisali ste popis problemu , a nepridali ste ziadnu fotku , pre nas to je velmi tazke zistit aky to je problem , prosim popiste problem and pridajte fotku </string>
+    <string name="track_length">Track length:</string>
 
 
     <!--TRACK BROWSER-->
-    <string name="track_browser_title">Spårutforskare</string>
-    <string name="tracks_view_subtitle">Spårinformation</string>
-    <string name="open_track">ÖPPNA SPÅR</string>
-    <string name="generating_list">Genererar Lista</string>
-    <string name="delete_local_file">TA BORT FIL</string>
-    <string name="gpx_open_dialog">Laddar GPX-fil</string>
-    <string name="fetching_country_list">Hämtar Lista på Länder</string>
-    <string name="track_download_progress">Laddar Ned Spår</string>
-    <string name="track_browser_noInternet_title">Ingen Anslutning - Offlineläge</string>
-    <string name="track_browser_noInternet_message">Det finns ingen internetåtkomst eller det uppstod ett problem med anslutningen till servern. Du kan bara se dina tidigare nedladdade spår (lokala filer).</string>
-    <string name="track_download_offline_title">Nedladdade Spår</string>
-    <string name="track_download_offline_subtitle">Bläddrar tidigare nedladdade filer i offline-läge.</string>
-    <string name="track_last_updated">Spår senast uppdaterat den</string>
-    <string name="no_offline_files">Inga GPX-spår hittades!</string>
-    <string name="track_updates_available_title">Det finns spåruppdateringar tillgängliga!</string>
-    <string name="track_updates_available_message">Vill du uppdatera dem nu?</string>
-    <string name="updating_tracks">Uppdatera dina lokala GPX-spår</string>
-    <string name="track_updated_success_title">GPX-spår uppdaterade</string>
-    <string name="track_updated_success_message">Lokala GPX-fil(er) uppdaterade för: </string>
-    <string name="track_updated_error_title">GPX-spåruppdatering misslyckades</string>
-    <string name="track_updated_error_message">Det uppstod ett fel vid uppdatering av dina spår, försök igen senare.</string>
-    <string name="track_view_start_error_title">Fel vid start av aktivitet</string>
-    <string name="track_view_start_error_message">Det gick inte att starta den här aktiviteten, försök igen!</string>
-    <string name="track_delete_success_title">Lokal GPX-fil raderad</string>
-    <string name="track_delete_success_message">Den lokala GPX-filen för detta land raderades, du kan alltid ladda ner den igen senare!</string>
-    <string name="track_delete_error_title">Fel vid borttagning av lokal GPX-fil</string>
-    <string name="track_delete_error_message">Det gick inte att ta bort din lokala fil, försök igen!</string>
-    <string name="track_download_error_title">Filnedladdningsfel</string>
-    <string name="track_download_error_message">Det gick inte att ladda ner GPX-filen, försök igen senare.</string>
-    <string name="gpx_parse_error_title">Fel vid öppning av GPX-fil</string>
-    <string name="gpx_parse_error_message">Det verkar vara problem med att läsa GPX-filen. Försök öppna den igen!</string>
-    <string name="gpx_open_noapp_title">Ingen kompatibel app installerad</string>
-    <string name="gpx_open_noapp_message">Det finns ingen app som kan hantera GPX-filer, installera en från Play Store.</string>
-    <string name="disclaimer_DontShowAgain">Visa inte igen</string>
-    <string name="no_permissions_title">Inget GPS-tillstånd</string>
-    <string name="no_permissions_message">Detta fungerar inte utan GPS-tillstånd. FYI samlar vi INGEN användardata!</string>
-    <string name="disclaimer_title">Läs det här innan du laddar ner</string>
-    <string name="disclaimer_agree">Godkänner</string>
-    <string name="disclaimer_agree_dontshow">Godkänner &amp; visa aldrig</string>
-    <string name="disclaimer_refuse">Neka</string>
-    <string name="zoom_mode_enabled">Zoomläge aktiverat</string>
-    <string name="pan_mode_enabled">Pan-läge aktiverat</string>
-    <string name="filter">Filtrera</string>
-    <string name="track_section">Spårsektion</string>
-    <string name="section">Sektion</string>
-    <string name="options">Inställningar</string>
-    <string name="dialog_remove_section">Ta bort detta spår eller gör det till det enda synliga spåret?</string>
-    <string name="remove">Ta bort</string>
-    <string name="only_visible">Enda synliga</string>
-    <string name="rebuilding_waypoints">Bygger om waypoints</string>
-    <string name="rebuild_waypoints">Bygg om Waypoints</string>
-    <string name="remove_waypoints_dialog_title">Ta bort waypoints utanför synliga sektioner?</string>
-    <string name="remove_waypoints_dialog_message">Detta kommer att rensa alla waypoints och ta bort alla som inte längre är nära synliga sektioner</string>
-    <string name="no">Nej</string>
-    <string name="export_edited_gpx">Exporterar den redigerade GPX filen</string>
-    <string name="choose_app">Välj App</string>
-    <string name="disclaimer_message">Genom att fortsätta till nedladdningen och använda Trans Euro Trail®-filerna accepterar du och godkänner allt nedan.
+    <string name="filter">Filter</string>
+    <string name="track_section">usek trate </string>
+    <string name="section">usek</string>
+    <string name="options">moznosti</string>
+    <string name="dialog_remove_section">zrusit zobrazenie tohto useku alebo zobrazit iba tento usek ?</string>
+    <string name="remove">zrusit zobrazenie</string>
+    <string name="only_visible">zobrazit iba tento usek</string>
+    <string name="rebuilding_waypoints">vybudovat body prejazdu waypoints odznova</string>
+    <string name="rebuild_waypoints">vybudovat  waypoints</string>
+    <string name="remove_waypoints_dialog_title">zrusit zobrazenie bodou prejazdu waypoints mimo zobrazeneho useku  trate</string>
+    <string name="remove_waypoints_dialog_message">tato funkcia vyberie von  vsetky waypoints, ktore niesu v blizkosti vsetkych zobrazenych usekov</string>
+    <string name="no">No</string>
+    <string name="export_edited_gpx">odosielam upraveny subor gpx</string>
+    <string name="track_browser_title">prehliadac usekov</string>
+    <string name="tracks_view_subtitle">informacie o trati </string>
+    <string name="open_track">otvorit trat </string>
+    <string name="generating_list">vytvaram list </string>
+    <string name="delete_local_file">zmazat subor</string>
+    <string name="gpx_open_dialog">nacitat gpx subor</string>
+    <string name="fetching_country_list">nacitavam krajiny</string>
+    <string name="track_download_progress">stahujem trat</string>
+    <string name="track_browser_noInternet_title">nie je internet , offline</string>
+    <string name="track_browser_noInternet_message">nieste pripojeny k internetu , alebo sa vyskytol problem pri pripojeni k serveru , je mozne zobrazit iba trate,ktore su uz stiahnute vo vasom zariadeni .</string>
+    <string name="track_download_offline_title">zoznam stiahnutych trati</string>
+    <string name="track_download_offline_subtitle">prehliadanie suborov,ktore su uz stiahnute v rezime.</string>
+    <string name="track_last_updated">trat bola naposledy upravena</string>
+    <string name="no_offline_files">nenasli sa ziadne gpx pre trat !</string>
+    <string name="track_updates_available_title">su k dispozicii aktualizacie trate !</string>
+    <string name="track_updates_available_message">chcete teraz  nainstalovat aktualizacie trate?</string>
+    <string name="updating_tracks">aktualizujem vase GPX trate </string>
+    <string name="track_updated_success_title">GPX trate boli aktualizovane</string>
+    <string name="track_updated_success_message">Lokalne GPX file(s) aktualizovane pre: </string>
+    <string name="track_updated_error_title">zlyhala aktualizacia trate </string>
+    <string name="track_updated_error_message">chyba aktualizacie , prosim vyskusajte aktualizaciu znova </string>
+    <string name="track_view_start_error_title">chyba</string>
+    <string name="track_view_start_error_message">chyba , pozadovana funkcia sa nespustila . skuste znova!</string>
+    <string name="track_delete_success_title">gpx subor zmazany</string>
+    <string name="track_delete_success_message">GPX subor tejto krajiny bol zmazany . mozte si ho kedykolvek stiahnut znova!</string>
+    <string name="track_delete_error_title">chyba zmazania trate GPX</string>
+    <string name="track_delete_error_message">chyba zmazania suboru GPX trate , skuste zmazat subor znova</string>
+    <string name="track_download_error_title">chyba stiahnutia suboru</string>
+    <string name="track_download_error_message">chyba pri stahovani suboru GPX , vyskusajte stiahnut subor znova.</string>
+    <string name="gpx_parse_error_title">chyba , subor nebolo mozne otvorit</string>
+    <string name="gpx_parse_error_message">system ma problem precitat GPX subor , vyskusajte ho otvorit odznova!</string>
+    <string name="gpx_open_noapp_title">nenasla sa aplikacia,ktora dokaze otvorit tento subor</string>
+    <string name="gpx_open_noapp_message">nenasla sa tu ziadna applikacia,ktora dokaze otvorit GPX subory , najdite applikaciu v play store a naistalujte si ju.</string>
+    <string name="disclaimer_DontShowAgain">uz nezobrazovat </string>
+    <string name="no_permissions_title">chyba povolenie na GPS</string>
+    <string name="no_permissions_message">tuto funkciu nie je mozne pouzivat bez povolenia na GPS .My nezhromazdujeme ziadne uzivatelske data !
+ </string>
+    <string name="disclaimer_title">predtým ako si stiahnete subor si prečítajte toto</string>
+    <string name="disclaimer_agree">suhlasim</string>
+    <string name="disclaimer_agree_dontshow">Agree &amp; never show</string>
+    <string name="disclaimer_refuse">odmietnut</string>
+    <string name="zoom_mode_enabled">rezim zvacsenia </string>
+    <string name="pan_mode_enabled">Pan Mode Enabled</string>
+    <string name="disclaimer_message">tym ze si stiahnete subor , a tym ze subor Trans Euro Trail®  pouzijete , súhlasíte s uplne vsetkymi pravidlami ktore su napisane tu .
 \n\n
-1. GPX utfärdas av Trans Euro Trail® Community Interest Company, Company No. 11371199, Address: Unit 3, Cragg Road, Mytholmroyd, Hebden Bridge, West Yorkshire, HX7 5HR, United Kingdom.
+1. vydavatelom tychto GPX suborov je Trans Euro Trail® Community Interest Company, Company No. 11371199, Address: Unit 3, Cragg Road, Mytholmroyd, Hebden Bridge, West Yorkshire, HX7 5HR, United Kingdom.
 \n\n
-2. GPX utfärdas gratis och tillhandahålls "som den är" med alla eventuella fel och utan garanti av något slag.
+2. GPX subor je vydany bezplatne , a je vydany bez akychkolvek zaruk , bez zaruky a moze byt chybny , mat rozne chyby , a neni zarucene,ze je dobry a funkcny a spolahlivy ,  subory su vydane , tak ako su , nezarucene .
 \n\n
-3. Spårets noggrannhet garanteras inte och inte heller GPS-koordinaterna.
+3. presnost GPS suradnic , ani presnost trate neni zarucena .
 \n\n
-4. Trans Euro Trail® är ett förslag och inte ett direktiv.
+4. Trans Euro Trail® trat je iba navrh  a nie presny  smer
 \n\n
-5. Trans Euro Trail® Community Interest Company representerar eller garanterar inte att material på webbplatsen eller tjänsterna är korrekta, fullständiga, pålitliga, aktuella eller felfria.
+5. Trans Euro Trail® Community Interest Company ( firma TRANS EURO TRAIL ) nezodpovedá ani nezaručuje, že materiály na webe alebo v službách sú presné, úplné, spoľahlivé, aktuálne alebo bez chýb.
+
 \n\n
-6. Trans Euro Trail® Community Interest Company kan inte representera eller garantera att webbplatsen eller dess servrar är fria från virus eller andra skadliga komponenter.
+6. The Trans Euro Trail® Community Interest Company
+nemôže vyhlasit alebo zaručiť, že nas web alebo jeho servery neobsahujú vírusy alebo iné škodlivé komponenty ktore mozu poskodit vase zariadenie.
+
 \n\n
-7. Du åtar dig att inte dela denna GPX på någon elektronisk fildelningsenhet eller server.
+7. Zaväzujete sa, že nebudete zdieľať tieto GPX subory na žiadnom zariadení alebo serveri na verejne zdieľanie elektronických súborov.
+
 \n\n
-8. Du kommer att ladda ner den senaste GPX för det land du skall resa i precis innan du behöver den och hämta uppdateringar, i förekommande fall, medan du reser.
+8. Najnovšiu verziu GPX pre svoju krajinu cestovania si stiahnete tesne pred tým, ako ju budete potrebovať, a počas cestovania si stiahnite aktualizácie .
 \n\n
-9. Om du finner dig på privat mark, be om ursäkt och gå tillbaka till vägen eller spåret.
+9. ak zabludite na sukromny pozemok , ospravedlnte sa a vrate sa na cestu alebo trat
 \n\n
-10. Dessa spår kan tillfälligt eller permanent stängas med kort varsel enligt lokal lag.
+10.Tieto trasy môžu byť podľa miestnych zákonov dočasne alebo trvalo zatvorené bez toho ze miestne urady to oznamia .
+.
 \n\n
-11. Kör inte på spår som är över din förmåga. Om du är osäker, gå av motorcykeln och gå spåret först. Var beredd att vända om och hitta en alternativ väg.
+11. neprecenujte svoje schopnosti pri jazde  .  ked nie ste si isty ze trat zvladnete , prejdite si trat najprv  peši , a buďte pripravení na to ze si budete musiet najst inu trat alebo obchadzku , nakolko trat moze byt neprejazdná , alebo obtiažna a neni zarucene ze budete schopný trat prejst . \n\n
+12.nieje to moc mudre  jazdit po trasach sam , a specialne jazdit sam po neznamych trasach
 \n\n
-12. Köra på stigar ensam, särskilt på stigar du inte känner, är verkligen oklokt.
+13. mnohé vidiecke cesty a chodniky nie su udrziavane . najdete tu vyjazdne kolaje , diery , vymoly , diery vyplavene od vody , nebezpecny povrch a rôzne pasce, ktoré úmyselne umiestnia ľudia, ktorí nemajú radi motocykle.
+
 \n\n
-13. Många stigar underhålls sällan. Du hittar spår, hål, översvämningar, förrädiska ytor och enstaka förekommande faror avsiktligt placerade av människor som inte gillar motorcyklar som använder stigar.
+14. trate , cesty a chodniky pouzivate na vlastnu zodpovednost . Svoj úsudok vykonávate podľa svojich vlastných schopností a vlastnej navigácie. Trans Euro Trail® Community Interest Company vam moze iba ukázať kde tieto cestičky a trate sú , ale nemoze vam zarucit, ze tieto trate, chodníky a cesty su povolene na prejazd , nakolko zakazy sa mozu vyskytnut bez akéhokoľvek upozornenia a hocikedy .
+
 \n\n
-14. När du använder dessa spår och vägar är du själv. Du använder ditt egna goda omdöme, färdigheter och din egen navigering. Allt Trans Euro Trail® Community Interest Company kan göra är att visa dig var några av spåren är, men deras laglighet och livskraft bekräftas inte och kan ändras när som helst.
+15.
+Zaväzujete sa rešpektovať a dodržiavať dopravné značky, respektovat bariéry  a miestne zákony. Rozhodnutie o použití cesty alebo chodníka je úplne na vás a súhlasíte s tým, že nesiete plnú zodpovednosť za svoje konanie alebo akékoľvek porušenie zákona.
+ \n\n
+16. firma  Trans Euro Trail® Community Interest Company nezodpovedá za používanie GPX suborov , nezodpoveda priamo ani nepriamo za akekolvek situacie vyplývajúce z jeho použitia alebo akýmkoľvek inym spôsobom zahŕňajúcim akýkoľvek nárok vznesený k sudu v  jurisdikcii UK United Kingdom, isle of  Man alebo channel islands.
+
 \n\n
-15. Du åtar dig att respektera och följa vägmärken, hinder och lokala lagar. Beslutet att använda en väg eller ett spår är helt ditt och du accepterar att du bär det fulla ansvaret för din handling eller ev. överträdelser av lagen.
+17.
+Jazdenie na motorke je nebezpecne a rizikove . Jazdenie na dobrodruznych (adventure) motorkach je extra nebezpečné a rizikové a tieto k tomu pridavaju:\n
+siet pokrytia mobilnych telefonov moze byt slaba alebo aj neexistujuca .Ak je predvolaná pomoc, môže byť ťažké sa k vam dostat a môžu vám vzniknúť vysoké finančné náklady. Trat moze byt zostavena zo spevnenych a nespevnených ciest a chodníkov, ktore mozu byt z polamaneho asfaltu, kamienkov, štrku  , piesku , velkeho kamena, blata alebo travy . každý druh povrchu je iny a problem udržania motorky rozlisny , a podmienky sa menia rýchlo a predvídavo z pocasim , specialne na horach . \n
+b.jazda terénom na motorke je fyzicky namahava , a nemalo by byt podcenena , ak vam motorka spadne , zdvihnúť ju moze byt velmi namahave , ak vam motorka spadne do rokliny alebo dole kopcom , do rieky alebo do blata ,  vytiahnutie moze extremne namahave . ak sa do toho prida pocasie , kde teploty mozu byt od minus do plus 30 stupňov celzia a viac , zima , horúco a dehydratácia mozu tazko ovplyvniť vase schopnosti . toto je velmi nebezpecny koktail ktory je spojený z jazdením na motocykli terénom .\n
+c.
+Navigácia môže byť náročná, najmä bez precvičovania navigacie pouzivanim gps alebo máp na cestách, na „zlej“ ceste alebo so značkami, ktore nepoznate .
+.\n
+d. poruchy, ktore su uplne banálne a lahko opravitelne vo vašej vlastnej garazi , alebo doma, v meste kde poznate vsetky servisy a garaze moze byt ovela ťažšie a zložitejšie v krajine  a terene, ktory nepoznate , nepoznate servisy alebo kde nie je ziadny servis k dispozícii  . \n
+e.Miestni ludia aj  dospelí a deti (a zvieratá!) Nemusia byť oboznámení s motocyklami alebo ich schopnosťami a nesprávnymi odhadmi situácie. Vodičské štandardy a disciplína sa veľmi líšia a vnímanie je často „možno má pravdu“, pričom chalanovi na motorke nevenuje nedostatočná pozornosť. \n
+f. zvierata , aj dive aj domace predstavujú nebezpečenstvo . V niektorych oblastiach najdete medvede a vlky , v inych oblastiach zase hady , soby najdete vysoko na severe a kravy ovce a psy su uplne vsade. \n
+g.zakony a nariadenia sa stale menia všade na celom kontinente , cesta alebo chodnik , o ktorom si tvorcovia myslel, ze jej prejazd je povolený , teraz moze byt jeho prejazd zakázaný . taketo situacie mozu vyvolat konflikt z uradmi , policiou , komunitami , vlastníkmi pôdy a inými pouzivatelmi . moze to byt skaredy  pohlad , výkrik , pohrozenie alebo hrozba pastou az po zatknutie , zhabanie vasho motocykla , odobratie vodicskeho preukazu alebo  odnatie slobody .\n
+h. nemocnice a ich hygiena  nemusia byt takej kvality na akú ste zvyknutý  alebo mozu byt  daleko .\n
+i.pocitajte s tym ze mozete byt napadnuty , okradnuty .\n
+j. treba si byt vedomi toho ze v niektorych oblastiach vychodnej europy sa pohybuju populácie migrantov , moze sa stat ze narazíte na zufalo chudobnych ludi a opatrne urady.\n
+k. V bosne , chorvátsku a inych oblastiach su pozostatky vojny vo forme nevybuchnutych min .  je mozne ze Sneh , voda , a posuvy pody posunu tieto miny  a jazdenie mimo ojazdenych ciest a chodníkov moze byt velmi nebezpecne , smrtelne , a jednoducho povedané hlupe.
 \n\n
-16. The Trans Euro Trail® Community Interest Company ska inte ha något ansvar för användning av GPX, direkt eller indirekt till följd av dess användning eller på något sätt som involverar något krav som föras i någon annan jurisdiktion än the United Kingdom, Isle of Man eller Channel Islands.
+18. na  vsetkych tratiach cestach a chodnikoch musite mat vodicsky preukaz , technicky preukaz a poistenie a vasa motorka by mala byť v dobrom stave , schopna jazdy  .
 \n\n
-17. Motorcykling medför risker. Äventyrsmotorcykling lägger till dessa:\n
-a. Mobiltelefontäckningen kan vara ojämn eller obefintlig så möjligheten att ringa efter hjälp kan vara begränsad. Om hjälp tillkallas kan de få svårt att nå fram till dig och du kan få stå för stora kostnader. Vägar utanför vägnätet varierar från grus till trasig tjära till sand till sten till stenblock till gräs. Var och en står för sina egna utmaningar med grepp, stabilitet och oförutsägbarhet som alla varierar oerhört med väderförhållanden som kan förändras snabbt särskilt i bergsområden.\n
-b. De fysiska kraven på att köra på en motorcykel, lastad eller eller inte, offroad ska inte underskattas. Om du tappar den kan det vara svårt att plocka upp den. Situationer som kraftig sluttning, flod eller lerahål kan vara väldigt utmanande. Lägg till blandningen av det variabla klimatet i Europa - subzero till höga 30-tal och över - och värme, kyla och uttorkning kan försämra hälsan och utgöra en farlig blandning när den kombineras med den komplexa uppgiften att köra motorcykel.\n
-c. Navigering kan vara utmanande, speciellt utan att öva med att använda GPS eller kartor under resan, på "fel" sida av vägen eller med skyltar på ett okänt språk.\n
-d. Mekaniska problem som enkelt kan fixas i ett eget garage eller hemstad kan bli mycket mer av en utmaning hemifrån i ett område med dålig infrastruktur eller återförsäljarkunskap. \n
-e. Lokala vuxna och barn (och djur!) kanske inte känner till motorcyklar eller deras kapacitet och kan felbedöma situationer. Körstandarder och disciplin varierar enormt och ofta med uppfattningen "störst går först" med liten hänsyn till den lilla föraren på en motorcykel. \n
-f. Lokala vilda djur och husdjur kan utgöra risker. Björnar och vargar finns i vissa områden, ormar i andra, vilda vandrande renar i norr och nötkreatur och hundar finns överallt. \n
-g. Lagar och förordningar förändras hela tiden över kontinenten, så ett spår som bidragsgivarna tyckte var lagligt, kanske inte är det nu. Detta kan leda till konflikt med myndigheter, samhällen, markägarna eller andra användare - allt från ett ögonkast, ett skrik eller en knytnäve till gripande, åtal, tvister, konfiskering av motorcykel, böter eller förlust av licens eller frihet.\n
-h. Standard och tillgänglighet av sanitet och hygien varierar oerhört och medicinska anläggningar kan vara knappa, suboptimala eller avlägsna.\n
-i. Mänsklighetens mörkare sidor kan också påverka dig genom stöld, övergrepp eller bedrägeri.\n
-j. Var medveten om att vissa områden i Östeuropa också har ökat medvetenheten om befolkningar i rörelse efter tillströmningen av flyktingar så att du kan stöta på fattiga desperata människor eller myndigheter som är på sin vakt.\n
-k. I Bosnien, Kroatien och andra platser finns spår av i kriget fortfarande kvar i form av oröjda minfält. Snö, vatten och jord kan göra dessa svåra att se, så att avvika från etablerade väl använda spår kan vara farligt och, onödigt att säga, dumt.
+19.
+Mali by ste sa ubezpečiť, že vaša dokumentácia je v poriadku, či ide o motocykel, poruchove alebo zdravotné poistenie, licencie alebo cestovne pasy.
+
 \n\n
-18. Alla spår och vägar kräver att du och din motorcykel är helt försäkrade, licensierade och vägvärda.
+20. mali by ste mat natrenovane budovanie sebavedomia a kompetencie a poznať svoje hranice a hranice vašej motorky .
 \n\n
-19. Du bör se till att alla papper är i ordning oavsett om det handlar om motorcykeln, medicinsk- / hemförsäkring, licenser eller pass.
+21. Uistite sa ze mate spravne pneumatiky , ze mate nahradne duse a suciastky , ze mate chranice , lekarnicku , zariadenie na komunikáciu , spravne kufre a vystroj na kemping
 \n\n
-20. Du bör öva och träna för att bygga erfarenhet och kompetens (och respekt för dina egna gränser och på din motorcykel).
+22. jazdite tak, ze si uvedomujute teren , povrch trate a ze na trati mozu byt neocakavane nebezpecenstva.
 \n\n
-21. Du måste se till att du är ordentligt utrustad med rätt däck, reservdelar, skydd, första hjälpen, kommunikationsenheter (och batterier!), bagage och campingutrustning.
+23. zmiernite rychlost .
 \n\n
-22. Kör med en medvetenhet om terrängen, ytan och risken för oväntade faror.
+24. pripravte sa fizycky na jazdu. Ak mate nejake zdravotne problemy , zvazte si to a poraďte sa z lekarom.
 \n\n
-23. Anpassa din hastighet.
+25. na jazdu si zoberte motorku, ktora je pripravená na cestovanie . Oboznamte sa s motorkou a zistite ake veci treba skontrolovat kazdy den po technickej stránke  a naučte sa opravit si motorku v pripade,ze budu opravy nevyhnutne  .
 \n\n
-24. Se till att vara i god fysisk form. Om du har ett medicinskt tillstånd bör du tänka efter noga och  rådfråga läkare.
+26. davajte si na seba a na svoje veci pozor .
 \n\n
-25. Börja resan med en reseklar motorcykel. Bekanta dig med din motorcykel, vilka dagliga kontroller som bör utföras och hur man åtgärdar problem på den..
+27. Súhlasíte, že budete dodržiavať Kódex správania spoločnosti Trans Euro Trail® a budete veľvyslancom zodpovedneho jazdenia .
+
 \n\n
-26. Vidta säkerhetsåtgärder för dina ägodelar och dig själv.
-\n\n
-27. Du samtycker till att följa Trans Euro Trails® uppförandekod och vara ambassadör för ansvarsfull motorcykelkörning.
-\n\n
-28. Acceptera att du är mästare eller mästarinna för ditt eget öde, säkerhet, hälsa och säkerhet. Du tar ansvar för vad som händer.</string>
+28. vyrovnajte sa s tym, ze ste vlastným strojcom svojho stastia a nestastia , svojho zdravia , svojho osudu a svojej bezpecnosti ,Beriete zodpovednosť za všetko, čo sa stane.
+ </string>
 
     <!--NOTIFICATION SERVICE-->
-    <string name="notification_trackupdate_title">GPX-spåruppdatering tillgänglig</string>
-    <string name="notification_trackupdate_message1">Det finns</string>
-    <string name="notification_trackupdate_message2">spåruppdatering(-ar) tillgänglig (-a).</string>
+    <string name="notification_trackupdate_title">Aktualizacia GPX suboru je dostupna </string>
+    <string name="notification_trackupdate_message1">mate</string>
+    <string name="notification_trackupdate_message2">aktualizaciu(e) trate .</string>
 
 </resources>
