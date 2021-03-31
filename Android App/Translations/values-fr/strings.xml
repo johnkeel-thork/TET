@@ -2,6 +2,7 @@
 
 
     <!--NEW NOT TRANSLATED-->
+    
     <!--News Feed-->
     <string name="news_feed_title">News Feed</string>
     <string name="news_feed_button_text">READ</string>
@@ -11,6 +12,10 @@
     <string name="news_feed_notification_message1">You have</string>
     <string name="news_feed_notification_message2">unread news</string>
     <string name="this_news_has_no_link">This news has no link!</string>
+    
+    <!--Track Browser-->
+    <string name="download_progress">Progress:</string>
+    <string name="download_connecting_to_server">Connecting to Server…</string>
     <!--END OF NOT TRANSLATED-->
 
 
