@@ -6,6 +6,11 @@
     <string name="preview_track_button">PREVIEW</string>
     <string name="github_page_button">GITHUB PAGE</string>
     <string name="sending_report">Sending Report</string>
+
+    <!--Track Browser-->
+    <string name="download_progress">Progress:</string>
+    <string name="download_connecting_to_server">Connecting to Server…</string>
+    
     <!--News Feed-->
     <string name="news_feed_title">News Feed</string>
     <string name="news_feed_button_text">READ</string>
