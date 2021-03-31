@@ -1,5 +1,12 @@
 <resources>
 
+    <!--NEW NOT TRANSLATED-->
+    <!--Track Browser-->
+    <string name="download_progress">Progress:</string>
+    <string name="download_connecting_to_server">Connecting to Server…</string>
+    <!--END OF NOT TRANSLATED-->
+
+
     <!--COMMON TO ALL VIEWS-->
     <string name="app_name">TET</string>
     <string name="tet_logo_description">TET LOGO</string>
@@ -147,8 +154,8 @@
     <string name="news_feed_notification_message1">Sinulla on</string>
     <string name="news_feed_notification_message2">lukematonta uutista</string>
     <string name="this_news_has_no_link">Tässä uutisessa ei ole linkkiä!</string>
-    
-    
+
+
     <!--TRACK BROWSER-->
     <string name="filter">Rajaukset</string>
     <string name="track_section">Reitit-osio</string>
