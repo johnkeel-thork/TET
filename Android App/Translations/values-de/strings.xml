@@ -16,7 +16,11 @@
     <string name="news_feed_notification_message1">You have</string>
     <string name="news_feed_notification_message2">unread news</string>
     <string name="this_news_has_no_link">This news has no link!</string>
-    
+
+    <!--Track Browser-->
+    <string name="download_progress">Progress:</string>
+    <string name="download_connecting_to_server">Connecting to Server…</string>
+
     <!--END OF NOT TRANSLATED-->
 
     <!--NEW CHANGED STRINGS-->
@@ -294,3 +298,5 @@ k. In Bosnien, Kroatien und anderen Ländern gibt es noch immer Kriegshinterlass
     <string name="notification_trackupdate_message2">Track Aktualisierung(en) Verfügbar available.</string>
 
 </resources>
+
+
