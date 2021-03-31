@@ -70,6 +70,7 @@
     <string name="contribute_buy_merch">BUY MERCH</string>
     <string name="contribute_app_developer">CONTRIBUTE APP</string>
     <string name="contribute_options_text">These are the ways you can help the TET Project:</string>
+    <string name="github_page_button">GITHUB PAGE</string>
 
 
     <!--REPORT TRACK PROBLEM VIEW-->
@@ -135,7 +136,8 @@
     <string name="no_location_selected_message">Touch and hold anywhere on the map to mark the report location or click the crosshair button in the top right corner to select your current location.</string>
     <string name="no_message_no_photo_title">No Description and no Photo!</string>
     <string name="no_message_no_photo_message">You did not write any description and you did not add any photo, this makes it very hard for us to identify the problem, please consider writing something or adding a photo!</string>
-    <string name="track_length">Track length:</string>
+    <string name="sending_report">Sending Report</string>
+
 
 
     <!--News Feed-->
@@ -147,8 +149,8 @@
     <string name="news_feed_notification_message1">You have</string>
     <string name="news_feed_notification_message2">unread news</string>
     <string name="this_news_has_no_link">This news has no link!</string>
-    
-    
+
+
     <!--TRACK BROWSER-->
     <string name="filter">Filter</string>
     <string name="track_section">Track Section</string>
@@ -208,8 +210,9 @@
     <string name="choose_app">Choose App</string>
     <string name="update_track_button">UPDATE</string>
     <string name="preview_track_button">PREVIEW</string>
-    <string name="github_page_button">GITHUB PAGE</string>
-    <string name="sending_report">Sending Report</string>
+    <string name="track_length">Track length:</string>
+    <string name="download_progress">Progress:</string>
+    <string name="download_connecting_to_server">Connecting to Server…</string>
     <string name="track_browser_subtitle">View and download tracks, by downloading you will be subscribed for update notifications</string>
     <string name="disclaimer_message">By continuing to the download and in using the Trans Euro Trail® files, you are accepting and agree to everything below.
 \n\n
