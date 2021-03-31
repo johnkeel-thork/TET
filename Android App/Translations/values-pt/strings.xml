@@ -4,6 +4,11 @@
     <string name="update_track_button">UPDATE</string>
     <string name="preview_track_button">PREVIEW</string>
     <string name="github_page_button">GITHUB PAGE</string>
+
+    <!--Track Browser-->
+    <string name="download_progress">Progress:</string>
+    <string name="download_connecting_to_server">Connecting to Server…</string>
+
     <!--News Feed-->
     <string name="news_feed_title">News Feed</string>
     <string name="news_feed_button_text">READ</string>
@@ -18,8 +23,8 @@
     <!--NEW CHANGED STRINGS-->
     <string name="track_browser_subtitle">View and download tracks, by downloading you will be subscribed for update notifications</string>
     <!--END OF NOT TRANSLATED-->
-    
-    
+
+
 
 
 
