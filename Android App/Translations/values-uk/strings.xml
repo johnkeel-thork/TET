@@ -1,7 +1,4 @@
 <resources>
-    
-    <!--UKRANIAN-->
-    
 
     <!--NOT TRANSLATED-->
     <string name="choose_app">Choose App</string>
@@ -9,6 +6,11 @@
     <string name="preview_track_button">PREVIEW</string>
     <string name="github_page_button">GITHUB PAGE</string>
     <string name="sending_report">Sending Report</string>
+
+    <!--Track Browser-->
+    <string name="download_progress">Progress:</string>
+    <string name="download_connecting_to_server">Connecting to Server…</string>
+    
     <!--News Feed-->
     <string name="news_feed_title">News Feed</string>
     <string name="news_feed_button_text">READ</string>
@@ -295,6 +297,3 @@ k. У Боснії, Хорватії та інших місцях після в�
     <string name="notification_trackupdate_message2">доступне оновлення трека.</string>
 
 </resources>
-
-
-
