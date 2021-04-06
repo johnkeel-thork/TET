@@ -1,5 +1,14 @@
 <resources>
 
+    <!--NEW NOT TRANSLATED-->
+    <string name="download_progress">Progress:</string>
+    <string name="download_connecting_to_server">Connecting to Server…</string>
+    <!--END OF NOT TRANSLATED-->
+
+
+
+
+
     <!--COMMON TO ALL VIEWS-->
     <string name="app_name">TET</string>
     <string name="tet_logo_description">TET LOGO</string>
@@ -147,8 +156,8 @@
     <string name="news_feed_notification_message1">Tienes</string>
     <string name="news_feed_notification_message2">noticias sin leer</string>
     <string name="this_news_has_no_link">Esta noticia no tiene enlace!</string>
-    
-    
+
+
     <!--TRACK BROWSER-->
     <string name="filter">Filtrar</string>
     <string name="track_section">Sección de Track</string>
@@ -211,75 +220,75 @@
     <string name="github_page_button">PAGINA GITHUB</string>
     <string name="sending_report">Enviando Informe</string>
     <string name="track_browser_subtitle">Visualiza y descarga tracks, al descargar se suscribirá para recibir notificaciones de actualizaciones.</string>
-    <string name="disclaimer_message">Al continuar con la descarga y uso del los ficheros de Trans Euro Trail® files, estás aceptando y estás de acuerdo con lo mostrado a contunuación. 
-\n\n
-1. El fichero GPX es emitido por Trans Euro Trail® Community Interest Company, Company No. 11371199, Dirección: Unit 3, Cragg Road, Mytholmroyd, Hebden Bridge, West Yorkshire, HX7 5HR, United Kingdom.
-\n\n
-2. El fichero GPX es emitido sin cargo (gratis) y es proporcionado "tal cual", con todos los fallos, defectos y errores y sin garantía de ningún tipo.
-\n\n
-3. No se garantiza la precisión del recorrido, ni las coordenadas GPS.
-\n\n
-4. El Trans Euro Trail® es una sugerencia, no una orden.
-\n\n
-5. The Trans Euro Trail® Community Interest Company no representa ni garantiza que los materiales en el sitio o los servicios sean precisos, completos, confiables, actualizados o libres de errores.
-\n\n
-6. The Trans Euro Trail® Community Interest Company no puede representar ni garantizar que el sitio o sus servidores estén libres de virus u otros componentes dañinos.
-\n\n
-7. Usted se compromete a no compartir estos ficheros GPX en ningún servidor o dispositivo para compartir archivos electrónicos.
-\n\n
-8. Debes descargar el GPX más reciente para tu país del viaje justo antes de que lo necesites y descargarás sus actualizaciones, si es fuera necesario, mientras viajas.
-\n\n
-9. Si se desvía hacia un terreno privado, discúlpese y vuelva a la carretera o sendero.
-\n\n
-10. Estos senderos pueden cerrarse temporal o permanentemente con poca antelación según las leyes locales.
-\n\n
-11. No recorra los Tracks más allá de su capacidad. Si no está seguro, bájese de la moto y camine primero por el sendero. Esté preparado para dar la vuelta y encontrar una ruta alternativa.
-\n\n
-12. Montar en senderos solo, especialmente en senderos que no conoce, es realmente imprudente.
-\n\n
-13. Muchos Tracks rara vez se mantienen. Encontrará surcos, hoyos, inundaciones, superficies traicioneras y el peligro ocasional de trampas colocadas deliberadamente por personas a las que no les gustan que circulen las motos por los Tracks.
-\n\n
-14. Cuando usa los tracks y carreteras, está solo. Ejerza su juicio en sus propias habilidades y su propia navegación. Todo lo que la Trans Euro Trail® Community Interest Company puede hacer es mostrarle dónde están algunos de los tracks, pero su legalidad y viabilidad no están confirmadas y pueden cambiar en cualquier momento.
-\n\n
-15. Usted se compromete a respetar y hacer caso a las señales de tráfico, barreras y leyes locales. La decisión de utilizar una carretera o sendero es totalmente suya y acepta que es completamente responsable de su acción o de cualquier infracción de la ley.
-\n\n
-16. La Trans Euro Trail® Community Interest Company no tendrá ninguna responsabilidad por el uso del GPX, que surja directa o indirectamente de su uso o que de alguna manera involucre cualquier reclamación que se presente en cualquier jurisdicción que no sea el Reino Unido, Isla de Man o Islas del Canal.
-\n\n
+    <string name="disclaimer_message">Al continuar con la descarga y uso del los ficheros de Trans Euro Trail® files, estás aceptando y estás de acuerdo con lo mostrado a contunuación.
+    \n\n
+    1. El fichero GPX es emitido por Trans Euro Trail® Community Interest Company, Company No. 11371199, Dirección: Unit 3, Cragg Road, Mytholmroyd, Hebden Bridge, West Yorkshire, HX7 5HR, United Kingdom.
+    \n\n
+    2. El fichero GPX es emitido sin cargo (gratis) y es proporcionado "tal cual", con todos los fallos, defectos y errores y sin garantía de ningún tipo.
+    \n\n
+    3. No se garantiza la precisión del recorrido, ni las coordenadas GPS.
+    \n\n
+    4. El Trans Euro Trail® es una sugerencia, no una orden.
+    \n\n
+    5. The Trans Euro Trail® Community Interest Company no representa ni garantiza que los materiales en el sitio o los servicios sean precisos, completos, confiables, actualizados o libres de errores.
+    \n\n
+    6. The Trans Euro Trail® Community Interest Company no puede representar ni garantizar que el sitio o sus servidores estén libres de virus u otros componentes dañinos.
+    \n\n
+    7. Usted se compromete a no compartir estos ficheros GPX en ningún servidor o dispositivo para compartir archivos electrónicos.
+    \n\n
+    8. Debes descargar el GPX más reciente para tu país del viaje justo antes de que lo necesites y descargarás sus actualizaciones, si es fuera necesario, mientras viajas.
+    \n\n
+    9. Si se desvía hacia un terreno privado, discúlpese y vuelva a la carretera o sendero.
+    \n\n
+    10. Estos senderos pueden cerrarse temporal o permanentemente con poca antelación según las leyes locales.
+    \n\n
+    11. No recorra los Tracks más allá de su capacidad. Si no está seguro, bájese de la moto y camine primero por el sendero. Esté preparado para dar la vuelta y encontrar una ruta alternativa.
+    \n\n
+    12. Montar en senderos solo, especialmente en senderos que no conoce, es realmente imprudente.
+    \n\n
+    13. Muchos Tracks rara vez se mantienen. Encontrará surcos, hoyos, inundaciones, superficies traicioneras y el peligro ocasional de trampas colocadas deliberadamente por personas a las que no les gustan que circulen las motos por los Tracks.
+    \n\n
+    14. Cuando usa los tracks y carreteras, está solo. Ejerza su juicio en sus propias habilidades y su propia navegación. Todo lo que la Trans Euro Trail® Community Interest Company puede hacer es mostrarle dónde están algunos de los tracks, pero su legalidad y viabilidad no están confirmadas y pueden cambiar en cualquier momento.
+    \n\n
+    15. Usted se compromete a respetar y hacer caso a las señales de tráfico, barreras y leyes locales. La decisión de utilizar una carretera o sendero es totalmente suya y acepta que es completamente responsable de su acción o de cualquier infracción de la ley.
+    \n\n
+    16. La Trans Euro Trail® Community Interest Company no tendrá ninguna responsabilidad por el uso del GPX, que surja directa o indirectamente de su uso o que de alguna manera involucre cualquier reclamación que se presente en cualquier jurisdicción que no sea el Reino Unido, Isla de Man o Islas del Canal.
+    \n\n
 
-17. El motociclismo conlleva riesgos. En el motociclismo de aventura además se suma: \n
-a. La cobertura del teléfono móvil puede ser irregular o inexistente, por lo que a la hora de solicitar ayuda puede haber problemas. Si se solicita ayuda, es posible que tengan dificultades para comunicarse con usted y es posible que incurra en alto coste. Las pistas sin pavimentar varían desde grava hasta alquitrán roto, arena, piedra, piedras y hierba. Cada uno conlleva sus propios desafíos de agarre, estabilidad e imprevisibilidad, los cuales varían enormemente con las condiciones climáticas que pueden cambiar rápidamente, especialmente en áreas montañosas. \n
-b. Las exigencias físicas de conducir una motocicleta, cargada o no, fuera de la carretera no deben subestimarse. Si la moto se cae, levantarla nuevamente puede ser un trabajo duro y recuperarlo de una ladera, río o pozo de barro donde se ha deslizado, puede ser agotador. Agregue a la mezcla el clima variable en Europa (a 30 grados bajo cero o más) y el calor, el frío y la deshidratación pueden afectar el rendimiento y hacer un cóctel peligroso cuando se mezclan con la compleja tarea de conducir por pistas. \n
-c. La navegación puede ser un desafío, especialmente sin practicar el uso de un GPS o mapas en movimiento, en el lado "incorrecto" de la carretera o con señales desconocidas. \n
-d. Los problemas mecánicos que se resuelven fácilmente en el propio garaje o en la ciudad de origen, pueden convertirse en un desafío mucho mayor fuera de casa, en un área con poca infraestructura, o sin conocer si hay un distribuidor cercano. \n
-e. Los adultos y los niños de la localidad a visitar (¡y los animales!) pueden no estar familiarizados con las motocicletas o sus capacidades, y juzgar mal las situaciones. Los estándares de conducción y la disciplina varían enormemente y, a menudo, la percepción es de "la ley del más fuerte" con poca consideración que se le presta al pobre que va sobre una moto. \n
-f. La vida silvestre local, tanto doméstica como salvaje, puede presentar riesgos. Los osos y los lobos están presentes en algunas áreas, las serpientes en otras, los renos salvajes vagabundos en el extremo norte y el ganado y los perros están por todas partes. \n
-g. Las leyes y regulaciones siempre están cambiando en todo el continente, por lo que un camino que los contribuyentes pensaban que era legal, puede que ahora no lo sea. Esto puede generar conflictos con las autoridades, las comunidades, los terratenientes u otros usuarios; desde una mirada, un grito o un puño agitado, hasta arresto, enjuiciamiento, litigio, confiscación de motos, multa o pérdida del carnet o la libertad. \n
-h. Los conceptos y la práctica de saneamiento e higiene varían enormemente y las instalaciones médicas pueden ser escasas, poco óptimas o distantes. \n
-I. El lado más sórdido de la humanidad también puede impactarte a través del robo, asalto o fraude. \n
-j. Tenga en cuenta que algunas áreas de Europa del Este también han aumentado la conciencia de las poblaciones móviles tras la afluencia de refugiados, por lo que puede encontrarse con personas desesperadamente pobres o autoridades cautelosas. \n
-k. En Bosnia, Croacia y otros lugares, los restos de la guerra todavía existen en forma de campos de minas sin limpiar. La nieve, el agua y el suelo los desplazan, por lo que alejarse de los senderos bien utilizados puede ser peligroso y, no hace falta decirlo, estúpido.
-\n \n
-18. Todos los senderos y carreteras requieren que usted y su moto estén totalmente asegurados, tengan licencia y sean aptos para circular.
-\n \n
-19. Debe asegurarse de que su documentación esté en orden, ya sea seguro de moto, de avería o médico / repatriación, licencias o pasaportes.
-\n \n
-20. Debes practicar un poco para desarrollar confianza y destreza (y respeto por tus propios límites y los de tu bicicleta).
-\n \n
-21. Debe asegurarse de estar debidamente equipado con las llantas, repuestos, protección, botiquín de primeros auxilios, dispositivos de comunicación (¡y baterías!), equipaje y equipo de campamento adecuados.
-\n \n
-22. Conduzca consciente del terreno, la superficie y anticipándose a peligros inesperados.
-\n \n
-23. Modere su velocidad.
-\n \n
-24. Ponte en forma en moto. Si tiene una afección médica, piense detenidamente y siga algunos consejos médicos.
-\n \n
-25. Empiece el viaje con una moto lista para viajar. Familiarícese con su moto, qué comprobaciones diarias debe realizar y cómo solucionar problemas con ella.
-\n \n
-26. Tome precauciones de seguridad con sus pertenencias y con usted mismo.
-\n \n
-27. Acepta adherirse al Código de conducta de Trans Euro Trail® y ser un embajador del motociclismo responsable.
-\n \n
-28. Acepte que es dueño o dueño de su propio destino, seguridad, salud y seguridad. Asumes la responsabilidad de lo que pase.
+    17. El motociclismo conlleva riesgos. En el motociclismo de aventura además se suma: \n
+    a. La cobertura del teléfono móvil puede ser irregular o inexistente, por lo que a la hora de solicitar ayuda puede haber problemas. Si se solicita ayuda, es posible que tengan dificultades para comunicarse con usted y es posible que incurra en alto coste. Las pistas sin pavimentar varían desde grava hasta alquitrán roto, arena, piedra, piedras y hierba. Cada uno conlleva sus propios desafíos de agarre, estabilidad e imprevisibilidad, los cuales varían enormemente con las condiciones climáticas que pueden cambiar rápidamente, especialmente en áreas montañosas. \n
+    b. Las exigencias físicas de conducir una motocicleta, cargada o no, fuera de la carretera no deben subestimarse. Si la moto se cae, levantarla nuevamente puede ser un trabajo duro y recuperarlo de una ladera, río o pozo de barro donde se ha deslizado, puede ser agotador. Agregue a la mezcla el clima variable en Europa (a 30 grados bajo cero o más) y el calor, el frío y la deshidratación pueden afectar el rendimiento y hacer un cóctel peligroso cuando se mezclan con la compleja tarea de conducir por pistas. \n
+    c. La navegación puede ser un desafío, especialmente sin practicar el uso de un GPS o mapas en movimiento, en el lado "incorrecto" de la carretera o con señales desconocidas. \n
+    d. Los problemas mecánicos que se resuelven fácilmente en el propio garaje o en la ciudad de origen, pueden convertirse en un desafío mucho mayor fuera de casa, en un área con poca infraestructura, o sin conocer si hay un distribuidor cercano. \n
+    e. Los adultos y los niños de la localidad a visitar (¡y los animales!) pueden no estar familiarizados con las motocicletas o sus capacidades, y juzgar mal las situaciones. Los estándares de conducción y la disciplina varían enormemente y, a menudo, la percepción es de "la ley del más fuerte" con poca consideración que se le presta al pobre que va sobre una moto. \n
+    f. La vida silvestre local, tanto doméstica como salvaje, puede presentar riesgos. Los osos y los lobos están presentes en algunas áreas, las serpientes en otras, los renos salvajes vagabundos en el extremo norte y el ganado y los perros están por todas partes. \n
+    g. Las leyes y regulaciones siempre están cambiando en todo el continente, por lo que un camino que los contribuyentes pensaban que era legal, puede que ahora no lo sea. Esto puede generar conflictos con las autoridades, las comunidades, los terratenientes u otros usuarios; desde una mirada, un grito o un puño agitado, hasta arresto, enjuiciamiento, litigio, confiscación de motos, multa o pérdida del carnet o la libertad. \n
+    h. Los conceptos y la práctica de saneamiento e higiene varían enormemente y las instalaciones médicas pueden ser escasas, poco óptimas o distantes. \n
+    I. El lado más sórdido de la humanidad también puede impactarte a través del robo, asalto o fraude. \n
+    j. Tenga en cuenta que algunas áreas de Europa del Este también han aumentado la conciencia de las poblaciones móviles tras la afluencia de refugiados, por lo que puede encontrarse con personas desesperadamente pobres o autoridades cautelosas. \n
+    k. En Bosnia, Croacia y otros lugares, los restos de la guerra todavía existen en forma de campos de minas sin limpiar. La nieve, el agua y el suelo los desplazan, por lo que alejarse de los senderos bien utilizados puede ser peligroso y, no hace falta decirlo, estúpido.
+    \n \n
+    18. Todos los senderos y carreteras requieren que usted y su moto estén totalmente asegurados, tengan licencia y sean aptos para circular.
+    \n \n
+    19. Debe asegurarse de que su documentación esté en orden, ya sea seguro de moto, de avería o médico / repatriación, licencias o pasaportes.
+    \n \n
+    20. Debes practicar un poco para desarrollar confianza y destreza (y respeto por tus propios límites y los de tu bicicleta).
+    \n \n
+    21. Debe asegurarse de estar debidamente equipado con las llantas, repuestos, protección, botiquín de primeros auxilios, dispositivos de comunicación (¡y baterías!), equipaje y equipo de campamento adecuados.
+    \n \n
+    22. Conduzca consciente del terreno, la superficie y anticipándose a peligros inesperados.
+    \n \n
+    23. Modere su velocidad.
+    \n \n
+    24. Ponte en forma en moto. Si tiene una afección médica, piense detenidamente y siga algunos consejos médicos.
+    \n \n
+    25. Empiece el viaje con una moto lista para viajar. Familiarícese con su moto, qué comprobaciones diarias debe realizar y cómo solucionar problemas con ella.
+    \n \n
+    26. Tome precauciones de seguridad con sus pertenencias y con usted mismo.
+    \n \n
+    27. Acepta adherirse al Código de conducta de Trans Euro Trail® y ser un embajador del motociclismo responsable.
+    \n \n
+    28. Acepte que es dueño o dueño de su propio destino, seguridad, salud y seguridad. Asumes la responsabilidad de lo que pase.</string>
 
     <!--NOTIFICATION SERVICE-->
     <string name="notification_trackupdate_title">Actualización de Track GPX Disponible</string>
