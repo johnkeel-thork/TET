@@ -42,7 +42,7 @@ https://play.google.com/store/apps/details?id=com.obsidianpc.tet
 * Privacy Policy:
 https://github.com/johnkeel-thork/TET/blob/master/Privacy.md
 
-## Acknowledgements
+## Donate
 * [Buy Me a Coffee](https://www.buymeacoffee.com/johnkeelthork) : Contribute or thank me by paying me a coffee!
 
 ## Acknowledgements
