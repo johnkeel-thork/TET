@@ -42,7 +42,8 @@ https://play.google.com/store/apps/details?id=com.obsidianpc.tet
 * Privacy Policy:
 https://github.com/johnkeel-thork/TET/blob/master/Privacy.md
 
-
+## Acknowledgements
+* [Buy Me a Coffee](https://www.buymeacoffee.com/johnkeelthork) : Contribute or thank me by paying me a coffee!
 
 ## Acknowledgements
 * [THORK RACING](https://www.thorkracing.com/en/) : For the server (API Hosting)
