@@ -4,18 +4,18 @@
     <!--NEW NOT TRANSLATED-->
     
     <!--News Feed-->
-    <string name="news_feed_title">News Feed</string>
-    <string name="news_feed_button_text">READ</string>
-    <string name="news_img_description">TET NEWS</string>
-    <string name="news_feed_description">Stay in the loop with the latest official TET news.</string>
-    <string name="news_feed_notification_title">New unread TET news</string>
-    <string name="news_feed_notification_message1">You have</string>
-    <string name="news_feed_notification_message2">unread news</string>
-    <string name="this_news_has_no_link">This news has no link!</string>
+    <string name="news_feed_title">Fil d'actualité</string>
+    <string name="news_feed_button_text">LIRE</string>
+    <string name="news_img_description">Actualités TET</string>
+    <string name="news_feed_description">Restez informés des dernières nouvelles sur la TET.</string>
+    <string name="news_feed_notification_title">Nouvelle actualité TET non lue</string>
+    <string name="news_feed_notification_message1">Tu as</string>
+    <string name="news_feed_notification_message2">actualité(s) non lue(s)</string>
+    <string name="this_news_has_no_link">Cette actualité n'a pas de lien!</string>
     
     <!--Track Browser-->
-    <string name="download_progress">Progress:</string>
-    <string name="download_connecting_to_server">Connecting to Server…</string>
+    <string name="download_progress">Progression:</string>
+    <string name="download_connecting_to_server">Connection au Serveur…</string>
     <!--END OF NOT TRANSLATED-->
 
 
