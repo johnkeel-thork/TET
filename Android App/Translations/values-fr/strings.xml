@@ -182,7 +182,7 @@
     <!--TRACK BROWSER-->
     <string name="track_browser_title">Explorateur de Traces</string>
     <string name="tracks_view_subtitle">Informations sur la Trace </string>
-    <string name="open_track">TRACE OUVERT</string>
+    <string name="open_track">OUVRIR TRACE</string>
     <string name="generating_list">Génération d’une liste</string>
     <string name="delete_local_file">SUPPRIMER LE FICHIER</string>
     <string name="gpx_open_dialog">Chargement de fichier GPX</string>
@@ -237,7 +237,7 @@
     <string name="export_edited_gpx">Export du fichier GPX</string>
     <string name="choose_app">Choisir l\'App</string>
     <string name="update_track_button">MISE A JOUR</string>
-    <string name="preview_track_button">APPERCU</string>
+    <string name="preview_track_button">APERCU</string>
     <string name="track_length">Longueur de la trace:</string>
     <string name="disclaimer_message">En téléchargeant (et en utilisant) des fichiers de la Trans Euro Trail®, vous acceptez tous les conditions mentionnées ci-dessous: \n\n
 
