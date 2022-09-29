@@ -182,7 +182,7 @@
     <!--TRACK BROWSER-->
     <string name="track_browser_title">Explorateur de Traces</string>
     <string name="tracks_view_subtitle">Informations sur la Trace </string>
-    <string name="open_track">TRACE OUVERT</string>
+    <string name="open_track">OUVRIR TRACE</string>
     <string name="generating_list">Génération d’une liste</string>
     <string name="delete_local_file">SUPPRIMER LE FICHIER</string>
     <string name="gpx_open_dialog">Chargement de fichier GPX</string>
