@@ -7,7 +7,7 @@
     <string name="news_feed_title">Fil d\'actualité</string>
     <string name="news_feed_button_text">LIRE</string>
     <string name="news_img_description">Actualités TET</string>
-    <string name="news_feed_description">Restez informés des dernières nouvelles sur la TET.</string>
+    <string name="news_feed_description">Restes informé des dernières nouvelles sur la TET.</string>
     <string name="news_feed_notification_title">Nouvelle actualité TET non lue</string>
     <string name="news_feed_notification_message1">Tu as</string>
     <string name="news_feed_notification_message2">actualité(s) non lue(s)</string>
@@ -49,7 +49,7 @@
     <!--Button: Report Route Problems-->
     <string name="report_route_problem_title">Problème sur la Trace</string>
     <string name="report_button_text">SIGNALER</string>
-    <string name="report_route_image_description">Signaler une problème sur la trace</string>
+    <string name="report_route_image_description">Signaler un problème sur la trace</string>
 
 
     <!--Button: Community / Share-->
@@ -141,7 +141,7 @@
     <string name="No_Camera_Permission_Message">Pour utiliser votre appareil photo, vous devez accepter la demande d\'autorisation de l\'appareil photo!</string>
     <string name="camera_request_again">Répéter la demande</string>
     <string name="no_camera_available_title">Aucun appareil photo disponible</string>
-    <string name="no_camera_available_message">Votre appareil n’a pas de camera ou il n’y a pas d’application de photographie d’installée!</string>
+    <string name="no_camera_available_message">Votre appareil n’a pas de camera ou il n’y a pas d’application photo installée!</string>
     <string name="photo_to_be_submited">Photo à envoyer:</string>
     <string name="photo_source">Choisir Source Photo</string>
     <string name="photo_source_message">Prendre une photo avec votre camera ou utiliser un fichier de la galerie?</string>
@@ -198,13 +198,13 @@
     <string name="track_updates_available_message">Voulez-vous les mettre à jour maintenant?</string>
     <string name="updating_tracks">Mise à jour de vos Traces GPX locales </string>
     <string name="track_updated_success_title">Traces GPX mises à jour </string>
-    <string name="track_updated_success_message">Fichiers GPX locaux mis à jour pour:</string>
+    <string name="track_updated_success_message">Fichiers GPX mis à jour pour:</string>
     <string name="track_updated_error_title">Échec de la mise à jour de la Trace GPX </string>
     <string name="track_updated_error_message">Une erreur s\'est produite lors de la mise à jour de vos Traces, veuillez réessayer plus tard.</string>
     <string name="track_view_start_error_title">Erreur lors du démarrage de l\'activité </string>
     <string name="track_view_start_error_message">Une erreur s\'est produite lors du démarrage de cette activité, veuillez réessayer !</string>
-    <string name="track_delete_success_title">Fichier GPX local supprimé </string>
-    <string name="track_delete_success_message">Le fichier GPX local pour ce pays a été supprimé, vous pouvez le télécharger à nouveau plus tard!</string>
+    <string name="track_delete_success_title">Fichiers GPX supprimés </string>
+    <string name="track_delete_success_message">Le fichier GPX pour ce pays a été supprimé, vous pouvez le télécharger à nouveau!</string>
     <string name="track_delete_error_title">Erreur de suppression de fichier GPX local </string>
     <string name="track_delete_error_message">Un problème est survenu lors de la suppression de votre fichier local, veuillez réessayer!</string>
     <string name="track_download_error_title">Erreur de téléchargement de fichier </string>
@@ -237,7 +237,7 @@
     <string name="export_edited_gpx">Export du fichier GPX</string>
     <string name="choose_app">Choisir l\'App</string>
     <string name="update_track_button">MISE A JOUR</string>
-    <string name="preview_track_button">APERCU</string>
+    <string name="preview_track_button">AFFICHER</string>
     <string name="track_length">Longueur de la trace:</string>
     <string name="disclaimer_message">En téléchargeant (et en utilisant) des fichiers de la Trans Euro Trail®, vous acceptez tous les conditions mentionnées ci-dessous: \n\n
 
