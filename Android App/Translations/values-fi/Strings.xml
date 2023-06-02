@@ -2,8 +2,8 @@
 
     <!--NEW NOT TRANSLATED-->
     <!--Track Browser-->
-    <string name="download_progress">Progress:</string>
-    <string name="download_connecting_to_server">Connecting to Server…</string>
+    <string name="download_progress">Käsitellään:</string>
+    <string name="download_connecting_to_server">Yhdistetään palvelimeen...</string>
     <!--END OF NOT TRANSLATED-->
 
 
@@ -177,7 +177,7 @@
     <string name="delete_local_file">POISTA TIEDOSTO</string>
     <string name="gpx_open_dialog">Ladataan GPX-tiedostoa</string>
     <string name="fetching_country_list">Haetaan Maa-listaa</string>
-    <string name="track_download_progress">Latadataan reittiä</string>
+    <string name="track_download_progress">Ladataan reittiä</string>
     <string name="track_browser_noInternet_title">Ei verkkoyhteyttä - Offline-tila</string>
     <string name="track_browser_noInternet_message">Ei verkkoyhteyttä tai yhteydenmuodostuksessa palvelimeen on ongelma. Käytettävissä ainoastaan aiemmin ladatut reitit (paikalliset tiedostot).</string>
     <string name="track_download_offline_title">Ladatut reitit</string>
