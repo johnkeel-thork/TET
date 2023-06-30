@@ -1,0 +1,289 @@
+<resources>
+
+    <!--COMMON TO ALL VIEWS-->
+    <string name="app_name">TET</string>
+    <string name="tet_logo_description">TET LOGO</string>
+    <string name="top_message_text">Yollara Saygı. Çevreye Saygı. Seyahat ettiğimiz Topluluklara saygı.</string>
+   <string name="footer_tet_website">Website</string>
+    <string name="footer_tet_contribute">Destek Ol</string>
+    <string name="ok">Tamam</string>
+    <string name="Wrong_Activity_Key">Bu aktivite için yanlış anahtar!</string>
+    <string name="Null_Key">Bu aktiviteyi doğrulamak için anahtar yok!</string>
+    <string name="No_Bundle_Extras">Bu aktivite için ekstra paket bilgisi yok!</string>
+    <string name="cancel">İptal</string>
+    <string name="Camera">Kamera</string>
+    <string name="Local_Gallery_File">Galeri</string>
+    <string name="yes">Evet</string>
+    <string name="later">Daha Sonra</string>
+
+    <!--MAIN VIEW-->
+    <string name="pending_notification">0</string>
+    <!--Button: TET Tracks Browser-->
+    <string name="browser_tet_tracks_title">TET Yolları</string>
+    <string name="browser_button_text">Gözat</string>
+    <string name="browser_image_description">TET Yollarına Gözat</string>
+    <!--Button: Report Route Problems-->
+    <string name="report_route_problem_title">Rota Sorunu Bildir</string>
+    <string name="report_button_text">Rapor et</string>
+    <string name="report_route_image_description">Rota Sorunlarını Bildir</string>
+    <!--Button: Community / Share-->
+    <string name="join_title">Topluluk</string>
+    <string name="join_button_text">Katıl</string>
+    <string name="join_community_image_description">Çevrimiçi Topluluk</string>
+    <!--Splash Message-->
+    <string name="tet_splash_message">Avrupa'nın Epik Motosiklet Macerası</string>
+    <string name="touch_to_continue">Devam etmek için dokunun</string>
+    <!--END OF MAIN VIEW-->
+
+    <!--COMMUNITY VIEW-->
+    <!--Button: Facebook Group-->
+    <string name="facebook_tet_group_title">Facebook TET Grubu</string>
+    <string name="facebook_icon_image_description">TET Facebook İkonu</string>
+    <string name="facebook_description">Diğer TET üyeleriyle tanışın ve deneyimlerinizi paylaşın</string>
+    <!--Button: Online Forum Page-->
+    <string name="tet_forum_title">TET Çevrimiçi Forumu</string>
+    <string name="tet_forum_description">Rehberler, raporlar ve sağlıklı tartışmalar için yer</string>
+    <string name="tet_forum_icon_image_description">Resmi TET çevrimiçi forumu</string>
+    <string name="tet_contribute_image_description">TET Katkısı</string>
+    <!--Button: Code of Conduct-->
+    <string name="tet_code_icon_description">Topluluk Kuralları</string>
+    <string name="tet_code_title">Topluluk Kuralları</string>
+    <string name="tet_code_description">TET Topluluğu Kuralları</string>
+    <!--Button: Integrations-->
+    <string name="tet_integration_title">TET Entegre Uygulamaları</string>
+    <string name="tet_integration_description">TET Uygulaması özelliklerini entegre eden Android Uygulamaları</string>
+
+    <!--Integration VIEW-->
+    <string name="integration_title">TET Uygulamasını Entegre Eden Uygulamalar</string>
+    <string name="integration_description">Bir uygulama TET App API ile entegre olduğunda kullanıcı deneyimi gelişir. Basit, hızlı ve sorunsuz!</string>
+    <string name="integration_example_video">ÖRNEK VİDEO</string>
+    <string name="integration_contact">BİZİMLE İLETİŞİME GEÇİN</string>
+    <string name="integration_add_yours">TET ile ilgili navigasyon veya diğer ilgili uygulamalar geliştiriyor musunuz? API'mizi entegre etmek ister misiniz? Bize ulaşın ve bunun hakkında bilgi verin! Ayrıca örnek videoyu da kontrol edin.</string>
+    <string name="download">İNDİR</string>
+    <string name="drivemode_title">Sürüş Modu Kontrol Paneli</string>
+    <string name="drivemode_description">Motosikletiniz için yüksek derecede özelleştirilebilir bir kontrol paneli! Seyahat günlükleri oluşturun, çevrimdışı haritalarla GPX dosyalarında gezinin, GPX dosyalarını kaydedin, konumları kaydedin ve görüntüleyin, ayrıntılı hava durumu bilgileri alın ve çok daha fazlasını yapın.\n\nTET uygulamasının yaratıcısı tarafından geliştirilen bu uygulama, ultimate TET çözümü olmayı hedefliyor!</string>
+
+    <!--CONTRIBUTE VIEW-->
+    <string name="contribute_title">İlk yakıt dolumunuzu burada yapın&#8230;</string>
+    <string name="contribute_subtitle">Trans Euro Trail®, tutkuyla beslenir, sürücüler tarafından bakım yapılır ve SİZİN desteğinizle desteklenir. En önemlisi, ücretsizdir ve öyle kalmayı amaçlar!</string>
+    <string name="contribute_text_button">DAHA FAZLA OKU</string>
+    <string name="contribute_buy_merch">ÜRÜN AL</string>
+    <string name="contribute_app_developer">UYGULAMAYA KATKIDA BULUN</string>
+    <string name="contribute_options_text">TET Projesine yardımcı olabileceğiniz yöntemler şunlardır:</string>
+    <string name="github_page_button">GITHUB SAYFASI</string>
+
+
+
+    <!--REPORT TRACK PROBLEM VIEW-->
+    <string name="title_activity_maps">Harita</string>
+    <string name="marker_report_location">Bu Konumu Raporla</string>
+    <string name="map_instructions">Haritada herhangi bir yere dokunup basılı tutarak o konumda bir işaretçi yerleştirebilirsiniz. Sağ üst köşede bulunan nişan simgesine tıklayarak mevcut konumunuza atlayabilirsiniz. Çevrimdışı moddaysanız, lütfen sorunun olduğu konumda fiziksel olarak bulunduğunuzdan ve geçerli bir GPS sinyalinizin olduğundan emin olun.</string>
+    <string name="error_fetching_countryname_title">Ülke adı alınamıyor</string>
+    <string name="error_fetching_countryname_message">Ülke adınız alınamıyor, lütfen bir sonraki adımda ülkeyi manuel olarak seçin.</string>
+    <string name="report_second_step_next">SONRAKİ ADIM</string>
+    <string name="report_step2_title">Sorun Rapor Et</string>
+    <string name="report_location_text">Koordinatlar:</string>
+    <string name="report_finish_next">SONRAKİ ADIM</string>
+    <string name="linesman_name">Hat Sorumlusu:</string>
+    <string name="linesman_email">e-posta</string>
+    <string name="problem_input_description">Sorun hakkında küçük bir açıklama yazmak için buraya dokunun</string>
+    <string name="problem_input_box_title">Rapor Açıklaması</string>
+    <string name="Track_Country_Text">TET Rotası Ülkesi:</string>
+    <string name="Track_Problem_Text">TET Rotası Sorun Türü:</string>
+    <string name="Error_Starting_Report">Rapor başlatılırken hata oluştu</string>
+    <string name="ConfirmCountry">Lütfen ülke adını onaylayın</string>
+    <string name="Manually_Select_Country">Ülke adı otomatik olarak algılanamadı. Lütfen rapor ettiğiniz TET Rotası için ülkeyi manuel olarak seçin!</string>
+    <string name="submit_title_text">TET Rotası Sorun Raporunu Gönder</string>
+    <string name="report_resume_text">Seçilen Rota:</string>
+    <string name="the_problem_is">Sorun Türü:</string>
+    <string name="problem_at">Sorun Koordinatları:</string>
+    <string name="report_submit">GÖNDER</string>
+    <string name="Add_Photo_Title">Rapora Fotoğraf Ekle:</string>
+    <string name="No_Camera_Permission_Title">Kamera İzni Gerekiyor</string>
+    <string name="No_Camera_Permission_Message">Kameranızı kullanmak için kamera izni talebini kabul etmeniz gerekmektedir!</string>
+    <string name="camera_request_again">Yeniden İste</string>
+    <string name="no_camera_available_title">Kamera Mevcut Değil</string>
+    <string name="no_camera_available_message">Cihazınızda ya kamera bulunmuyor ya da kamera uygulaması yüklü değil!</string>
+    <string name="photo_to_be_submited">Gönderilecek Fotoğraf:</string>
+    <string name="photo_source">Fotoğraf Kaynağını Seçin</string>
+    <string name="photo_source_message">Kameranızı kullanarak fotoğraf çekin veya galerinizden bir yerel dosya seçin?</string>
+    <string name="report_submited_success_title">Raporunuz iletildi!</string>
+    <string name="report_submited_success_message">TET Rotası sorun raporunuzu gönderdiğiniz için teşekkür ederiz, en kısa sürede işlem yapılacaktır.</string>
+    <string name="error_restart_title">Bir şeyler yanlış gitti!</string>
+    <string name="error_restart_message">Lütfen bir rapor oluşturmayı tekrar deneyin!</string>
+    <string name="error_upload_later_title">Sunucuya bağlanılamadı</string>
+    <string name="error_upload_later_message">Bu kayıt kaydedilecek ve sunucuya bağlanılabilir durumda olduğunda gönderilecektir.</string>
+    <string name="No_Internet_title">Çevrimdışı Rapor Modu</string>
+    <string name="No_Internet_message">İnternet bağlantısı yok, ancak sorun olmaz, harita düzgün görüntülenmeyebilir, ancak konumunuz hala yakalanır. Kayıt, İnternet erişimine sahip olduğunuzda gönderilecek bir Bekleyen Rapor olarak da kaydedilir.</string>
+    <string name="pending_report_title_1">Bekleyen</string>
+    <string name="pending_report_title_2">raporunuz var</string>
+    <string name="pending_report_message">Şimdi göndermek istiyor musunuz?</string>
+    <string name="pending_success_title">Bekleyen raporlar gönderildi!</string>
+    <string name="pending_success_message">Tüm bekleyen raporlarınızı başarıyla gönderdiniz, teşekkür ederiz.</string>
+    <string name="pending_error_title">Rapor gönderilirken hata!</string>
+    <string name="pending_error_message">Raporunuz gönderilirken bir sorun oluştu, lütfen daha sonra tekrar deneyin.</string>
+    <string name="storage_permissions_title">Depolama İzni Gerekiyor</string>
+    <string name="storage_permissions_message">Rapor için bir fotoğrafı kaydetmek için depolama izni talebini kabul etmeniz gerekmektedir!</string>
+    <string name="map_style_description">Harita Stilini Seçin</string>
+    <string name="map_style_dialog_title">Harita Stili Seçin</string>
+    <string name="using_sats">Kullanılıyor</string>
+    <string name="satas_out_of">uydularından</string>
+    <string name="available_in_view">görüş alanında mevcut</string>
+    <string name="gps_accuracy">GPS Doğruluğu</string>
+    <string name="gps_accuracy_message_wait">Lütfen konumunuzu kullanarak rapor vermek için daha iyi GPS doğruluğunu bekleyin!</string>
+    <string name="gps_accuracy_message_not_bad">GPS doğruluğu, konumunuzu kullanarak rapor vermek için yeterli olmalı.</string>
+    <string name="gps_accuracy_message_good">GPS doğruluğu iyidir, mevcut konumu kullanarak rapor verebilirsiniz!</string>
+    <string name="no_location_selected_title">Konum Seçilmedi</string>
+    <string name="no_location_selected_message">Rapor konumunu belirlemek için haritada herhangi bir yere dokunun ve basılı tutun veya sağ üst köşedeki çapraz düğmeye tıklayarak mevcut konumunuzu seçin.</string>
+    <string name="no_message_no_photo_title">Açıklama ve Fotoğraf Yok!</string>
+    <string name="no_message_no_photo_message">Hiçbir açıklama yazmadınız ve hiçbir fotoğraf eklemediniz, bu durumda sorunu tanımlamamız çok zorlaşır, lütfen bir şeyler yazmayı veya bir fotoğraf eklemeyi düşünün!</string>
+    <string name="sending_report">Rapor Gönderiliyor</string>
+
+    <!--News Feed-->
+    <string name="news_feed_title">Haber Akışı</string>
+    <string name="news_feed_button_text">OKU</string>
+    <string name="news_img_description">TET HABERLERİ</string>
+    <string name="news_feed_description">En güncel resmi TET haberleriyle bilgi sahibi olun.</string>
+    <string name="news_feed_notification_title">Okunmamış yeni TET haberleri</string>
+    <string name="news_feed_notification_message1">Okunmamış</string>
+    <string name="news_feed_notification_message2">haberiniz var</string>
+    <string name="this_news_has_no_link">Bu haberin bir bağlantısı yok!</string>
+
+
+    <!--TRACK BROWSER-->
+    <string name="filter">Filtrele</string>
+    <string name="track_section">Rota Bölümü</string>
+    <string name="section">Bölüm</string>
+    <string name="options">Seçenekler</string>
+    <string name="dialog_remove_section">Bu bölümü kaldırmak mı yoksa sadece görünür yapmak mı istersiniz?</string>
+    <string name="remove">Kaldır</string>
+    <string name="only_visible">Sadece Görünür</string>
+    <string name="rebuilding_waypoints">Yol Noktalarını Yeniden Oluşturma</string>
+    <string name="rebuild_waypoints">Yol Noktalarını Yeniden Oluştur</string>
+    <string name="remove_waypoints_dialog_title">Görünür Bölümlerin Dışındaki Yol Noktalarını Kaldırılsın mı?</string>
+    <string name="remove_waypoints_dialog_message">Bu, tüm yol noktalarını temizleyecek ve görünür bölümlere artık yakın olmayanları kaldıracaktır.</string>
+    <string name="no">Hayır</string>
+    <string name="export_edited_gpx">Düzenlenmiş GPX dosyasını dışa aktarılıyor</string>
+    <string name="track_browser_title">Rota Tarayıcısı</string>
+    <string name="tracks_view_subtitle">Rota Bilgileri</string>
+    <string name="open_track">ROTAYI AÇ</string>
+    <string name="generating_list">Liste Oluşturuluyor</string>
+    <string name="delete_local_file">DOSYAYI SİL</string>
+    <string name="gpx_open_dialog">GPX Dosyası Yükleniyor</string>
+    <string name="fetching_country_list">Ülkeler Listesi Alınıyor</string>
+    <string name="track_download_progress">Rota İndiriliyor</string>
+    <string name="track_browser_noInternet_title">Bağlantı Yok - Çevrimdışı Mod</string>
+    <string name="track_browser_noInternet_message">İnternet erişimi yok veya sunucuya bağlanmada bir sorun oluştu. Yalnızca önceden indirilmiş rotalarınızı (yerel dosyalar) görüntüleyebilirsiniz.</string>
+    <string name="track_download_offline_title">İndirilmiş Rotalar</string>
+    <string name="track_download_offline_subtitle">Çevrimdışı modda önceden indirilmiş dosyaları görüntüleme.</string>
+    <string name="track_last_updated">Rota son güncelleme tarihi:</string>
+    <string name="no_offline_files">Hiç GPX Rota bulunamadı!</string>
+    <string name="track_updates_available_title">Güncellemeler mevcut!</string>
+    <string name="track_updates_available_message">Şimdi güncellemek istiyor musunuz?</string>
+    <string name="updating_tracks">Yerel GPX Rotalarınız Güncelleniyor</string>
+    <string name="track_updated_success_title">GPX Rotalar Güncellendi</string>
+    <string name="track_updated_success_message">Yerel GPX dosya(lar)ı güncellendi:</string>
+    <string name="track_updated_error_title">GPX Rota Güncelleme Hatası</string>
+    <string name="track_updated_error_message">Rotanızı güncelleme sırasında bir hata oluştu, lütfen daha sonra tekrar deneyin.</string>
+    <string name="track_view_start_error_title">Etkinliği Başlatma Hatası</string>
+    <string name="track_view_start_error_message">Bu etkinliği başlatma sırasında bir hata oluştu, lütfen tekrar deneyin!</string>
+    <string name="track_delete_success_title">Yerel GPX dosyası silindi</string>
+    <string name="track_delete_success_message">Bu ülke için yerel GPX dosyası silindi, isterseniz daha sonra tekrar indirebilirsiniz!</string>
+    <string name="track_delete_error_title">Yerel GPX dosyası silme hatası</string>
+    <string name="track_delete_error_message">Yerel dosyanızı silme sırasında bir sorun oluştu, lütfen tekrar deneyin!</string>
+    <string name="track_download_error_title">Dosya İndirme Hatası</string>
+    <string name="track_download_error_message">GPX dosyasını indirme sırasında bir hata oluştu, lütfen daha sonra tekrar deneyin.</string>
+    <string name="gpx_parse_error_title">GPX Dosyası Açma Hatası</string>
+    <string name="gpx_parse_error_message">GPX dosyasını okuma konusunda bir sorun oluştu. Lütfen tekrar açmayı deneyin!</string>
+    <string name="gpx_open_noapp_title">Uyumlu Bir Uygulama Yüklü Değil</string>
+    <string name="gpx_open_noapp_message">GPX dosyalarını işleyebilen bir uygulama yok, lütfen Play Store'dan bir uygulama indirin.</string>
+    <string name="disclaimer_DontShowAgain">Tekrar gösterme</string>
+    <string name="no_permissions_title">GPS İzni Yok</string>
+    <string name="no_permissions_message">GPS izni olmadan çalışmayacak. Bilginiz olsun, HERHANGİ bir kullanıcı verisi toplamıyoruz!</string>
+    <string name="disclaimer_title">İndirmeden önce bunu okuyun</string>
+    <string name="disclaimer_agree">Kabul et</string>
+    <string name="disclaimer_agree_dontshow">Kabul Et ve Bir Daha Gösterme</string>
+    <string name="disclaimer_refuse">Reddet</string>
+    <string name="zoom_mode_enabled">Yakınlaştırma Modu Etkin</string>
+    <string name="pan_mode_enabled">Kaydırma Modu Etkin</string>
+    <string name="choose_app">Uygulama Seç</string>
+    <string name="update_track_button">GÜNCELLE</string>
+    <string name="preview_track_button">ÖNİZLEME</string>
+    <string name="track_length">Rota uzunluğu:</string>
+    <string name="download_progress">İlerleme:</string>
+    <string name="download_connecting_to_server">Sunucuya Bağlanılıyor...</string>
+    <string name="track_browser_subtitle">Rotaları görüntüleyin ve indirin, indirdiğinizde güncelleme bildirimlerine abone olursunuz</string>
+    <string name="disclaimer_message">Trans Euro Trail® dosyalarını indirmeye ve kullanmaya devam ederek aşağıdaki her şeyi kabul etmiş olursunuz.
+\n\n
+1. GPX dosyası, Trans Euro Trail® Topluluğu İlgisi Şirketi tarafından verilmekte olup, Şirket No: 11371199, Adres: Unit 3, Cragg Road, Mytholmroyd, Hebden Bridge, Batı Yorkshire, HX7 5HR, Birleşik Krallık'ta bulunmaktadır.
+\n\n
+2. GPX dosyası ücretsiz olarak sunulmakta olup, tüm hatalar, kusurlar ve hatalarla birlikte "olduğu gibi" sağlanmaktadır ve herhangi bir garanti olmaksızın sunulmaktadır.
+\n\n
+3. Rota'nın doğruluğu garanti edilmemekte olup, GPS koordinatları da garanti edilmemektedir.
+\n\n
+4. Trans Euro Trail®, bir yönlendirme değil bir öneridir.
+\n\n
+5. Trans Euro Trail® Topluluğu İlgisi Şirketi, sitenin veya hizmetlerin materyallerinin doğru, eksiksiz, güvenilir, güncel veya hatasız olduğunu temsil veya garanti etmemektedir.
+\n\n
+6. Trans Euro Trail® Topluluğu İlgisi Şirketi, sitenin veya sunucularının virüs veya diğer zararlı bileşenlerden arındırıldığını temsil veya garanti edemez.
+\n\n
+7. Bu GPX dosyasını herhangi bir elektronik dosya paylaşım cihazında veya sunucuda paylaşmayacağınızı taahhüt edersiniz.
+\n\n
+8. Gerektiği durumlarda yolculuk yapacağınız ülkenin en güncel GPX dosyasını ihtiyaç duyduğunuz anda indirecek ve seyahat ederken güncellemeleri indireceğinizi taahhüt edersiniz.
+\n\n
+9. Özel araziye girdiğinizde, özür dileyin ve tekrar yola veya rotaya dönün.
+\n\n
+10. Bu rotalar yerel yasalara göre kısa sürede geçici veya kalıcı olarak kapatılabilir.
+\n\n
+11. Kendi yeteneklerinizin ötesinde rotalara gitmeyin. Emin değilseniz, bisikletinizden inin ve öncelikle rotayı yürüyerek keşfedin. Geri dönmeye ve alternatif bir rota bulmaya hazır olun.
+\n\n
+12. Özellikle bilmediğiniz rotalarda yalnızca rotaya çıkmak gerçekten akılsızcadır.
+\n\n
+13. Birçok ülke rotası nadiren bakım yapılır. Çukurlar, delikler, sel, hain yüzeyler ve rotaları kullanmak istemeyen kişiler tarafından kasıtlı olarak yerleştirilen zaman zaman tuzak teşkil edebilecek tehlikelerle karşılaşabilirsiniz.
+\n\n
+14. Rotaları ve yolları kullandığınızda kendi başınızasınızdır. Kendi becerilerinizde ve kendi navigasyonunuzda karar verirsiniz. Trans Euro Trail® Topluluğu İlgisi Şirketi sadece rotaların nerede olduğunu size gösterebilir, ancak bunların yasallığı ve geçerliliği onaylanmamıştır ve aniden değişebilir.
+\n\n
+15. Yol işaretlerine, bariyerlere ve yerel yasalara saygı göstermeyi taahhüt edersiniz. Bir yol veya rota kullanma kararı tamamen sizindir ve eylemleriniz veya yasaya aykırılıklarınızdan tam sorumluluk kabul ettiğinizi kabul edersiniz.
+\n\n
+16. Trans Euro Trail® Topluluğu İlgisi Şirketi, GPX'in kullanımıyla doğrudan veya dolaylı olarak ilgili olarak Birleşik Krallık, Man Adası veya Kanal Adaları dışında herhangi bir yargı yerinde getirilen herhangi bir Talep ile ilgili olarak hiçbir sorumluluk taşımaz.
+\n\n
+17. Motosiklet kullanımı riskler içerir. Macera motorculuğuna birde bunlara eklenir:\n
+a. Cep telefonu kapsama alanı parçalı veya mevcut olmayabilir, bu nedenle yardım çağırma sınırlı olabilir. Yardım çağırıldığında sizi bulmakta zorluk yaşayabilir ve yüksek maliyetlerle karşılaşabilirsiniz. Yol dışı pistler çakıl, kırık asfalt, kum, taş, büyük kaya veya çim gibi farklı zorlukları beraberinde getirir. Bunların hepsi, özellikle dağlık bölgelerde hava koşulları hızla değişebileceğinden, tutuş, stabilite ve öngörülemezlik konularında büyük farklılıklar gösterir.\n
+b. Yol dışında, yüklenmiş veya yüklenmemiş olsanız bile, motosiklet kullanmanın fiziksel zorlukları hafife alınmamalıdır. Eğer motosikletinizi düşürürseniz, kaldırmak zor olabilir ve kaydığı bir tepe, nehir veya çamur çukurundan geri almak yorucu olabilir. Buna ek olarak, Avrupa'da değişken iklim - sıfırın altında 30'ların üzerine kadar - ve sıcaklık, soğukluk ve dehidrasyon performansı etkileyebilir ve dış mekan sürüşünün karmaşık göreviyle karıştırıldığında tehlikeli bir karışım oluşturabilir.\n
+c. Navigasyon, özellikle hareket halindeyken GPS veya haritaları kullanmayı pratik yapmadan, "yanlış" tarafa geçerek veya tanıdık olmayan bir alfabeyle yönlendirme levhaları ile yapmak zor olabilir.\n
+d. Kendi garajınızda veya ev şehrinizde kolayca çözülen mekanik sorunlar, zayıf altyapıya veya satıcı bilgisine sahip bir bölgeden uzakta daha büyük bir meydan okuma haline gelebilir. \n
+e. Yerel yetişkinler ve çocuklar (ve hayvanlar!) motosikletleri veya yeteneklerini tanıyamayabilir ve durumu yanlış değerlendirebilir. Sürüş standartları ve disiplinleri büyük ölçüde değişir ve genellikle algı, motosiklet üzerindeki küçük adamın önemine çok az değer verilir. \n
+f. Yerel vahşi yaşam, hem evcil hem de yabani, riskler oluşturabilir. Ayılar ve kurtlar bazı bölgelerde bulunur, diğerlerinde yılanlar, kuzeyin uçlarında vahşi dolaşan geyikler ve sığırlar ve köpekler her yerdedir. \n
+g. Yasalar ve düzenlemeler sürekli olarak kıtada değişmektedir, bu nedenle katkıda bulunanların yasal olduğunu düşündüğü bir rota artık öyle olmayabilir. Bu, otoritelerle, toplumlarla, mülk sahipleriyle veya diğer kullanıcılarla çatışmaya neden olabilir - bir bakış, bir bağırış veya sallanan bir yumruktan tutuklama, kovuşturma, dava, bisikletin el konması, para cezası veya lisans veya özgürlük kaybına kadar her şey olabilir.\n
+h. Hijyen ve hijyen uygulamaları kıtalar arasında büyük farklılıklar gösterir ve tıbbi imkanlar sınırlı, alt düzeyde veya uzaktır.\n
+i. İnsanlığın kötü tarafı da size hırsızlık, saldırı veya dolandırıcılık yoluyla etki edebilir.\n
+j. Doğu Avrupa'nın bazı bölgelerinde mülteci akınının ardından mobil nüfusa yönelik artan bir farkındalık da mevcuttur, bu nedenle umutsuz durumda olan insanlarla veya dikkatli yetkililerle karşılaşabilirsiniz.\n
+k. Bosna, Hırvatistan ve diğer yerlerde, temizlenmemiş mayın tarlalarının bir kalıntısı halen var. Kar, su ve toprak tüm bunları kaydırır, bu nedenle kullanılmayan yaygın rotalardan sapmak tehlikeli ve gereksiz olduğunu söylemeye gerek yok.
+\n\n
+18. Tüm rotalar ve yollar için motosikletinizin tam olarak sigortalı olduğundan emin olun. Dikkatlice öğrenin, araştırın ve uygulayın ve bir dizi beceri geliştirin: yol becerileri, mekanik beceriler, kendi yemeğinizi yapma ve temizlik yapma becerileri, çadır kurma, navigasyon, dil becerileri, acil durum becerileri, sağlık ve güvenlik. İyi ekipmanınızın, içerdiği sağlık ve güvenlik malzemelerinin ve bunları kullanma yeteneğinizin tam olarak farkında olun.
+\n\n
+19. Lütfen, insanların, yerel toplumların, yerel ekonominin, ormanların ve çiftliklerin ve Avrupa'nın çeşitli yerlerinde ve dışında doğal ve kültürel mirasın uygun kullanımı ve korunması konularında her zaman özverili ve saygılı olun.
+\n\n
+20.Kendi sınırlarınızı ve motosikletinizin sınırlarını saygıyla karşılamak için özgüven ve yetkinlik kazanmak için pratik yapmalısınız.
+\n\n
+21. Doğru lastikler, yedek parçalar, koruyucu ekipmanlar, ilk yardım seti, iletişim cihazları (ve pilleri!), bagaj ve kamp malzemeleri gibi uygun ekipmanlarla donatılmış olmanızı sağlamalısınız.
+\n\n
+22. Arazi, yol yüzeyi ve beklenmedik tehlikelere karşı farkındalıkla sürüş yapmalısınız.
+\n\n
+23. Hızınızı ılımlı bir şekilde ayarlamanız önemlidir.
+\n\n
+24. Motosiklete uygun bir şekilde hazır olmalısınız. Herhangi bir sağlık sorununuz varsa dikkatli düşünmeli ve tıbbi tavsiye almalısınız.
+\n\n
+25. Yolculuğa hazır bir motosikletle başlamalısınız. Motosikletinizi günlük olarak kontrol etmeyi, sorunları nasıl çözeceğinizi öğrenmeyi unutmayın.
+\n\n
+26. Eşyalarınız ve kendiniz için güvenlik önlemleri almalısınız.
+\n\n
+27. Trans Euro Trail® Davranış Kurallarına uymayı ve sorumlu bir motosiklet elçisi olmayı kabul etmelisiniz.
+\n\n
+28. Kendi kaderinizin, güvenliğinizin, sağlığınızın ve güvenliğinizin efendisi olduğunuzu kabul etmelisiniz. Herhangi bir durumda sorumluluğu üstlenmek size düşer.</string>
+
+    <!--NOTIFICATION SERVICE-->
+    <string name="notification_trackupdate_title">GPX Track Update Available</string>
+    <string name="notification_trackupdate_message1">There is</string>
+    <string name="notification_trackupdate_message2">track update(s) available.</string>
+</resources>
